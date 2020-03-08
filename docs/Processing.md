@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |78|[@corbanbrook](https://github.com/corbanbrook)/[**spectrotune**](https://github.com/corbanbrook/spectrotune)|Performs pitch detection on a polyphonic audio source and outputs to MIDI||
-|68|[@i-make-robots](https://github.com/i-make-robots)/[**weaving_algorithm**](https://github.com/i-make-robots/weaving_algorithm)|weaving thread between nails in a circle to produce an image.||
+|69|[@i-make-robots](https://github.com/i-make-robots)/[**weaving_algorithm**](https://github.com/i-make-robots/weaving_algorithm)|weaving thread between nails in a circle to produce an image.||
 |12|[@gamesbyangelina](https://github.com/gamesbyangelina)/[**contrabot**](https://github.com/gamesbyangelina/contrabot)|A hot game prototype jammed out at AI & Games Dagstuhl Seminar 2015. ||
 |7|[@awwong1](https://github.com/awwong1)/[**evolve.io**](https://github.com/awwong1/evolve.io)|Evolv.io source code, from Carykh https://www.youtube.com/channel/UC9z7EZAbkphEMg0SP7rw44A||
 |7|[@vkuchinov](https://github.com/vkuchinov)/[**dataVisualization**](https://github.com/vkuchinov/dataVisualization)|an ongoing research based on http://mathworld.wolfram.com/topics/DataVisualization.html||

@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |616|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
-|553|[@mirego](https://github.com/mirego)/[**accent**](https://github.com/mirego/accent)|▴ Open-source, self-hosted, developer-oriented translation tool|[:arrow_upper_right:](https://www.accent.reviews)|
-|385|[@mirego](https://github.com/mirego)/[**elixir-boilerplate**](https://github.com/mirego/elixir-boilerplate)|⚗ The stable base upon which we build our Elixir projects at Mirego.|[:arrow_upper_right:](https://open.mirego.com)|
+|560|[@mirego](https://github.com/mirego)/[**accent**](https://github.com/mirego/accent)|▴ Open-source, self-hosted, developer-oriented translation tool|[:arrow_upper_right:](https://www.accent.reviews)|
+|387|[@mirego](https://github.com/mirego)/[**elixir-boilerplate**](https://github.com/mirego/elixir-boilerplate)|⚗ The stable base upon which we build our Elixir projects at Mirego.|[:arrow_upper_right:](https://open.mirego.com)|
 |346|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
-|336|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
+|338|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
 |240|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
-|220|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
+|221|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
 |197|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
 |185|[@jkakar](https://github.com/jkakar)/[**aws-elixir**](https://github.com/jkakar/aws-elixir)|AWS clients for Elixir||
-|156|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
+|157|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
 |154|[@talentdeficit](https://github.com/talentdeficit)/[**exjsx**](https://github.com/talentdeficit/exjsx)|json for elixir||
 |136|[@GesJeremie](https://github.com/GesJeremie)/[**faker-elixir**](https://github.com/GesJeremie/faker-elixir)|:droplet: FakerElixir generates fake data for you. |[:arrow_upper_right:](https://hexdocs.pm/faker_elixir_octopus/FakerElixir.html)|
 |117|[@joshnuss](https://github.com/joshnuss)/[**xml_builder**](https://github.com/joshnuss/xml_builder)|Elixir library for generating XML||
@@ -25,21 +25,21 @@
 |46|[@ChrisYammine](https://github.com/ChrisYammine)/[**ex_trello**](https://github.com/ChrisYammine/ex_trello)|An Elixir library for interfacing with the Trello API||
 |45|[@yrashk](https://github.com/yrashk)/[**genx**](https://github.com/yrashk/genx)|Elixir-style library for most important OTP functionality||
 |44|[@GBH](https://github.com/GBH)/[**loaded.bike**](https://github.com/GBH/loaded.bike)|Phoenix/Elixir web app for exploring and sharing bicycle touring routes|[:arrow_upper_right:](http://loaded.bike)|
-|38|[@mirego](https://github.com/mirego)/[**absinthe_error_payload**](https://github.com/mirego/absinthe_error_payload)|Bridges the gap between Ecto and Absinthe for mutation payload|[:arrow_upper_right:](https://open.mirego.com)|
+|41|[@mirego](https://github.com/mirego)/[**absinthe_error_payload**](https://github.com/mirego/absinthe_error_payload)|Bridges the gap between Ecto and Absinthe for mutation payload|[:arrow_upper_right:](https://open.mirego.com)|
 |36|[@jkakar](https://github.com/jkakar)/[**aws-codegen**](https://github.com/jkakar/aws-codegen)|Code generator for AWS clients in Elixir.||
-|35|[@mirego](https://github.com/mirego)/[**credo_naming**](https://github.com/mirego/credo_naming)|🏷 A suite of Credo checks to enforce naming best practices in an Elixir project|[:arrow_upper_right:](https://open.mirego.com)|
+|36|[@mirego](https://github.com/mirego)/[**credo_naming**](https://github.com/mirego/credo_naming)|🏷 A suite of Credo checks to enforce naming best practices in an Elixir project|[:arrow_upper_right:](https://open.mirego.com)|
 |32|[@GBH](https://github.com/GBH)/[**phoenix_bootstrap_form**](https://github.com/GBH/phoenix_bootstrap_form)|Bootstrap 4 Forms for Phoenix/Elixir Applications||
 |31|[@mirego](https://github.com/mirego)/[**credo_filename_consistency**](https://github.com/mirego/credo_filename_consistency)|📚 A Credo check to ensure filename consistency across an Elixir project|[:arrow_upper_right:](https://open.mirego.com)|
-|28|[@adam12](https://github.com/adam12)/[**ecto_network**](https://github.com/adam12/ecto_network)|Ecto types to support MACADDR and Network extensions provided by Postgrex.||
+|29|[@adam12](https://github.com/adam12)/[**ecto_network**](https://github.com/adam12/ecto_network)|Ecto types to support MACADDR and Network extensions provided by Postgrex.||
 |26|[@joshnuss](https://github.com/joshnuss)/[**blip**](https://github.com/joshnuss/blip)|A fault-tolerant and concurrent StatsD server||
 |22|[@adam12](https://github.com/adam12)/[**phoenix_mtm**](https://github.com/adam12/phoenix_mtm)|A small collection of functions to make it easier working with many_to_many Ecto associations and checkboxes to create them.|[:arrow_upper_right:](https://hex.pm/packages/phoenix_mtm)|
 |22|[@expede](https://github.com/expede)/[**quick_chat**](https://github.com/expede/quick_chat)|A quick demo CLI chat app for a workshop||
 |22|[@ttvd](https://github.com/ttvd)/[**elixir-xxhash**](https://github.com/ttvd/elixir-xxhash)|Pure Elixir implementation of xxHash.||
-|19|[@amacgregor](https://github.com/amacgregor)/[**crimson_commerce**](https://github.com/amacgregor/crimson_commerce)|Experimental Ecommerce Platform build with Elixir and Phoenix||
+|20|[@amacgregor](https://github.com/amacgregor)/[**crimson_commerce**](https://github.com/amacgregor/crimson_commerce)|Experimental Ecommerce Platform build with Elixir and Phoenix||
 |18|[@eljojo](https://github.com/eljojo)/[**ex_chain**](https://github.com/eljojo/ex_chain)|Simple Markov Chain written in Elixir||
 |18|[@joshnuss](https://github.com/joshnuss)/[**xuber2**](https://github.com/joshnuss/xuber2)|An example ridesharing app built with Elixir||
+|17|[@aforward](https://github.com/aforward)/[**safetybox**](https://github.com/aforward/safetybox)|Security oriented helper functions for Elixir||
 |17|[@yrashk](https://github.com/yrashk)/[**properex**](https://github.com/yrashk/properex)|PropEr support for Elixir||
-|16|[@aforward](https://github.com/aforward)/[**safetybox**](https://github.com/aforward/safetybox)|Security oriented helper functions for Elixir||
 |15|[@aforward](https://github.com/aforward)/[**version_tasks**](https://github.com/aforward/version_tasks)|elixir mix task to automate the incrementation of your project||
 |15|[@mirego](https://github.com/mirego)/[**dispatch**](https://github.com/mirego/dispatch)|🦀 Dispatch makes sure pull requests within a GitHub organization get reviewed by the right people.|[:arrow_upper_right:](https://open.mirego.com)|
 |14|[@expede](https://github.com/expede)/[**operator**](https://github.com/expede/operator)|Helpers for defining Elixir operators||
@@ -50,15 +50,16 @@
 |12|[@quiqupltd](https://github.com/quiqupltd)/[**ex_schedule**](https://github.com/quiqupltd/ex_schedule)|Run tasks in a an interval basis||
 |12|[@yrashk](https://github.com/yrashk)/[**exmsgpack**](https://github.com/yrashk/exmsgpack)|MessagePack for Elixir||
 |12|[@yrashk](https://github.com/yrashk)/[**exreloader**](https://github.com/yrashk/exreloader)|Automatic module reloader for Elixir||
+|11|[@exAspArk](https://github.com/exAspArk)/[**batch_loader**](https://github.com/exAspArk/batch_loader)|:zap: Powerful tool for avoiding N+1 DB or HTTP queries||
 |11|[@simonprev](https://github.com/simonprev)/[**solage**](https://github.com/simonprev/solage)|Basic tools to implement a JSON API with awesome features taken from the jsonapi.org spec||
 |11|[@yrashk](https://github.com/yrashk)/[**exconfig**](https://github.com/yrashk/exconfig)|Configuration library for Elixir||
 |10|[@aforward](https://github.com/aforward)/[**ar2ecto**](https://github.com/aforward/ar2ecto)|Migrate your active record migrations to ecto compatible migrations||
 |10|[@azohra](https://github.com/azohra)/[**quack**](https://github.com/azohra/quack)|An Elixir Logger backend for slack||
 |10|[@bbc](https://github.com/bbc)/[**origin_simulator**](https://github.com/bbc/origin_simulator)|A tool to simulate a (flaky) upstream origin during load and stress tests.||
-|10|[@exAspArk](https://github.com/exAspArk)/[**batch_loader**](https://github.com/exAspArk/batch_loader)|:zap: Powerful tool for avoiding N+1 DB or HTTP queries||
 |10|[@harmon25](https://github.com/harmon25)/[**sonex**](https://github.com/harmon25/sonex)|Elixir Sonos Controller||
 |10|[@remiprev](https://github.com/remiprev)/[**plug_letsencrypt**](https://github.com/remiprev/plug_letsencrypt)|PlugLetsEncrypt responds to Let’s Encrypt domain verification requests.||
 |9|[@azohra](https://github.com/azohra)/[**SlackDB**](https://github.com/azohra/SlackDB)|A key/value database courtesy of Slack 🙃||
+|9|[@mirego](https://github.com/mirego)/[**mix_audit**](https://github.com/mirego/mix_audit)|🕵️‍♀️ MixAudit provides a mix deps.audit task to scan a project Mix dependencies for known Elixir security vulnerabilities|[:arrow_upper_right:](https://open.mirego.com)|
 |9|[@quiqupltd](https://github.com/quiqupltd)/[**libelection**](https://github.com/quiqupltd/libelection)|Library to perform leader election in a cluster of containerized Elixir nodes||
 |9|[@remiprev](https://github.com/remiprev)/[**plug_best**](https://github.com/remiprev/plug_best)|PlugBest parses HTTP “Accept-*” headers and returns the best match based on a list of values.|[:arrow_upper_right:](https://hex.pm/packages/plug_best)|
 |9|[@tellerhq](https://github.com/tellerhq)/[**tauth_proxy**](https://github.com/tellerhq/tauth_proxy)|||
@@ -75,13 +76,13 @@
 |7|[@aforward](https://github.com/aforward)/[**elixir_nats**](https://github.com/aforward/elixir_nats)|Elixir client for NATS, the cloud native messaging system. https://nats.io||
 |7|[@expede](https://github.com/expede)/[**inspector_gadget**](https://github.com/expede/inspector_gadget)|Helpers for debugging & inspecting code flow||
 |7|[@houshuang](https://github.com/houshuang)/[**plug_lti**](https://github.com/houshuang/plug_lti)|LTI Plug for Elixir||
+|7|[@nested-tech](https://github.com/nested-tech)/[**api_ex_ercise**](https://github.com/nested-tech/api_ex_ercise)|A training repository designed to teach you to build an elixir umbrella application with an API in it.||
 |7|[@xymbol](https://github.com/xymbol)/[**otp-examples**](https://github.com/xymbol/otp-examples)|Code examples for the “OTP, Concurrency and Testing Strategies” talk, as presented in Montreal Elixir, April 12th, 2017.|[:arrow_upper_right:](https://speakerdeck.com/xymbol/otp-concurrency-and-testing-strategies)|
 |7|[@yrashk](https://github.com/yrashk)/[**somlos**](https://github.com/yrashk/somlos)|Application upgrades DSL||
 |6|[@EQuimper](https://github.com/EQuimper)/[**instagram-clone-phoenix-react-native-demo**](https://github.com/EQuimper/instagram-clone-phoenix-react-native-demo)|||
 |6|[@barodeur](https://github.com/barodeur)/[**culdechouette**](https://github.com/barodeur/culdechouette)|Cul de Chouette online game from Kaamelott tv show||
 |6|[@fracek](https://github.com/fracek)/[**gdex**](https://github.com/fracek/gdex)|Coinbase Pro Rest and Websocket Client for Elixir 🚀🌕||
 |6|[@matehat](https://github.com/matehat)/[**cabane.io.FizzBuzz**](https://github.com/matehat/cabane.io.FizzBuzz)|||
-|6|[@nested-tech](https://github.com/nested-tech)/[**api_ex_ercise**](https://github.com/nested-tech/api_ex_ercise)|A training repository designed to teach you to build an elixir umbrella application with an API in it.||
 |5|[@EQuimper](https://github.com/EQuimper)/[**programming-phoenix-1.4**](https://github.com/EQuimper/programming-phoenix-1.4)|||
 |5|[@QuiqUpLTD](https://github.com/QuiqUpLTD)/[**ex_schedule**](https://github.com/QuiqUpLTD/ex_schedule)|Run tasks in a an interval basis||
 |5|[@aforward](https://github.com/aforward)/[**gen_template_api_client**](https://github.com/aforward/gen_template_api_client)|A template for building API clients to 3rd party REST applications||

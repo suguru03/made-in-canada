@@ -11,10 +11,10 @@
 |12|[@chrisbolin](https://github.com/chrisbolin)/[**skycoins**](https://github.com/chrisbolin/skycoins)|🚁💰|[:arrow_upper_right:](http://bolin.co/skycoins)|
 |12|[@fosskers](https://github.com/fosskers)/[**elm-touch**](https://github.com/fosskers/elm-touch)|Extended Touch library for Elm. ||
 |11|[@jxxcarlson](https://github.com/jxxcarlson)/[**quad**](https://github.com/jxxcarlson/quad)|Generative art project in Elm based on subdivision of quadrilaterals||
-|10|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-markdown**](https://github.com/jxxcarlson/elm-markdown)|Pure elm markdown parser with optional extensions for math, poetry, etc.||
 |10|[@ktonon](https://github.com/ktonon)/[**aws-sdk-elm**](https://github.com/ktonon/aws-sdk-elm)|Deprecated. Replaced by elm-aws-core and elm-aws-generate||
 |10|[@ktonon](https://github.com/ktonon)/[**elm-crypto**](https://github.com/ktonon/elm-crypto)|Cryptography with HMAC and SHA-2|[:arrow_upper_right:](http://package.elm-lang.org/packages/ktonon/elm-crypto/latest)|
 |7|[@ktonon](https://github.com/ktonon)/[**elm-jsonwebtoken**](https://github.com/ktonon/elm-jsonwebtoken)|JSON Web Token encoder and decoder||
+|6|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-editor**](https://github.com/jxxcarlson/elm-editor)|A pure Elm text editor based on Martin Janiczek's demo|[:arrow_upper_right:](https://jxxcarlson.github.io/app/text-editor/index.html)|
 |5|[@fosskers](https://github.com/fosskers)/[**2048**](https://github.com/fosskers/2048)|An implementation of 2048 in Elm.||
 |5|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-graph**](https://github.com/jxxcarlson/elm-graph)|Simple charts in Elm (line bar)||
 |5|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-platform-worker-example**](https://github.com/jxxcarlson/elm-platform-worker-example)|An experiment to learn how to use Elm's  `Platform.worker`||

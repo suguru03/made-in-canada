@@ -7,6 +7,7 @@
 |11|[@elbaschid](https://github.com/elbaschid)/[**salt-states**](https://github.com/elbaschid/salt-states)|||
 |8|[@keeyon2](https://github.com/keeyon2)/[**Scheme-Interpreter**](https://github.com/keeyon2/Scheme-Interpreter)|Scheme Interpreter that will Interpret itself||
 |7|[@feeley](https://github.com/feeley)/[**define-library**](https://github.com/feeley/define-library)|define-library implementation for Gambit||
+|4|[@feeley](https://github.com/feeley)/[**pyffi**](https://github.com/feeley/pyffi)|Gambit Scheme library to interface to Python||
 |4|[@rudolfolah](https://github.com/rudolfolah)/[**guix-node-packages**](https://github.com/rudolfolah/guix-node-packages)|GNU Guix packages for Node.js projects, an alternative to NPM.||
 |3|[@feeley](https://github.com/feeley)/[**univ-lib**](https://github.com/feeley/univ-lib)|Library for Gambit compiler universal backend||
 

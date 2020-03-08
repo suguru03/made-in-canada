@@ -1,21 +1,21 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|804|[@fosskers](https://github.com/fosskers)/[**aura**](https://github.com/fosskers/aura)|A secure, multilingual package manager for Arch Linux and the AUR.|[:arrow_upper_right:](https://gitter.im/aurapm/aura)|
+|808|[@fosskers](https://github.com/fosskers)/[**aura**](https://github.com/fosskers/aura)|A secure, multilingual package manager for Arch Linux and the AUR.|[:arrow_upper_right:](https://gitter.im/aurapm/aura)|
 |203|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
 |155|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
 |131|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |130|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
+|111|[@larrytheliquid](https://github.com/larrytheliquid)/[**Lemmachine**](https://github.com/larrytheliquid/Lemmachine)|REST'ful web framework in Agda||
 |108|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
-|107|[@larrytheliquid](https://github.com/larrytheliquid)/[**Lemmachine**](https://github.com/larrytheliquid/Lemmachine)|REST'ful web framework in Agda||
 |105|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
 |78|[@zhangchiqing](https://github.com/zhangchiqing)/[**beginner-friendly-haskell-for-web-development**](https://github.com/zhangchiqing/beginner-friendly-haskell-for-web-development)|A book about real world web development in beginner friendly Haskell||
-|69|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
+|70|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
 |54|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
 |49|[@csabahruska](https://github.com/csabahruska)/[**jhc-components**](https://github.com/csabahruska/jhc-components)|JHC Haskell compiler split into reusable components||
 |42|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm**](https://github.com/JoeyEremondi/haskelm)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |29|[@csabahruska](https://github.com/csabahruska)/[**gpipe-quake3**](https://github.com/csabahruska/gpipe-quake3)|Quake 3 map viewer in Haskell using GPipe|[:arrow_upper_right:](https://wiki.haskell.org/GPipe)|
+|29|[@fosskers](https://github.com/fosskers)/[**mapalgebra**](https://github.com/fosskers/mapalgebra)|Efficient, polymorphic Map Algebra in Haskell.||
 |28|[@avieth](https://github.com/avieth)/[**Algebraic**](https://github.com/avieth/Algebraic)|Experiments on the construction of functions||
-|28|[@fosskers](https://github.com/fosskers)/[**mapalgebra**](https://github.com/fosskers/mapalgebra)|Efficient, polymorphic Map Algebra in Haskell.||
 |26|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-xmonad**](https://github.com/thayerwilliams/msi-xmonad)|xmonad.hs (Xmonad >= 0.9) and related config files for my MSI Wind netbook|[:arrow_upper_right:](http://cinderwick.ca)|
 |25|[@WillSewell](https://github.com/WillSewell)/[**pusher-http-haskell**](https://github.com/WillSewell/pusher-http-haskell)|Pusher Haskell HTTP Library||
 |23|[@singpolyma](https://github.com/singpolyma)/[**unexceptionalio**](https://github.com/singpolyma/unexceptionalio)|IO without any PseudoExceptions|[:arrow_upper_right:](http://hackage.haskell.org/package/unexceptionalio)|
@@ -40,6 +40,7 @@
 |14|[@singpolyma](https://github.com/singpolyma)/[**wai-session**](https://github.com/singpolyma/wai-session)|Flexible session middleware for WAI||
 |14|[@takeoutweight](https://github.com/takeoutweight)/[**shade-todomvc**](https://github.com/takeoutweight/shade-todomvc)|Example of using Haste and React.js to implement TodoMVC||
 |12|[@gregorycollins](https://github.com/gregorycollins)/[**attoparsec-iteratee**](https://github.com/gregorycollins/attoparsec-iteratee)|An adapter to convert attoparsec Parsers into blazing-fast Iteratees||
+|11|[@danieljharvey](https://github.com/danieljharvey)/[**tmux-mate**](https://github.com/danieljharvey/tmux-mate)|Launch and manage your Tmux sessions from Dhall files.||
 |11|[@eschnett](https://github.com/eschnett)/[**mpi-hs**](https://github.com/eschnett/mpi-hs)|MPI bindings for Haskell||
 |11|[@fosskers](https://github.com/fosskers)/[**microlens-aeson**](https://github.com/fosskers/microlens-aeson)|Lenses and Traversals for Aeson, based on Microlens.||
 |11|[@singpolyma](https://github.com/singpolyma)/[**cheogram**](https://github.com/singpolyma/cheogram)|Groupchat for everyone|[:arrow_upper_right:](https://cheogram.com)|
@@ -57,7 +58,6 @@
 |8|[@bbc](https://github.com/bbc)/[**haskell-workshop**](https://github.com/bbc/haskell-workshop)|Haskell workshop that will hopefully contribute something back to the open-source community||
 |8|[@csabahruska](https://github.com/csabahruska)/[**GFXDemo**](https://github.com/csabahruska/GFXDemo)|||
 |8|[@csabahruska](https://github.com/csabahruska)/[**p4f-control-flow-analysis**](https://github.com/csabahruska/p4f-control-flow-analysis)|Haskell implementation of P4F Control-Flow Analysis||
-|8|[@danieljharvey](https://github.com/danieljharvey)/[**tmux-mate**](https://github.com/danieljharvey/tmux-mate)|Launch and manage your Tmux sessions from Dhall files.||
 |8|[@diogob](https://github.com/diogob)/[**haskell-tools**](https://github.com/diogob/haskell-tools)|Website to view haskell projects from Github|[:arrow_upper_right:](http://haskelltools.com)|
 |8|[@shepheb](https://github.com/shepheb)/[**go10c**](https://github.com/shepheb/go10c)|Compiler for a dialect of Go to DCPU-16 assembly||
 |7|[@Aiden01](https://github.com/Aiden01)/[**opal**](https://github.com/Aiden01/opal)|A statically-typed programming language that compiles to LLVM bytecode||
@@ -72,6 +72,7 @@
 |6|[@csabahruska](https://github.com/csabahruska)/[**lambdacube-stunts**](https://github.com/csabahruska/lambdacube-stunts)|Remake of Stunts 4D Sports Driving in Haskell||
 |6|[@diogob](https://github.com/diogob)/[**pasta**](https://github.com/diogob/pasta)|PostgreSQL AST Assembler||
 |6|[@fosskers](https://github.com/fosskers)/[**crypto-classical**](https://github.com/fosskers/crypto-classical)|A Haskell library for using and attacking Classical Encryption Schemes.||
+|6|[@fosskers](https://github.com/fosskers)/[**fosskers.ca**](https://github.com/fosskers/fosskers.ca)|My personal site.|[:arrow_upper_right:](https://www.fosskers.ca)|
 |6|[@gregorycollins](https://github.com/gregorycollins)/[**cabal2macpkg**](https://github.com/gregorycollins/cabal2macpkg)|A program to generate OSX installer files for Cabal libraries (Haskell Platform)||
 |6|[@larrytheliquid](https://github.com/larrytheliquid)/[**spire**](https://github.com/larrytheliquid/spire)|The Spire Programming Language||
 |6|[@nitrix](https://github.com/nitrix)/[**ni**](https://github.com/nitrix/ni)|Ni programming language||

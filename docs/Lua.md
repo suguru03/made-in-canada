@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|758|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
+|761|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
+|497|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
 |494|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
-|493|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
-|353|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
-|301|[@fangchangma](https://github.com/fangchangma)/[**sparse-to-dense**](https://github.com/fangchangma/sparse-to-dense)|ICRA 2018  "Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image" (Torch Implementation)||
-|150|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
+|352|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
+|304|[@fangchangma](https://github.com/fangchangma)/[**sparse-to-dense**](https://github.com/fangchangma/sparse-to-dense)|ICRA 2018  "Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image" (Torch Implementation)||
+|151|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
 |107|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
 |96|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
 |62|[@karai17](https://github.com/karai17)/[**lapis-chan**](https://github.com/karai17/lapis-chan)|Image board software written in Lua using the Lapis web framework.|[:arrow_upper_right:](http://lapchan.moe)|
@@ -15,7 +15,7 @@
 |32|[@z3t0](https://github.com/z3t0)/[**zwm**](https://github.com/z3t0/zwm)|macOS window manager running on Hammerspoon||
 |31|[@pelevesque](https://github.com/pelevesque)/[**draft**](https://github.com/pelevesque/draft)|A drafting module for LÖVE 2D. https://love2d.org||
 |29|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**torchx**](https://github.com/nicholas-leonard/torchx)|torch extensions||
-|25|[@slime73](https://github.com/slime73)/[**love-snippets**](https://github.com/slime73/love-snippets)|Snippets of Lua code useful in the LÖVE game framework.||
+|26|[@slime73](https://github.com/slime73)/[**love-snippets**](https://github.com/slime73/love-snippets)|Snippets of Lua code useful in the LÖVE game framework.||
 |22|[@inikdom](https://github.com/inikdom)/[**seq2seq-chatbot**](https://github.com/inikdom/seq2seq-chatbot)|An implementation of Google's seq2seq architecture for building a chatbot.||
 |22|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**drmad**](https://github.com/nicholas-leonard/drmad)|Hyper-parameter Optimization with DrMAD and Hypero||
 |21|[@castorini](https://github.com/castorini)/[**VDPWI-NN-Torch**](https://github.com/castorini/VDPWI-NN-Torch)|Very Deep Pairwise Word Interaction Neural Networks for modeling textual similarity (He and Lin, NAACL/HLT 2016)||
@@ -37,11 +37,11 @@
 |11|[@vocksel](https://github.com/vocksel)/[**prefabs**](https://github.com/vocksel/prefabs)|Roblox plugin for making reuseable assets and keeping them in sync across your game||
 |10|[@ashleydavies](https://github.com/ashleydavies)/[**EGS**](https://github.com/ashleydavies/EGS)|||
 |10|[@sam-github](https://github.com/sam-github)/[**lunit**](https://github.com/sam-github/lunit)|unit testing for lua||
+|10|[@svermeulen](https://github.com/svermeulen)/[**nvim-moonmaker**](https://github.com/svermeulen/nvim-moonmaker)|Moonscript plugin support for neovim||
 |10|[@travisjeffery](https://github.com/travisjeffery)/[**awesome-wm**](https://github.com/travisjeffery/awesome-wm)|My configuration of the awesome window manager.||
 |9|[@NorthernMan54](https://github.com/NorthernMan54)/[**homebridge-mculed**](https://github.com/NorthernMan54/homebridge-mculed)|Homebridge plugin to control ws2812 RGB+W Led Strips with a nodemcu/esp8266||
 |9|[@castorini](https://github.com/castorini)/[**SM-CNN-Torch**](https://github.com/castorini/SM-CNN-Torch)|Torch implementation of Severyn and Moschitti's SIGIR 2015 CNN model for question answering||
 |9|[@durandtibo](https://github.com/durandtibo)/[**wsl.resnet.torch**](https://github.com/durandtibo/wsl.resnet.torch)|Torch implementation for weakly supervised learning of ResNet||
-|9|[@svermeulen](https://github.com/svermeulen)/[**nvim-moonmaker**](https://github.com/svermeulen/nvim-moonmaker)|Moonscript plugin support for neovim||
 |8|[@bartman](https://github.com/bartman)/[**wmii-lua**](https://github.com/bartman/wmii-lua)|Wmii extended with lua scripts|[:arrow_upper_right:](http://www.jukie.net/~bart/blog/tag/wmiirc-lua)|
 |8|[@coolacid](https://github.com/coolacid)/[**ComputerCraft**](https://github.com/coolacid/ComputerCraft)|Scripts Related to Minecraft ComputerCraft||
 |8|[@karai17](https://github.com/karai17)/[**love-spriter**](https://github.com/karai17/love-spriter)|A Spriter implementation for LOVE||

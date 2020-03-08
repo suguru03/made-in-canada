@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|225|[@amlwwalker](https://github.com/amlwwalker)/[**got-qt**](https://github.com/amlwwalker/got-qt)|A framework for building cross platform GUI interfaces in Go and QML||
-|130|[@Furkanzmc](https://github.com/Furkanzmc)/[**QML-UI-Animations**](https://github.com/Furkanzmc/QML-UI-Animations)|QML implementations of various UI concepts by various artists||
+|226|[@amlwwalker](https://github.com/amlwwalker)/[**got-qt**](https://github.com/amlwwalker/got-qt)|A framework for building cross platform GUI interfaces in Go and QML||
+|131|[@Furkanzmc](https://github.com/Furkanzmc)/[**QML-UI-Animations**](https://github.com/Furkanzmc/QML-UI-Animations)|QML implementations of various UI concepts by various artists||
 |123|[@Furkanzmc](https://github.com/Furkanzmc)/[**QML-Loaders**](https://github.com/Furkanzmc/QML-Loaders)|Loading animation implementations in QML||
-|111|[@Zren](https://github.com/Zren)/[**plasma-applet-eventcalendar**](https://github.com/Zren/plasma-applet-eventcalendar)||[:arrow_upper_right:](https://store.kde.org/p/998901/)|
-|28|[@Zren](https://github.com/Zren)/[**plasma-applet-tiledmenu**](https://github.com/Zren/plasma-applet-tiledmenu)||[:arrow_upper_right:](https://store.kde.org/p/1160672/)|
-|25|[@Furkanzmc](https://github.com/Furkanzmc)/[**Everyday-QML**](https://github.com/Furkanzmc/Everyday-QML)|This is a repository in which I store my QML examples that I do (hopefully) everyday||
+|113|[@Zren](https://github.com/Zren)/[**plasma-applet-eventcalendar**](https://github.com/Zren/plasma-applet-eventcalendar)||[:arrow_upper_right:](https://store.kde.org/p/998901/)|
+|29|[@Zren](https://github.com/Zren)/[**plasma-applet-tiledmenu**](https://github.com/Zren/plasma-applet-tiledmenu)||[:arrow_upper_right:](https://store.kde.org/p/1160672/)|
+|26|[@Furkanzmc](https://github.com/Furkanzmc)/[**Everyday-QML**](https://github.com/Furkanzmc/Everyday-QML)|This is a repository in which I store my QML examples that I do (hopefully) everyday||
 |18|[@Zren](https://github.com/Zren)/[**plasma-wallpapers**](https://github.com/Zren/plasma-wallpapers)|||
 |16|[@Zren](https://github.com/Zren)/[**plasma-applet-todolist**](https://github.com/Zren/plasma-applet-todolist)||[:arrow_upper_right:](https://store.kde.org/p/1152230/)|
 |13|[@Zren](https://github.com/Zren)/[**plasma-applet-commandoutput**](https://github.com/Zren/plasma-applet-commandoutput)||[:arrow_upper_right:](https://store.kde.org/p/1166510/)|
