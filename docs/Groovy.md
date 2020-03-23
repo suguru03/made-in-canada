@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |130|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
-|59|[@f2prateek](https://github.com/f2prateek)/[**gradle-android-javafmt-plugin**](https://github.com/f2prateek/gradle-android-javafmt-plugin)|Augomagically format Java files (deprecated)||
+|60|[@f2prateek](https://github.com/f2prateek)/[**gradle-android-javafmt-plugin**](https://github.com/f2prateek/gradle-android-javafmt-plugin)|Augomagically format Java files (deprecated)||
 |39|[@f2prateek](https://github.com/f2prateek)/[**android-checkstyle-plugin**](https://github.com/f2prateek/android-checkstyle-plugin)|Configures the checkstyle plugin for Android projects||
 |26|[@kellyrob99](https://github.com/kellyrob99)/[**Jenkins-api-tour**](https://github.com/kellyrob99/Jenkins-api-tour)|Code demonstrating how to interact with the API layer of a Jenkins/Hudson build server.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/03/27/hooking-into-the-jenkinshudson-api/)|
 |24|[@StephenOTT](https://github.com/StephenOTT)/[**camunda-prometheus-process-engine-plugin**](https://github.com/StephenOTT/camunda-prometheus-process-engine-plugin)|Monitor your KPIs!!!  Camunda BPM Process Engine Plugin providing Prometheus Monitoring, Metric classes for various BPMN use, Grafana Annotations, and HTTPServer data export: Used to generate Prometheus metrics anywhere in the Engine, including BPMN, CMN, and DMN engines and instances.||
@@ -41,4 +41,5 @@
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**groovy-google-collections**](https://github.com/kellyrob99/groovy-google-collections)|A comparison of Groovy, Java and Google-Collections for brevity and fluency.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/05/15/achieving-groovy-like-fluency-in-java-with-google-collections/)|
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**running-groovy**](https://github.com/kellyrob99/running-groovy)|Examples of how to dynamically execute Groovy and Java code.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2009/11/21/different-flavors-of-embedded-groovy-in-java-apps-or-how-to-make-your-java-groovier/)|
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**stackoverflow-api-grails**](https://github.com/kellyrob99/stackoverflow-api-grails)|A demo of the StackExchange APIs|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/06/02/a-grails-app-demoing-the-stackexchange-api/)|
+|3|[@mirego](https://github.com/mirego)/[**trikot.kword**](https://github.com/mirego/trikot.kword)|Localization library for Kotlin Multiplatform. Tailor-made for Accent.|[:arrow_upper_right:](https://open.mirego.com)|
 

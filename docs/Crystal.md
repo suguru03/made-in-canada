@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |59|[@dgodd](https://github.com/dgodd)/[**concourse-summary**](https://github.com/dgodd/concourse-summary)|||
-|44|[@jetrockets](https://github.com/jetrockets)/[**shrine.cr**](https://github.com/jetrockets/shrine.cr)|File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby.|[:arrow_upper_right:](https://jetrockets.github.io/shrine.cr/)|
+|45|[@jetrockets](https://github.com/jetrockets)/[**shrine.cr**](https://github.com/jetrockets/shrine.cr)|File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby.|[:arrow_upper_right:](https://jetrockets.github.io/shrine.cr/)|
+|18|[@westonganger](https://github.com/westonganger)/[**form_builder.cr**](https://github.com/westonganger/form_builder.cr)|Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap||
 |17|[@Virtual-Machine](https://github.com/Virtual-Machine)/[**llvm-tutorial-book**](https://github.com/Virtual-Machine/llvm-tutorial-book)|In Progress. Building a front end for llvm.||
-|17|[@westonganger](https://github.com/westonganger)/[**form_builder.cr**](https://github.com/westonganger/form_builder.cr)|Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap||
 |10|[@bentranter](https://github.com/bentranter)/[**turbolinks**](https://github.com/bentranter/turbolinks)|Crystal engine for Turbolinks integration.|[:arrow_upper_right:](https://bentranter.github.io/turbolinks/)|
 |7|[@jetrockets](https://github.com/jetrockets)/[**content_disposition.cr**](https://github.com/jetrockets/content_disposition.cr)|Crystal shard to create HTTP Content-Disposition headers with proper escaping/encoding of filenames|[:arrow_upper_right:](https://jetrockets.github.io/content_disposition.cr/)|
 |3|[@Becojo](https://github.com/Becojo)/[**unicorn.cr**](https://github.com/Becojo/unicorn.cr)|Crystal bindings for Unicorn Engine|[:arrow_upper_right:](https://bcj.io/unicorn.cr/)|

@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|20764|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
-|831|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
-|349|[@jennybc](https://github.com/jennybc)/[**happy-git-with-r**](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|[:arrow_upper_right:](https://happygitwithr.com)|
+|20823|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
+|834|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
+|355|[@jennybc](https://github.com/jennybc)/[**happy-git-with-r**](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|[:arrow_upper_right:](https://happygitwithr.com)|
 |297|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
 |292|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
 |260|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
-|238|[@bob-carpenter](https://github.com/bob-carpenter)/[**prob-stats**](https://github.com/bob-carpenter/prob-stats)|Probability and Statistics: a simulation-based introduction.  An open-access book.||
-|208|[@hamaluik](https://github.com/hamaluik)/[**Beamer-Theme-Execushares**](https://github.com/hamaluik/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
+|240|[@bob-carpenter](https://github.com/bob-carpenter)/[**prob-stats**](https://github.com/bob-carpenter/prob-stats)|Probability and Statistics: a simulation-based introduction.  An open-access book.||
+|209|[@hamaluik](https://github.com/hamaluik)/[**Beamer-Theme-Execushares**](https://github.com/hamaluik/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
 |154|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
 |111|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
 |64|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
@@ -50,6 +50,7 @@
 |6|[@sx-archipelagos](https://github.com/sx-archipelagos)/[**sxa**](https://github.com/sx-archipelagos/sxa)|||
 |5|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**UBC-Metropolis-Beamer**](https://github.com/JoeyEremondi/UBC-Metropolis-Beamer)|Metropolis Beamer theme with UBC Colors and Logo||
 |5|[@MathML](https://github.com/MathML)/[**MathMLinHTML5**](https://github.com/MathML/MathMLinHTML5)|(we migrated to GitLab) Draft for a detailed technical document to implement MathML in Web rendering engines.|[:arrow_upper_right:](http://www.mathml-association.org/MathMLinHTML5/)|
+|5|[@davepagurek](https://github.com/davepagurek)/[**DynamicKelvinlets**](https://github.com/davepagurek/DynamicKelvinlets)|||
 |5|[@dpo](https://github.com/dpo)/[**latex-styles**](https://github.com/dpo/latex-styles)|Customizations of LaTeX Styles Useful for Scientific Papers||
 |5|[@gnewton](https://github.com/gnewton)/[**lusql**](https://github.com/gnewton/lusql)|High performance extract, transform, load (ETL) initially for JDBC-->Lucene, now supports other paths through plugins||
 |5|[@larrytheliquid](https://github.com/larrytheliquid)/[**generic-reuse**](https://github.com/larrytheliquid/generic-reuse)|Source code accompanying the draft paper "Generic Zero-Cost Reuse for Dependent Types" |[:arrow_upper_right:](https://arxiv.org/abs/1803.08150)|
@@ -84,5 +85,6 @@
 |3|[@lmsimp](https://github.com/lmsimp)/[**bioc-pRoloc-hyperLOPIT-workflow**](https://github.com/lmsimp/bioc-pRoloc-hyperLOPIT-workflow)|A Bioconductor workflow for processing and analysing spatial proteomics data||
 |3|[@marianafranco](https://github.com/marianafranco)/[**arm7linux**](https://github.com/marianafranco/arm7linux)| A simple OS to the ARM Evaluator-7T board.||
 |3|[@ndawe](https://github.com/ndawe)/[**tikz-track**](https://github.com/ndawe/tikz-track)|||
+|3|[@oganm](https://github.com/oganm)/[**ThesisProposal**](https://github.com/oganm/ThesisProposal)|PhD thesis proposal. Conforming to UBC style guides||
 |3|[@seananderson](https://github.com/seananderson)/[**paleobaselines**](https://github.com/seananderson/paleobaselines)|Paleontological baselines for evaluating extinction risk in the modern oceans||
 

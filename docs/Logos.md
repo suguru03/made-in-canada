@@ -12,7 +12,7 @@
 |7|[@Sticktron](https://github.com/Sticktron)/[**FrontCamUnMirror**](https://github.com/Sticktron/FrontCamUnMirror)|Un-Mirror the Front Camera's Live Preview||
 |7|[@davidmurray](https://github.com/davidmurray)/[**Uninstall-Application-Size**](https://github.com/davidmurray/Uninstall-Application-Size)|Shows an application's size when prompting to uninstall||
 |6|[@AppleBetas](https://github.com/AppleBetas)/[**JustinPlusPro**](https://github.com/AppleBetas/JustinPlusPro)|Justin + your phone. A match made in heaven.||
-|5|[@ca13ra1](https://github.com/ca13ra1)/[**ForceInPicture**](https://github.com/ca13ra1/ForceInPicture)|Programmatically enable picture in picture feature.||
+|6|[@ca13ra1](https://github.com/ca13ra1)/[**ForceInPicture**](https://github.com/ca13ra1/ForceInPicture)|Programmatically enable picture in picture feature.||
 |5|[@ca13ra1](https://github.com/ca13ra1)/[**MessageTypingIndicators**](https://github.com/ca13ra1/MessageTypingIndicators)|enable/disable typing indicators for iMessages.||
 |5|[@ca13ra1](https://github.com/ca13ra1)/[**Twitter3DShortcuts**](https://github.com/ca13ra1/Twitter3DShortcuts)|Removes useless Twitter 3d touch items.||
 |5|[@codyd51](https://github.com/codyd51)/[**ClassyLock**](https://github.com/codyd51/ClassyLock)|A classy, reimagined lockscreen||
@@ -25,6 +25,7 @@
 |4|[@codyd51](https://github.com/codyd51)/[**Hue**](https://github.com/codyd51/Hue)|Gradually shift your iPhone's text color throughout the day||
 |3|[@Cykey](https://github.com/Cykey)/[**Uninstall-Application-Size**](https://github.com/Cykey/Uninstall-Application-Size)|Shows an application's size when prompting to uninstall||
 |3|[@Sticktron](https://github.com/Sticktron)/[**Croutons**](https://github.com/Sticktron/Croutons)|App icons instead of breadcrumbs.||
+|3|[@Sticktron](https://github.com/Sticktron)/[**ReacherSwitcher**](https://github.com/Sticktron/ReacherSwitcher)|Reachability toggles the AppSwitcher||
 |3|[@ca13ra1](https://github.com/ca13ra1)/[**CCLowPower**](https://github.com/ca13ra1/CCLowPower)|Low power mode accessible from CC.||
 |3|[@ca13ra1](https://github.com/ca13ra1)/[**CCTButtonActions**](https://github.com/ca13ra1/CCTButtonActions)|Control center 3D Touch shortcuts.||
 |3|[@ca13ra1](https://github.com/ca13ra1)/[**NoLockShots**](https://github.com/ca13ra1/NoLockShots)|No screenshots on lockscreen.||
