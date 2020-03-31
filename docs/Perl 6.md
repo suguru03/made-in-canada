@@ -20,7 +20,6 @@
 |4|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Testo**](https://github.com/zoffixznet/perl6-Testo)|Perl 6 Testing Done Right||
 |3|[@davepagurek](https://github.com/davepagurek)/[**English**](https://github.com/davepagurek/English)|English parsing for Perl 6||
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-datetime-format**](https://github.com/supernovus/perl6-datetime-format)|DateTime::Format -- strftime, strptime and other DateTime format related helpers for Perl 6||
-|3|[@supernovus](https://github.com/supernovus)/[**perl6-http-status**](https://github.com/supernovus/perl6-http-status)|Get the text message associated with a given HTTP code||
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-timezone**](https://github.com/supernovus/perl6-timezone)|DateTime::TimeZone (Perl 6)||
 |3|[@zoffixznet](https://github.com/zoffixznet)/[**WebService-Rollbar-Notifier**](https://github.com/zoffixznet/WebService-Rollbar-Notifier)|WebService::Rollbar::Notifier Perl module||
 |3|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Number-Denominate**](https://github.com/zoffixznet/perl6-Number-Denominate)|Perl 6 module: Break up numbers into preset or arbitrary denominations||

@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|59|[@dgodd](https://github.com/dgodd)/[**concourse-summary**](https://github.com/dgodd/concourse-summary)|||
+|60|[@dgodd](https://github.com/dgodd)/[**concourse-summary**](https://github.com/dgodd/concourse-summary)|||
 |45|[@jetrockets](https://github.com/jetrockets)/[**shrine.cr**](https://github.com/jetrockets/shrine.cr)|File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby.|[:arrow_upper_right:](https://jetrockets.github.io/shrine.cr/)|
 |18|[@westonganger](https://github.com/westonganger)/[**form_builder.cr**](https://github.com/westonganger/form_builder.cr)|Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap||
 |17|[@Virtual-Machine](https://github.com/Virtual-Machine)/[**llvm-tutorial-book**](https://github.com/Virtual-Machine/llvm-tutorial-book)|In Progress. Building a front end for llvm.||

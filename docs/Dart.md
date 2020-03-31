@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|104|[@gurleensethi](https://github.com/gurleensethi)/[**sailor**](https://github.com/gurleensethi/sailor)|Easy page navigation and management in Flutter apps.|[:arrow_upper_right:](https://pub.dev/packages/sailor)|
+|105|[@gurleensethi](https://github.com/gurleensethi)/[**sailor**](https://github.com/gurleensethi/sailor)|Easy page navigation and management in Flutter apps.|[:arrow_upper_right:](https://pub.dev/packages/sailor)|
 |90|[@JagandeepBrar](https://github.com/JagandeepBrar)/[**LunaSea**](https://github.com/JagandeepBrar/LunaSea)|LunaSea - Usenet Manager for iOS|[:arrow_upper_right:](https://www.lunasea.app)|
 |81|[@AndriousSolutions](https://github.com/AndriousSolutions)/[**mvc_pattern**](https://github.com/AndriousSolutions/mvc_pattern)|Flutter Plugin to implement one of many variations of the MVC design pattern.||
 |46|[@AndriousSolutions](https://github.com/AndriousSolutions)/[**ads**](https://github.com/AndriousSolutions/ads)|||

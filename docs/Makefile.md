@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2104|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
+|2103|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
 |320|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
 |105|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
 |80|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
@@ -11,7 +11,7 @@
 |27|[@jasonish](https://github.com/jasonish)/[**docker-snort**](https://github.com/jasonish/docker-snort)|[ARCHIVED] A ready to run Snort and PulledPork docker image.||
 |24|[@lisa](https://github.com/lisa)/[**lisa19-containers**](https://github.com/lisa/lisa19-containers)|Infrastructure for demo containers||
 |22|[@sjackman](https://github.com/sjackman)/[**docker-bio**](https://github.com/sjackman/docker-bio)|Docker images of bioinformatics software||
-|19|[@atlas-jj](https://github.com/atlas-jj)/[**ORB-SLAM-free-space-carving**](https://github.com/atlas-jj/ORB-SLAM-free-space-carving)|Implementation and annotation of Free Space Carving algorithm (CARV) using ORB-SLAM map points and camera poses.||
+|20|[@atlas-jj](https://github.com/atlas-jj)/[**ORB-SLAM-free-space-carving**](https://github.com/atlas-jj/ORB-SLAM-free-space-carving)|Implementation and annotation of Free Space Carving algorithm (CARV) using ORB-SLAM map points and camera poses.||
 |19|[@derekstavis](https://github.com/derekstavis)/[**switch-runlinux**](https://github.com/derekstavis/switch-runlinux)|Makefile for loading Linux into Nintendo Switch||
 |18|[@sjackman](https://github.com/sjackman)/[**makefile-example**](https://github.com/sjackman/makefile-example)|An example of a data analysis pipeline using Make|[:arrow_upper_right:](http://sjackman.ca/makefile-example/)|
 |15|[@exAspArk](https://github.com/exAspArk)/[**docker-alpine-ruby**](https://github.com/exAspArk/docker-alpine-ruby)|The smallest Docker image with Ruby||
@@ -37,8 +37,8 @@
 |6|[@rillian](https://github.com/rillian)/[**afl-ffmpeg-opus**](https://github.com/rillian/afl-ffmpeg-opus)|Fuzzing script for ffmpeg's opus decoder||
 |6|[@rosshamish](https://github.com/rosshamish)/[**goodcatan**](https://github.com/rosshamish/goodcatan)|tries not to play bad catan||
 |6|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_harpia**](https://github.com/sultanqasim/android_device_motorola_harpia)|TWRP device tree for Moto G Play||
+|5|[@KalobTaulien](https://github.com/KalobTaulien)/[**PHP-Docker**](https://github.com/KalobTaulien/PHP-Docker)|PHP Docker Setup for the Learn PHP course on Kalob.io||
 |5|[@northox](https://github.com/northox)/[**rump-npfer**](https://github.com/northox/rump-npfer)|A Rumprun firewall unikernel for Qubes OS (c)||
-|4|[@KalobTaulien](https://github.com/KalobTaulien)/[**PHP-Docker**](https://github.com/KalobTaulien/PHP-Docker)|PHP Docker Setup for the Learn PHP course on Kalob.io||
 |4|[@aminb](https://github.com/aminb)/[**dotfiles**](https://github.com/aminb/dotfiles)|[OUTDATED] repository now located at https://git.sr.ht/~bandali/dotfiles||
 |4|[@atgreen](https://github.com/atgreen)/[**howto-change-container-yum-source**](https://github.com/atgreen/howto-change-container-yum-source)|Example of how to set up yum in a container to source content from a Satellite CV other than the container hosts'||
 |4|[@karnauskas](https://github.com/karnauskas)/[**openwrt-mdns-repeater**](https://github.com/karnauskas/openwrt-mdns-repeater)|mdns-repeater build for OpenWrt||

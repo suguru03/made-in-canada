@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|20823|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
+|20837|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
 |834|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
-|355|[@jennybc](https://github.com/jennybc)/[**happy-git-with-r**](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|[:arrow_upper_right:](https://happygitwithr.com)|
+|357|[@jennybc](https://github.com/jennybc)/[**happy-git-with-r**](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|[:arrow_upper_right:](https://happygitwithr.com)|
 |297|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
 |292|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
 |260|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
 |240|[@bob-carpenter](https://github.com/bob-carpenter)/[**prob-stats**](https://github.com/bob-carpenter/prob-stats)|Probability and Statistics: a simulation-based introduction.  An open-access book.||
 |209|[@hamaluik](https://github.com/hamaluik)/[**Beamer-Theme-Execushares**](https://github.com/hamaluik/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
 |154|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
-|111|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
+|112|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
 |64|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
 |54|[@iandennismiller](https://github.com/iandennismiller)/[**mueller-report**](https://github.com/iandennismiller/mueller-report)|Open Source Mueller Report is an enhanced edition of the Mueller Report.|[:arrow_upper_right:](http://opensourcemuellerreport.com)|
 |46|[@christhomson](https://github.com/christhomson)/[**lecture-notes**](https://github.com/christhomson/lecture-notes)|LaTeX notes for a few courses I've taken at the University of Waterloo.|[:arrow_upper_right:](http://cthomson.ca/notes)|
@@ -50,6 +50,7 @@
 |6|[@sx-archipelagos](https://github.com/sx-archipelagos)/[**sxa**](https://github.com/sx-archipelagos/sxa)|||
 |5|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**UBC-Metropolis-Beamer**](https://github.com/JoeyEremondi/UBC-Metropolis-Beamer)|Metropolis Beamer theme with UBC Colors and Logo||
 |5|[@MathML](https://github.com/MathML)/[**MathMLinHTML5**](https://github.com/MathML/MathMLinHTML5)|(we migrated to GitLab) Draft for a detailed technical document to implement MathML in Web rendering engines.|[:arrow_upper_right:](http://www.mathml-association.org/MathMLinHTML5/)|
+|5|[@abramhindle](https://github.com/abramhindle)/[**CMPUT201W20B2-public**](https://github.com/abramhindle/CMPUT201W20B2-public)|CMPUT201W20B2-public public code||
 |5|[@davepagurek](https://github.com/davepagurek)/[**DynamicKelvinlets**](https://github.com/davepagurek/DynamicKelvinlets)|||
 |5|[@dpo](https://github.com/dpo)/[**latex-styles**](https://github.com/dpo/latex-styles)|Customizations of LaTeX Styles Useful for Scientific Papers||
 |5|[@gnewton](https://github.com/gnewton)/[**lusql**](https://github.com/gnewton/lusql)|High performance extract, transform, load (ETL) initially for JDBC-->Lucene, now supports other paths through plugins||
@@ -72,6 +73,7 @@
 |3|[@bmcfee](https://github.com/bmcfee)/[**ismir2016_eval**](https://github.com/bmcfee/ismir2016_eval)|A plan for sustainable, community-driven evaluation of MIR methods||
 |3|[@dankelley](https://github.com/dankelley)/[**dal-oce-thesis**](https://github.com/dankelley/dal-oce-thesis)|latex style for MSc / PhD theses at Dalhousie University (esp. in Oceanography)|[:arrow_upper_right:](http://dankelley.github.io/dal-oce-thesis/index.html)|
 |3|[@dankelley](https://github.com/dankelley)/[**latex-jmr**](https://github.com/dankelley/latex-jmr)|LaTeX style sheet for Journal of Marine Research|[:arrow_upper_right:](http://dankelley.github.com/latex-jmr)|
+|3|[@durandtibo](https://github.com/durandtibo)/[**deep_archi_latex**](https://github.com/durandtibo/deep_archi_latex)|||
 |3|[@fredrikbk](https://github.com/fredrikbk)/[**6.867-project**](https://github.com/fredrikbk/6.867-project)|Class project in MIT 6.867 Machine Learning||
 |3|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan-2015**](https://github.com/gavinsimpson/esa-advanced-vegan-2015)|Materials for an advanced workshop on using vegan in R for conducting community ecology analyses. To be held in Baltimore in 2015 as part of the ESA conference.||
 |3|[@honza](https://github.com/honza)/[**1689**](https://github.com/honza/1689)|||

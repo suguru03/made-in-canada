@@ -1,25 +1,24 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2175|[@Caiyeon](https://github.com/Caiyeon)/[**goldfish**](https://github.com/Caiyeon/goldfish)|A HashiCorp Vault UI written with VueJS and Vault native Go API|[:arrow_upper_right:](https://vault-ui.io)|
-|380|[@chmln](https://github.com/chmln)/[**vue-wysiwyg**](https://github.com/chmln/vue-wysiwyg)|A lightweight WYSIWYG HTML editor for Vue.js|[:arrow_upper_right:](https://chmln.github.io/vue-wysiwyg/)|
-|371|[@adamwathan](https://github.com/adamwathan)/[**workcation**](https://github.com/adamwathan/workcation)|||
+|2174|[@Caiyeon](https://github.com/Caiyeon)/[**goldfish**](https://github.com/Caiyeon/goldfish)|A HashiCorp Vault UI written with VueJS and Vault native Go API|[:arrow_upper_right:](https://vault-ui.io)|
+|374|[@adamwathan](https://github.com/adamwathan)/[**workcation**](https://github.com/adamwathan/workcation)|||
 |345|[@adamwathan](https://github.com/adamwathan)/[**vue-tailwind-examples**](https://github.com/adamwathan/vue-tailwind-examples)|||
-|224|[@drehimself](https://github.com/drehimself)/[**gridsome-portfolio-starter**](https://github.com/drehimself/gridsome-portfolio-starter)|A simple portfolio theme for Gridsome powered by Tailwind CSS v1|[:arrow_upper_right:](https://gridsome-portfolio-starter.netlify.com)|
+|226|[@drehimself](https://github.com/drehimself)/[**gridsome-portfolio-starter**](https://github.com/drehimself/gridsome-portfolio-starter)|A simple portfolio theme for Gridsome powered by Tailwind CSS v1|[:arrow_upper_right:](https://gridsome-portfolio-starter.netlify.com)|
 |132|[@Braunson](https://github.com/Braunson)/[**laravel-coreui-vue**](https://github.com/Braunson/laravel-coreui-vue)|Laravel 5.6 with CoreUI (VueJS Full Starter Template) >>> Deprecated, please go to https://coreui.io/laravel/||
 |124|[@alicin](https://github.com/alicin)/[**flamme**](https://github.com/alicin/flamme)|An open source tinder desktop client built with electron and Vue.js for educational purposes||
-|103|[@james2doyle](https://github.com/james2doyle)/[**nuxt-firebase-auth**](https://github.com/james2doyle/nuxt-firebase-auth)|An example of using Nuxt with Firebase to auth users without a server||
+|104|[@james2doyle](https://github.com/james2doyle)/[**nuxt-firebase-auth**](https://github.com/james2doyle/nuxt-firebase-auth)|An example of using Nuxt with Firebase to auth users without a server||
 |79|[@remixz](https://github.com/remixz)/[**umi**](https://github.com/remixz/umi)|📺 Watch Crunchyroll together, and more|[:arrow_upper_right:](https://umi.party)|
-|71|[@hawkeye64](https://github.com/hawkeye64)/[**electron-quasar-file-explorer**](https://github.com/hawkeye64/electron-quasar-file-explorer)|A Simple File Explorer using Vue/Quasar/Electron||
+|72|[@hawkeye64](https://github.com/hawkeye64)/[**electron-quasar-file-explorer**](https://github.com/hawkeye64/electron-quasar-file-explorer)|A Simple File Explorer using Vue/Quasar/Electron||
 |39|[@adamwathan](https://github.com/adamwathan)/[**vueconfto-demo**](https://github.com/adamwathan/vueconfto-demo)|||
-|37|[@drehimself](https://github.com/drehimself)/[**vue-components-example**](https://github.com/drehimself/vue-components-example)|||
-|28|[@drehimself](https://github.com/drehimself)/[**tailwind-v1-examples**](https://github.com/drehimself/tailwind-v1-examples)|A collection of web pages built in Tailwind CSS v1.x|[:arrow_upper_right:](https://tailwind-v1-examples.netlify.com)|
+|38|[@drehimself](https://github.com/drehimself)/[**vue-components-example**](https://github.com/drehimself/vue-components-example)|||
+|29|[@drehimself](https://github.com/drehimself)/[**tailwind-v1-examples**](https://github.com/drehimself/tailwind-v1-examples)|A collection of web pages built in Tailwind CSS v1.x|[:arrow_upper_right:](https://tailwind-v1-examples.netlify.com)|
 |28|[@yanick](https://github.com/yanick)/[**vue-svg-pan-zoom**](https://github.com/yanick/vue-svg-pan-zoom)|Vue component using SvgPanZoom|[:arrow_upper_right:](https://www.npmjs.com/package/vue-svg-pan-zoom)|
-|25|[@adamwathan](https://github.com/adamwathan)/[**laracon-madrid**](https://github.com/adamwathan/laracon-madrid)|The source code for my "Advanced Vue Component Design" at Laracon EU Madrid.||
+|26|[@adamwathan](https://github.com/adamwathan)/[**laracon-madrid**](https://github.com/adamwathan/laracon-madrid)|The source code for my "Advanced Vue Component Design" at Laracon EU Madrid.||
 |20|[@backmeupplz](https://github.com/backmeupplz)/[**frontend-starter**](https://github.com/backmeupplz/frontend-starter)|Frontend starter template||
 |17|[@drehimself](https://github.com/drehimself)/[**nativescript-vue-example**](https://github.com/drehimself/nativescript-vue-example)|||
+|16|[@drehimself](https://github.com/drehimself)/[**bootstrap-vue-example**](https://github.com/drehimself/bootstrap-vue-example)|||
 |15|[@adamwathan](https://github.com/adamwathan)/[**tailwind-docs-vuepress**](https://github.com/adamwathan/tailwind-docs-vuepress)|||
 |15|[@ammobinDOTca](https://github.com/ammobinDOTca)/[**ammobin-client**](https://github.com/ammobinDOTca/ammobin-client)|client for https://ammobin.ca|[:arrow_upper_right:](https://ammobin.ca)|
-|15|[@drehimself](https://github.com/drehimself)/[**bootstrap-vue-example**](https://github.com/drehimself/bootstrap-vue-example)|||
 |15|[@drehimself](https://github.com/drehimself)/[**disneyplus-clone**](https://github.com/drehimself/disneyplus-clone)|||
 |14|[@ginpei](https://github.com/ginpei)/[**giclock**](https://github.com/ginpei/giclock)|An analog and digital clock with "pomodoro" timer.|[:arrow_upper_right:](https://clock.ginpei.info/)|
 |13|[@drehimself](https://github.com/drehimself)/[**ionic-vue-example**](https://github.com/drehimself/ionic-vue-example)|||
