@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|481|[@cvogt](https://github.com/cvogt)/[**cbt**](https://github.com/cvogt/cbt)|CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala||
-|447|[@fosskers](https://github.com/fosskers)/[**scalaz-and-cats**](https://github.com/fosskers/scalaz-and-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
-|395|[@marconilanna](https://github.com/marconilanna)/[**REPLesent**](https://github.com/marconilanna/REPLesent)|A neat little tool to build presentations using the Scala REPL||
+|482|[@cvogt](https://github.com/cvogt)/[**cbt**](https://github.com/cvogt/cbt)|CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala||
+|451|[@fosskers](https://github.com/fosskers)/[**scalaz-and-cats**](https://github.com/fosskers/scalaz-and-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
+|396|[@marconilanna](https://github.com/marconilanna)/[**REPLesent**](https://github.com/marconilanna/REPLesent)|A neat little tool to build presentations using the Scala REPL||
 |385|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
-|360|[@ArchDev](https://github.com/ArchDev)/[**akka-http-rest**](https://github.com/ArchDev/akka-http-rest)|Example of reactive REST service written on akka-http with slick|[:arrow_upper_right:](http://akka-http-rest.herokuapp.com/)|
+|359|[@ArchDev](https://github.com/ArchDev)/[**akka-http-rest**](https://github.com/ArchDev/akka-http-rest)|Example of reactive REST service written on akka-http with slick|[:arrow_upper_right:](http://akka-http-rest.herokuapp.com/)|
 |331|[@dcaoyuan](https://github.com/dcaoyuan)/[**chana**](https://github.com/dcaoyuan/chana)|Avro Data Store based on Akka||
-|310|[@jmcardon](https://github.com/jmcardon)/[**tsec**](https://github.com/jmcardon/tsec)|Type-safe general-cryptography library - https://jmcardon.github.io/tsec/||
+|311|[@jmcardon](https://github.com/jmcardon)/[**tsec**](https://github.com/jmcardon/tsec)|Type-safe general-cryptography library - https://jmcardon.github.io/tsec/||
 |259|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-socketio**](https://github.com/dcaoyuan/spray-socketio)|socket.io for spray||
 |224|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-websocket**](https://github.com/dcaoyuan/spray-websocket)|WebSocket for spray-can||
 |129|[@yawaramin](https://github.com/yawaramin)/[**scala-modules**](https://github.com/yawaramin/scala-modules)|Experimental implementations of ML-style modules in Scala||
@@ -22,13 +22,13 @@
 |55|[@mvogiatzis](https://github.com/mvogiatzis)/[**freq-count**](https://github.com/mvogiatzis/freq-count)|Lossy Counting and Sticky Sampling implementation for efficient frequency counts on data streams.||
 |52|[@knoldus](https://github.com/knoldus)/[**Play-Spark-Scala**](https://github.com/knoldus/Play-Spark-Scala)|||
 |47|[@knoldus](https://github.com/knoldus)/[**playing-microservices.g8**](https://github.com/knoldus/playing-microservices.g8)|This activator project describes Microservice architecture design using Play 2.4.x and Scala||
+|44|[@shagunsodhani](https://github.com/shagunsodhani)/[**locis**](https://github.com/shagunsodhani/locis)|Implementation of  "A Parallel Spatial Co-location Mining Algorithm Based on MapReduce" paper|[:arrow_upper_right:](https://shagunsodhani.github.io/locis)|
 |43|[@mvogiatzis](https://github.com/mvogiatzis)/[**spark-anomaly-detection**](https://github.com/mvogiatzis/spark-anomaly-detection)|Detecting outliers in a dataset using Spark||
-|42|[@shagunsodhani](https://github.com/shagunsodhani)/[**locis**](https://github.com/shagunsodhani/locis)|Implementation of  "A Parallel Spatial Co-location Mining Algorithm Based on MapReduce" paper|[:arrow_upper_right:](https://shagunsodhani.github.io/locis)|
+|41|[@NeQuissimus](https://github.com/NeQuissimus)/[**sort-imports**](https://github.com/NeQuissimus/sort-imports)|A simplistic Scalafix rule that sorts imports||
 |40|[@cvogt](https://github.com/cvogt)/[**scala-extensions**](https://github.com/cvogt/scala-extensions)|Useful extensions for the Scala standard library|[:arrow_upper_right:](http://cvogt.org/scala-extensions/api/)|
 |38|[@knoldus](https://github.com/knoldus)/[**ScalaJs_Weather_Report**](https://github.com/knoldus/ScalaJs_Weather_Report)|Weather Information System- Get the mood of your city on one click using Scala.js.||
 |38|[@rocketraman](https://github.com/rocketraman)/[**activator-akka-scala-guice**](https://github.com/rocketraman/activator-akka-scala-guice)|Typesafe Activator demo for Akka, Scala, Guice||
 |37|[@knoldus](https://github.com/knoldus)/[**real-time-stream-processing-engine**](https://github.com/knoldus/real-time-stream-processing-engine)|This is an example of real time stream processing using Spark Streaming, Kafka & Elasticsearch.||
-|36|[@NeQuissimus](https://github.com/NeQuissimus)/[**sort-imports**](https://github.com/NeQuissimus/sort-imports)|A simplistic Scalafix rule that sorts imports||
 |33|[@dcaoyuan](https://github.com/dcaoyuan)/[**avpath**](https://github.com/dcaoyuan/avpath)|XPath likeness for Avro||
 |33|[@tobyjsullivan](https://github.com/tobyjsullivan)/[**applicative-demo**](https://github.com/tobyjsullivan/applicative-demo)|Demo code for my talk at applicative conf. http://applicative.acm.org/speaker-TobySullivan.html||
 |32|[@marconilanna](https://github.com/marconilanna)/[**scala-boilerplate**](https://github.com/marconilanna/scala-boilerplate)|Starting point for Scala projects||
@@ -48,7 +48,7 @@
 |19|[@NeQuissimus](https://github.com/NeQuissimus)/[**zio-slf4j**](https://github.com/NeQuissimus/zio-slf4j)|Referentially transparent logging with slf4j||
 |19|[@brunoborges](https://github.com/brunoborges)/[**gamboa-project**](https://github.com/brunoborges/gamboa-project)|A Maven archetype for rapid web application development||
 |19|[@denisrosset](https://github.com/denisrosset)/[**alasc**](https://github.com/denisrosset/alasc)|Computational Group Theory in Scala. It's Scala permuted!||
-|18|[@skrat](https://github.com/skrat)/[**sunflow**](https://github.com/skrat/sunflow)|Repository mirror of Sunflow photorealistic renderer|[:arrow_upper_right:](http://sunflow.sourceforge.net/)|
+|19|[@skrat](https://github.com/skrat)/[**sunflow**](https://github.com/skrat/sunflow)|Repository mirror of Sunflow photorealistic renderer|[:arrow_upper_right:](http://sunflow.sourceforge.net/)|
 |16|[@cvogt](https://github.com/cvogt)/[**slick-action**](https://github.com/cvogt/slick-action)|Automatic connection management and dependency tracking||
 |16|[@knoldus](https://github.com/knoldus)/[**spark-spray-starter**](https://github.com/knoldus/spark-spray-starter)|||
 |16|[@seglo](https://github.com/seglo)/[**exactly-once-streams**](https://github.com/seglo/exactly-once-streams)|An engineering report on using transactions in Kafka 0.11.0.0||
@@ -66,13 +66,13 @@
 |14|[@knoldus](https://github.com/knoldus)/[**spark-graphx-twitter**](https://github.com/knoldus/spark-graphx-twitter)|An example of Spark and GraphX with Twitter as sample||
 |13|[@ArchDev](https://github.com/ArchDev)/[**unidirectional-akka-redux**](https://github.com/ArchDev/unidirectional-akka-redux)|Unidirectional application example||
 |13|[@cvogt](https://github.com/cvogt)/[**slick-macros-old**](https://github.com/cvogt/slick-macros-old)|||
+|13|[@regis-leray](https://github.com/regis-leray)/[**fs2-ftp**](https://github.com/regis-leray/fs2-ftp)|Simple client for Ftp/Ftps/Sftp||
 |12|[@davideanastasia](https://github.com/davideanastasia)/[**twitter-realtime-sentiment**](https://github.com/davideanastasia/twitter-realtime-sentiment)|Spark/Cassandra/Akka combo to visualize a cloud of words using d3.js||
 |12|[@dcaoyuan](https://github.com/dcaoyuan)/[**akka-cluster-example-inloop**](https://github.com/dcaoyuan/akka-cluster-example-inloop)|Simple akka cluster example.||
 |12|[@denisrosset](https://github.com/denisrosset)/[**valueopt**](https://github.com/denisrosset/valueopt)|Opt - AnyVal Option-like type||
 |12|[@edmundnoble](https://github.com/edmundnoble)/[**cats-mtl**](https://github.com/edmundnoble/cats-mtl)|||
 |12|[@knoldus](https://github.com/knoldus)/[**akka-http-websocket-microservices.g8**](https://github.com/knoldus/akka-http-websocket-microservices.g8)|||
 |12|[@knoldus](https://github.com/knoldus)/[**slick-starting-on-the-right-foot.g8**](https://github.com/knoldus/slick-starting-on-the-right-foot.g8)|This is an activator project for showcasing best practices, writing unit test and providing a seed for starting with Slick.||
-|12|[@regis-leray](https://github.com/regis-leray)/[**fs2-ftp**](https://github.com/regis-leray/fs2-ftp)|Simple client for Ftp/Ftps/Sftp||
 |11|[@amirkarimi](https://github.com/amirkarimi)/[**xcala**](https://github.com/amirkarimi/xcala)|A web application library based on Scala, Play and ReactiveMongo|[:arrow_upper_right:](http://amirkarimi.github.io/xcala)|
 |11|[@darienmt](https://github.com/darienmt)/[**kamon-logstash**](https://github.com/darienmt/kamon-logstash)|Kamon-logstash backend module||
 |11|[@dcaoyuan](https://github.com/dcaoyuan)/[**wandou-math**](https://github.com/dcaoyuan/wandou-math)|Varies libs for Math, including Time Series etc.||
@@ -124,6 +124,7 @@
 |5|[@knoldus](https://github.com/knoldus)/[**neo4j-scala-starter**](https://github.com/knoldus/neo4j-scala-starter)|||
 |5|[@knoldus](https://github.com/knoldus)/[**playing-aws-scala**](https://github.com/knoldus/playing-aws-scala)|A simple example of Amazon Web Services in the Scala way with Play Framework and AWScala||
 |5|[@knoldus](https://github.com/knoldus)/[**playing-multipartform**](https://github.com/knoldus/playing-multipartform)|A basic example to handle and test MultipartFormData request in Play Framework 2.3.8||
+|5|[@knoldus](https://github.com/knoldus)/[**scala-design-patterns**](https://github.com/knoldus/scala-design-patterns)|Scala Design Patterns||
 |5|[@knoldus](https://github.com/knoldus)/[**scala-solr-akkahttp.g8**](https://github.com/knoldus/scala-solr-akkahttp.g8)|||
 |5|[@knoldus](https://github.com/knoldus)/[**sicp**](https://github.com/knoldus/sicp)|Exercises of SICP solved with Scala||
 |5|[@marconilanna](https://github.com/marconilanna)/[**snippets**](https://github.com/marconilanna/snippets)|Catalogue of routinely required small units of boilerplate code||
@@ -133,6 +134,7 @@
 |4|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**Scala-DNS**](https://github.com/MasseGuillaume/Scala-DNS)|Domain Name System||
 |4|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**multi-platforms-javalibs**](https://github.com/MasseGuillaume/multi-platforms-javalibs)|||
 |4|[@amirkarimi](https://github.com/amirkarimi)/[**cake-blog-posts**](https://github.com/amirkarimi/cake-blog-posts)|||
+|4|[@amirkarimi](https://github.com/amirkarimi)/[**openfaas-scala-afterburn**](https://github.com/amirkarimi/openfaas-scala-afterburn)|OpenFaaS after-burn Scala sample||
 |4|[@bbc](https://github.com/bbc)/[**scheduler-plus**](https://github.com/bbc/scheduler-plus)|Cloud-oriented and fault-tolerant workflow engine layer||
 |4|[@dcaoyuan](https://github.com/dcaoyuan)/[**chana-mq**](https://github.com/dcaoyuan/chana-mq)|MQ on Akka||
 |4|[@denisrosset](https://github.com/denisrosset)/[**cyclo**](https://github.com/denisrosset/cyclo)|Cyclotomic numbers for Scala, add-on for the Spire library||
@@ -143,7 +145,6 @@
 |4|[@knoldus](https://github.com/knoldus)/[**kafka-scala-producer-consumer-example**](https://github.com/knoldus/kafka-scala-producer-consumer-example)|||
 |4|[@knoldus](https://github.com/knoldus)/[**knol-spray-auth**](https://github.com/knoldus/knol-spray-auth)|||
 |4|[@knoldus](https://github.com/knoldus)/[**knolx-portal**](https://github.com/knoldus/knolx-portal)|Knolx portal is a Knolx management portal|[:arrow_upper_right:](http://knolx.knoldus.com)|
-|4|[@knoldus](https://github.com/knoldus)/[**scala-design-patterns**](https://github.com/knoldus/scala-design-patterns)|Scala Design Patterns||
 |4|[@knoldus](https://github.com/knoldus)/[**spark-streaming-meetup**](https://github.com/knoldus/spark-streaming-meetup)|Meetup sample code||
 |4|[@marconilanna](https://github.com/marconilanna)/[**ScalaUpNorth2015**](https://github.com/marconilanna/ScalaUpNorth2015)|Slides and code for my "Powerful and Elegant Scala One-Liners" talk||
 |4|[@ujihisa](https://github.com/ujihisa)/[**minescala**](https://github.com/ujihisa/minescala)|minecraft + scala + bukkit||
@@ -154,7 +155,6 @@
 |3|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**scala-split**](https://github.com/MasseGuillaume/scala-split)|split monolithic scala files ||
 |3|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**scalameta-structure**](https://github.com/MasseGuillaume/scalameta-structure)|pretty printer for scalameta .structure||
 |3|[@RatanRSur](https://github.com/RatanRSur)/[**raicoin**](https://github.com/RatanRSur/raicoin)|||
-|3|[@amirkarimi](https://github.com/amirkarimi)/[**openfaas-scala-afterburn**](https://github.com/amirkarimi/openfaas-scala-afterburn)|OpenFaaS after-burn Scala sample||
 |3|[@amirkarimi](https://github.com/amirkarimi)/[**tehlug10th-presentation**](https://github.com/amirkarimi/tehlug10th-presentation)|Scala presentation files for 10th anniversary of tehlug (Tehran Linux User Group)||
 |3|[@cvogt](https://github.com/cvogt)/[**scalacheck-extensions**](https://github.com/cvogt/scalacheck-extensions)||[:arrow_upper_right:](http://cvogt.org/scalacheck-extensions/api/)|
 |3|[@cvogt](https://github.com/cvogt)/[**siq**](https://github.com/cvogt/siq)|||

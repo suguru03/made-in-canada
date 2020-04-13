@@ -10,12 +10,13 @@
 |13|[@ktonon](https://github.com/ktonon)/[**elm-aws-core**](https://github.com/ktonon/elm-aws-core)|Make authenticated REST requests to AWS services using Elm||
 |12|[@chrisbolin](https://github.com/chrisbolin)/[**skycoins**](https://github.com/chrisbolin/skycoins)|🚁💰|[:arrow_upper_right:](http://bolin.co/skycoins)|
 |12|[@fosskers](https://github.com/fosskers)/[**elm-touch**](https://github.com/fosskers/elm-touch)|Extended Touch library for Elm. ||
-|11|[@jxxcarlson](https://github.com/jxxcarlson)/[**quad**](https://github.com/jxxcarlson/quad)|Generative art project in Elm based on subdivision of quadrilaterals||
+|12|[@jxxcarlson](https://github.com/jxxcarlson)/[**quad**](https://github.com/jxxcarlson/quad)|Generative art project in Elm based on subdivision of quadrilaterals||
 |10|[@ktonon](https://github.com/ktonon)/[**aws-sdk-elm**](https://github.com/ktonon/aws-sdk-elm)|Deprecated. Replaced by elm-aws-core and elm-aws-generate||
 |10|[@ktonon](https://github.com/ktonon)/[**elm-crypto**](https://github.com/ktonon/elm-crypto)|Cryptography with HMAC and SHA-2|[:arrow_upper_right:](http://package.elm-lang.org/packages/ktonon/elm-crypto/latest)|
 |8|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-editor**](https://github.com/jxxcarlson/elm-editor)|A pure Elm text editor based on Martin Janiczek's demo|[:arrow_upper_right:](https://jxxcarlson.github.io/app/text-editor/index.html)|
+|7|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-command-interpreter**](https://github.com/jxxcarlson/elm-command-interpreter)|A command interpreter written in Elm||
+|7|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-platform-worker-example**](https://github.com/jxxcarlson/elm-platform-worker-example)|An experiment to learn how to use Elm's  `Platform.worker`||
 |7|[@ktonon](https://github.com/ktonon)/[**elm-jsonwebtoken**](https://github.com/ktonon/elm-jsonwebtoken)|JSON Web Token encoder and decoder||
-|6|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-platform-worker-example**](https://github.com/jxxcarlson/elm-platform-worker-example)|An experiment to learn how to use Elm's  `Platform.worker`||
 |5|[@fosskers](https://github.com/fosskers)/[**2048**](https://github.com/fosskers/2048)|An implementation of 2048 in Elm.||
 |5|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-graph**](https://github.com/jxxcarlson/elm-graph)|Simple charts in Elm (line bar)||
 |5|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-stat**](https://github.com/jxxcarlson/elm-stat)|Package for statistics and working with csv data.  See demo app in the examples folder||
@@ -32,6 +33,7 @@
 |3|[@dat2](https://github.com/dat2)/[**elm-tile-game**](https://github.com/dat2/elm-tile-game)|A tile game written in elm||
 |3|[@jxxcarlson](https://github.com/jxxcarlson)/[**MiniLatexLive**](https://github.com/jxxcarlson/MiniLatexLive)|Very small editor/renderer for MiniLatex|[:arrow_upper_right:](https://demo.minilatex.app/)|
 |3|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-tar**](https://github.com/jxxcarlson/elm-tar)|Elm library for creating tar files||
+|3|[@jxxcarlson](https://github.com/jxxcarlson)/[**elmbyexample**](https://github.com/jxxcarlson/elmbyexample)|Code for a book on Elm||
 |3|[@jxxcarlson](https://github.com/jxxcarlson)/[**minilatexDemo**](https://github.com/jxxcarlson/minilatexDemo)|Demo Elm app for MiniLatex||
 |3|[@jxxcarlson](https://github.com/jxxcarlson)/[**nautilus**](https://github.com/jxxcarlson/nautilus)|Generate Nautilus image using Elm||
 

@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|141|[@tpetricek](https://github.com/tpetricek)/[**elmish-spreadsheet**](https://github.com/tpetricek/elmish-spreadsheet)|Implement your own Excel 365 in 100 lines of F#!||
+|143|[@tpetricek](https://github.com/tpetricek)/[**elmish-spreadsheet**](https://github.com/tpetricek/elmish-spreadsheet)|Implement your own Excel 365 in 100 lines of F#!||
 |69|[@tpetricek](https://github.com/tpetricek)/[**Documents**](https://github.com/tpetricek/Documents)|Includes samples for my blog posts, source code and slides for my talks and other resources.|[:arrow_upper_right:](http://tomasp.net/blog)|
 |55|[@tpetricek](https://github.com/tpetricek)/[**DeepDives**](https://github.com/tpetricek/DeepDives)|F# DeepDives||
 |40|[@tpetricek](https://github.com/tpetricek)/[**FSharp.AsyncExtensions**](https://github.com/tpetricek/FSharp.AsyncExtensions)|[ARCHIVED] Extensions for asynchronous programming in F#||
-|32|[@gerardtoconnor](https://github.com/gerardtoconnor)/[**Skylight**](https://github.com/gerardtoconnor/Skylight)|A composable high level window library for F# and WPF to explore using Computation Expression UI||
+|33|[@gerardtoconnor](https://github.com/gerardtoconnor)/[**Skylight**](https://github.com/gerardtoconnor/Skylight)|A composable high level window library for F# and WPF to explore using Computation Expression UI||
 |15|[@tpetricek](https://github.com/tpetricek)/[**Dojo-Suave-FsHome**](https://github.com/tpetricek/Dojo-Suave-FsHome)|F# Coding Dojo in which you learn how to build an F# homepage web site using Suave and deploy it to Heroku or Azure||
 |14|[@yawaramin](https://github.com/yawaramin)/[**fsharp-typeclasses**](https://github.com/yawaramin/fsharp-typeclasses)|||
 |13|[@tpetricek](https://github.com/tpetricek)/[**TryJoinads**](https://github.com/tpetricek/TryJoinads)|Source code of the www.tryjoinads.org project (web page only)|[:arrow_upper_right:](http://tryjoinads.org)|

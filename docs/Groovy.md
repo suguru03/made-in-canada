@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|131|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
+|130|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
 |60|[@f2prateek](https://github.com/f2prateek)/[**gradle-android-javafmt-plugin**](https://github.com/f2prateek/gradle-android-javafmt-plugin)|Augomagically format Java files (deprecated)||
 |39|[@f2prateek](https://github.com/f2prateek)/[**android-checkstyle-plugin**](https://github.com/f2prateek/android-checkstyle-plugin)|Configures the checkstyle plugin for Android projects||
-|26|[@StephenOTT](https://github.com/StephenOTT)/[**camunda-prometheus-process-engine-plugin**](https://github.com/StephenOTT/camunda-prometheus-process-engine-plugin)|Monitor your KPIs!!!  Camunda BPM Process Engine Plugin providing Prometheus Monitoring, Metric classes for various BPMN use, Grafana Annotations, and HTTPServer data export: Used to generate Prometheus metrics anywhere in the Engine, including BPMN, CMN, and DMN engines and instances.||
+|27|[@StephenOTT](https://github.com/StephenOTT)/[**camunda-prometheus-process-engine-plugin**](https://github.com/StephenOTT/camunda-prometheus-process-engine-plugin)|Monitor your KPIs!!!  Camunda BPM Process Engine Plugin providing Prometheus Monitoring, Metric classes for various BPMN use, Grafana Annotations, and HTTPServer data export: Used to generate Prometheus metrics anywhere in the Engine, including BPMN, CMN, and DMN engines and instances.||
 |26|[@kellyrob99](https://github.com/kellyrob99)/[**Jenkins-api-tour**](https://github.com/kellyrob99/Jenkins-api-tour)|Code demonstrating how to interact with the API layer of a Jenkins/Hudson build server.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/03/27/hooking-into-the-jenkinshudson-api/)|
 |22|[@mbarnathan](https://github.com/mbarnathan)/[**SmartWink**](https://github.com/mbarnathan/SmartWink)|Lutron support in SmartThings using a rooted Wink hub as a bridge||
 |16|[@yracine](https://github.com/yracine)/[**device-type.myneurio**](https://github.com/yracine/device-type.myneurio)|SmartThings-Neurio integration||
@@ -18,8 +18,8 @@
 |9|[@coollog](https://github.com/coollog)/[**micronaut-jib**](https://github.com/coollog/micronaut-jib)|Dockerize and run a "Hello World" Micronaut app.|[:arrow_upper_right:](https://github.com/GoogleContainerTools/jib)|
 |9|[@yracine](https://github.com/yracine)/[**device-type-myNext**](https://github.com/yracine/device-type-myNext)|Nest Integration with SmartThings||
 |8|[@DigitalState](https://github.com/DigitalState)/[**Camunda-Spock-Testing**](https://github.com/DigitalState/Camunda-Spock-Testing)|Spock Framework Specification Testing / Unit Testing for Camunda BPM Engine/Processes|[:arrow_upper_right:](https://forum.camunda.org/t/unit-testing-using-spock-framework-for-cucumber-style-testing-shared-engine-unit-testing-dmn-bpmn/5635?u=stephenott)|
+|7|[@codetojoy](https://github.com/codetojoy)/[**talk_maritimedevcon_groovy**](https://github.com/codetojoy/talk_maritimedevcon_groovy)|Demo code for talk at Maritime DevCon 2016.||
 |7|[@mbarnathan](https://github.com/mbarnathan)/[**Synchronized-Dimming**](https://github.com/mbarnathan/Synchronized-Dimming)|Allows many SmartThings dimmers to act as one.||
-|6|[@codetojoy](https://github.com/codetojoy)/[**talk_maritimedevcon_groovy**](https://github.com/codetojoy/talk_maritimedevcon_groovy)|Demo code for talk at Maritime DevCon 2016.||
 |6|[@eclipsesource](https://github.com/eclipsesource)/[**dockerizor**](https://github.com/eclipsesource/dockerizor)|Gradle plug-in to create a Docker image that includes an Eclipse Virgo container||
 |5|[@StephenOTT](https://github.com/StephenOTT)/[**STIX-Faker**](https://github.com/StephenOTT/STIX-Faker)|STIX 2 Fake Data Generator||
 |5|[@codetojoy](https://github.com/codetojoy)/[**easter_eggs_for_groovy**](https://github.com/codetojoy/easter_eggs_for_groovy)|Basic examples for Groovy. Usage of 'egg' here is SSCCE: http://sscce.org||

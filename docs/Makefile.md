@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2103|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
-|320|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
+|2102|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
+|318|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
 |105|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
-|80|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
+|83|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
 |41|[@sjackman](https://github.com/sjackman)/[**lambdar**](https://github.com/sjackman/lambdar)|ƛR: Run R on AWS Lambda|[:arrow_upper_right:](http://lambdar.sjackman.ca/?e=stem(rnorm(100)))|
 |39|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_build**](https://github.com/CopperheadOS/platform_build)|||
 |38|[@RobLoach](https://github.com/RobLoach)/[**base16-geany**](https://github.com/RobLoach/base16-geany)|:crystal_ball: Base16 Scheme for Geany|[:arrow_upper_right:](https://github.com/chriskempson/base16)|
@@ -15,8 +15,8 @@
 |19|[@derekstavis](https://github.com/derekstavis)/[**switch-runlinux**](https://github.com/derekstavis/switch-runlinux)|Makefile for loading Linux into Nintendo Switch||
 |18|[@sjackman](https://github.com/sjackman)/[**makefile-example**](https://github.com/sjackman/makefile-example)|An example of a data analysis pipeline using Make|[:arrow_upper_right:](http://sjackman.ca/makefile-example/)|
 |15|[@exAspArk](https://github.com/exAspArk)/[**docker-alpine-ruby**](https://github.com/exAspArk/docker-alpine-ruby)|The smallest Docker image with Ruby||
-|15|[@sjackman](https://github.com/sjackman)/[**docker-linuxbrew**](https://github.com/sjackman/docker-linuxbrew)|:skull: Defunct. Use https://github.com/Linuxbrew/docker||
 |15|[@sjourdan](https://github.com/sjourdan)/[**strace-docker**](https://github.com/sjourdan/strace-docker)|strace in docker||
+|14|[@sjackman](https://github.com/sjackman)/[**docker-linuxbrew**](https://github.com/sjackman/docker-linuxbrew)|:skull: Defunct. Use https://github.com/Linuxbrew/docker||
 |14|[@sjourdan](https://github.com/sjourdan)/[**ffmpeg-docker**](https://github.com/sjourdan/ffmpeg-docker)|FFmpeg on Alpine Docker Image||
 |13|[@sjackman](https://github.com/sjackman)/[**assembly-graph**](https://github.com/sjackman/assembly-graph)|Compare assembly graph file formats||
 |11|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_osprey**](https://github.com/sultanqasim/android_device_motorola_osprey)|Device tree for 2015 Moto G (osprey)||

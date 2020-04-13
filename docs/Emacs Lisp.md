@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|19690|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
+|19747|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
 |163|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
-|126|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
-|107|[@atgreen](https://github.com/atgreen)/[**paperless**](https://github.com/atgreen/paperless)|Emacs assisted PDF document filing||
+|127|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
+|108|[@atgreen](https://github.com/atgreen)/[**paperless**](https://github.com/atgreen/paperless)|Emacs assisted PDF document filing||
 |87|[@aspiers](https://github.com/aspiers)/[**smooth-scrolling**](https://github.com/aspiers/smooth-scrolling)|Emacs smooth scrolling package||
 |82|[@syl20bnr](https://github.com/syl20bnr)/[**spacelpa**](https://github.com/syl20bnr/spacelpa)|ELPA repository for stable versions of Spacemacs||
 |78|[@syl20bnr](https://github.com/syl20bnr)/[**evil-lisp-state**](https://github.com/syl20bnr/evil-lisp-state)|An evil state to navigate Lisp code and modify it with smartparens||
 |63|[@rudolfolah](https://github.com/rudolfolah)/[**emacs-sos**](https://github.com/rudolfolah/emacs-sos)|StackOverflow Search (SOS) mode for Emacs.||
 |57|[@arthurnn](https://github.com/arthurnn)/[**howdoi-emacs**](https://github.com/arthurnn/howdoi-emacs)|Search code from StackOverflow and paste it in emacs.||
-|52|[@rudolfolah](https://github.com/rudolfolah)/[**org-doing**](https://github.com/rudolfolah/org-doing)|keep track of what you're doing right now and what you've worked on before|[:arrow_upper_right:](http://omouse.github.io/org-doing)|
+|53|[@rudolfolah](https://github.com/rudolfolah)/[**org-doing**](https://github.com/rudolfolah/org-doing)|keep track of what you're doing right now and what you've worked on before|[:arrow_upper_right:](http://omouse.github.io/org-doing)|
 |50|[@syl20bnr](https://github.com/syl20bnr)/[**evil-tutor**](https://github.com/syl20bnr/evil-tutor)|Vimtutor adapted to Emacs+Evil and wrapped in a major mode.||
 |49|[@syl20bnr](https://github.com/syl20bnr)/[**evil-iedit-state**](https://github.com/syl20bnr/evil-iedit-state)|Slick Evil states for iedit.||
 |46|[@jimeh](https://github.com/jimeh)/[**twilight-bright-theme.el**](https://github.com/jimeh/twilight-bright-theme.el)|A Emacs port of the TextMate theme by the same name with some minor tweaks and additions.||
@@ -34,8 +34,8 @@
 |10|[@danp](https://github.com/danp)/[**confluence-el**](https://github.com/danp/confluence-el)|confluence emacs integration|[:arrow_upper_right:](http://code.google.com/p/confluence-el/)|
 |10|[@jimeh](https://github.com/jimeh)/[**rubocopfmt.el**](https://github.com/jimeh/rubocopfmt.el)|Emacs minor-mode to format Ruby code with RuboCop on save.||
 |10|[@rspivak](https://github.com/rspivak)/[**httpcode.el**](https://github.com/rspivak/httpcode.el)|Explains the meaning of an HTTP status code in minibuffer||
+|10|[@rudolfolah](https://github.com/rudolfolah)/[**emacs-flow-jsx**](https://github.com/rudolfolah/emacs-flow-jsx)|Emacs mode for handling JavaScript that uses Flow type annotations and has some React JSX syntax in it. (MIRROR)|[:arrow_upper_right:](https://gitlab.com/rudolfo/emacs-flow-jsx)|
 |9|[@onaio](https://github.com/onaio)/[**meow**](https://github.com/onaio/meow)|||
-|9|[@rudolfolah](https://github.com/rudolfolah)/[**emacs-flow-jsx**](https://github.com/rudolfolah/emacs-flow-jsx)|Emacs mode for handling JavaScript that uses Flow type annotations and has some React JSX syntax in it. (MIRROR)|[:arrow_upper_right:](https://gitlab.com/rudolfo/emacs-flow-jsx)|
 |8|[@j0ni](https://github.com/j0ni)/[**phoenix-dark-mono**](https://github.com/j0ni/phoenix-dark-mono)|Mono version of the Phoenix Dark theme||
 |7|[@jimeh](https://github.com/jimeh)/[**tomorrow-night-paradise-theme.el**](https://github.com/jimeh/tomorrow-night-paradise-theme.el)|A light-on-dark Emacs theme which is essentially a tweaked version of Chris Kempson's Tomorrow Night Bright theme.||
 |7|[@thephoeron](https://github.com/thephoeron)/[**slime-pack**](https://github.com/thephoeron/slime-pack)|SLIME pack for Emacs Live||

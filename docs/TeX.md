@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|20837|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
-|834|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
-|357|[@jennybc](https://github.com/jennybc)/[**happy-git-with-r**](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|[:arrow_upper_right:](https://happygitwithr.com)|
-|297|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
+|20900|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
+|836|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
+|360|[@jennybc](https://github.com/jennybc)/[**happy-git-with-r**](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|[:arrow_upper_right:](https://happygitwithr.com)|
+|299|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
 |292|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
 |260|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
-|240|[@bob-carpenter](https://github.com/bob-carpenter)/[**prob-stats**](https://github.com/bob-carpenter/prob-stats)|Probability and Statistics: a simulation-based introduction.  An open-access book.||
-|209|[@hamaluik](https://github.com/hamaluik)/[**Beamer-Theme-Execushares**](https://github.com/hamaluik/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
+|242|[@bob-carpenter](https://github.com/bob-carpenter)/[**prob-stats**](https://github.com/bob-carpenter/prob-stats)|Probability and Statistics: a simulation-based introduction.  An open-access book.||
+|211|[@hamaluik](https://github.com/hamaluik)/[**Beamer-Theme-Execushares**](https://github.com/hamaluik/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
 |154|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
 |112|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
-|64|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
+|66|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
 |54|[@iandennismiller](https://github.com/iandennismiller)/[**mueller-report**](https://github.com/iandennismiller/mueller-report)|Open Source Mueller Report is an enhanced edition of the Mueller Report.|[:arrow_upper_right:](http://opensourcemuellerreport.com)|
 |46|[@christhomson](https://github.com/christhomson)/[**lecture-notes**](https://github.com/christhomson/lecture-notes)|LaTeX notes for a few courses I've taken at the University of Waterloo.|[:arrow_upper_right:](http://cthomson.ca/notes)|
 |32|[@jihoonog](https://github.com/jihoonog)/[**School-Notes-Public**](https://github.com/jihoonog/School-Notes-Public)|This is the public repository of all my school notes from the University of Alberta (and some from the University of Lethbridge)||
@@ -18,25 +18,25 @@
 |25|[@AllanWang](https://github.com/AllanWang)/[**McGill-Public**](https://github.com/AllanWang/McGill-Public)|Part of McGill U3/U4 that can be made public|[:arrow_upper_right:](https://allanwang.github.io/McGill-Public/)|
 |24|[@peeterjoot](https://github.com/peeterjoot)/[**physicsplay**](https://github.com/peeterjoot/physicsplay)|Latex source for geometric algebra and physics notes.|[:arrow_upper_right:](http://peeterjoot.com/)|
 |19|[@mcantelon](https://github.com/mcantelon)/[**fashion-quest**](https://github.com/mcantelon/fashion-quest)|Shoes-dependent, YAML-driven interactive fiction framework for fashion adventures|[:arrow_upper_right:](http://mcantelon.github.io/fashion-quest/)|
+|16|[@eddyerburgh](https://github.com/eddyerburgh)/[**notes**](https://github.com/eddyerburgh/notes)|📚Notes on computer science https://notes.eddyerburgh.me/||
 |16|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan**](https://github.com/gavinsimpson/esa-advanced-vegan)|Advanced Vegan Workshop for ESA||
 |15|[@bmcfee](https://github.com/bmcfee)/[**laplacian_segmentation**](https://github.com/bmcfee/laplacian_segmentation)|graph laplacian song segmentation||
 |15|[@tpoisot](https://github.com/tpoisot)/[**ecobiblatex**](https://github.com/tpoisot/ecobiblatex)|Biblatex styles for ecology journals||
 |14|[@gavinsimpson](https://github.com/gavinsimpson)/[**frontiers-palaeo-additive-modelling**](https://github.com/gavinsimpson/frontiers-palaeo-additive-modelling)|Modelling and feature detection in palaeoenvironmental time series using additive models||
 |13|[@PhilGeek](https://github.com/PhilGeek)/[**bib**](https://github.com/PhilGeek/bib)|BibTeX file of philosophy papers|[:arrow_upper_right:](http://markelikalderon.com)|
-|13|[@eddyerburgh](https://github.com/eddyerburgh)/[**notes**](https://github.com/eddyerburgh/notes)|📚Notes on computer science https://notes.eddyerburgh.me/||
 |13|[@rcompton](https://github.com/rcompton)/[**black-market-recommender-systems**](https://github.com/rcompton/black-market-recommender-systems)|Code and paper||
 |12|[@Pomax](https://github.com/Pomax)/[**ucharclasses**](https://github.com/Pomax/ucharclasses)|A XeLaTeX package that lets you insert arbitrary code between characters from different unicode blocks||
 |12|[@gdevenyi](https://github.com/gdevenyi)/[**mcmaster.latex**](https://github.com/gdevenyi/mcmaster.latex)|LaTeX Template Satisfying McMaster Thesis Formatting Requirements||
+|12|[@levex](https://github.com/levex)/[**debugger-talk**](https://github.com/levex/debugger-talk)|Let's write a Debugger!|[:arrow_upper_right:](http://osdev.me/)|
 |11|[@PhDP](https://github.com/PhDP)/[**ms_open_licenses**](https://github.com/PhDP/ms_open_licenses)|A defence of permissive licenses (CC0, CC-BY, BSD, MIT, ...) in science||
 |11|[@ldionne](https://github.com/ldionne)/[**wg21**](https://github.com/ldionne/wg21)|My proposals for the C++ standard||
-|11|[@levex](https://github.com/levex)/[**debugger-talk**](https://github.com/levex/debugger-talk)|Let's write a Debugger!|[:arrow_upper_right:](http://osdev.me/)|
 |10|[@PhDP](https://github.com/PhDP)/[**article_preprint**](https://github.com/PhDP/article_preprint)|An article on preprints in biology (published in PLOS Biology).||
 |10|[@gaborbernat](https://github.com/gaborbernat)/[**ropi_jegyzet_latex**](https://github.com/gaborbernat/ropi_jegyzet_latex)|Rendszeroptimizálás||
 |10|[@larrytheliquid](https://github.com/larrytheliquid)/[**generic-elim**](https://github.com/larrytheliquid/generic-elim)|Source code accompanying the paper "Generic Constructors and Eliminators from Descriptions"|[:arrow_upper_right:](http://dl.acm.org/citation.cfm?id=2633630)|
+|9|[@hadim](https://github.com/hadim)/[**phd_thesis**](https://github.com/hadim/phd_thesis)|My PhD thesis source code (markdown + latex + pandoc)||
 |9|[@seananderson](https://github.com/seananderson)/[**heavy-tails**](https://github.com/seananderson/heavy-tails)|Black-swan events in animal populations||
 |8|[@EbTech](https://github.com/EbTech)/[**EloR**](https://github.com/EbTech/EloR)|Estimating strengths of Codeforces members||
 |8|[@bmcfee](https://github.com/bmcfee)/[**playlist_recommender**](https://github.com/bmcfee/playlist_recommender)|Personalized generative playlist models||
-|8|[@hadim](https://github.com/hadim)/[**phd_thesis**](https://github.com/hadim/phd_thesis)|My PhD thesis source code (markdown + latex + pandoc)||
 |8|[@qrwteyrutiyoup](https://github.com/qrwteyrutiyoup)/[**modelo-latex-uece**](https://github.com/qrwteyrutiyoup/modelo-latex-uece)|Modelo de monografia em LaTeX da Universidade Estadual do Ceará (UECE)||
 |7|[@ctn-archive](https://github.com/ctn-archive)/[**bekolay-jneurosci2014**](https://github.com/ctn-archive/bekolay-jneurosci2014)|Files related to "A spiking neural integrator model of the adaptive control of action by the medial prefrontal cortex"||
 |7|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan-2016**](https://github.com/gavinsimpson/esa-advanced-vegan-2016)|Advanced Vegan Workshop at ESA 2016||
@@ -50,7 +50,6 @@
 |6|[@sx-archipelagos](https://github.com/sx-archipelagos)/[**sxa**](https://github.com/sx-archipelagos/sxa)|||
 |5|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**UBC-Metropolis-Beamer**](https://github.com/JoeyEremondi/UBC-Metropolis-Beamer)|Metropolis Beamer theme with UBC Colors and Logo||
 |5|[@MathML](https://github.com/MathML)/[**MathMLinHTML5**](https://github.com/MathML/MathMLinHTML5)|(we migrated to GitLab) Draft for a detailed technical document to implement MathML in Web rendering engines.|[:arrow_upper_right:](http://www.mathml-association.org/MathMLinHTML5/)|
-|5|[@abramhindle](https://github.com/abramhindle)/[**CMPUT201W20B2-public**](https://github.com/abramhindle/CMPUT201W20B2-public)|CMPUT201W20B2-public public code||
 |5|[@davepagurek](https://github.com/davepagurek)/[**DynamicKelvinlets**](https://github.com/davepagurek/DynamicKelvinlets)|||
 |5|[@dpo](https://github.com/dpo)/[**latex-styles**](https://github.com/dpo/latex-styles)|Customizations of LaTeX Styles Useful for Scientific Papers||
 |5|[@gnewton](https://github.com/gnewton)/[**lusql**](https://github.com/gnewton/lusql)|High performance extract, transform, load (ETL) initially for JDBC-->Lucene, now supports other paths through plugins||
