@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1002|[@lazywinadmin](https://github.com/lazywinadmin)/[**PowerShell**](https://github.com/lazywinadmin/PowerShell)|PowerShell functions and scripts (SCCM, SCSM, AD, Exchange, O365, ...)|[:arrow_upper_right:](http://lazywinadmin.com)|
-|733|[@Arvanaghi](https://github.com/Arvanaghi)/[**SessionGopher**](https://github.com/Arvanaghi/SessionGopher)|SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or locally.||
-|269|[@lazywinadmin](https://github.com/lazywinadmin)/[**LazyWinAdmin_GUI**](https://github.com/lazywinadmin/LazyWinAdmin_GUI)|PowerShell Script that generates a GUI/WinForms loaded with tons of functions|[:arrow_upper_right:](http://lazywinadmin.github.io/LazyWinAdmin_GUI/)|
-|158|[@lazywinadmin](https://github.com/lazywinadmin)/[**Monitor-ADGroupMembership**](https://github.com/lazywinadmin/Monitor-ADGroupMembership)|PowerShell script to monitor Active Directory groups and send an email when someone is changing the membership||
-|148|[@lazywinadmin](https://github.com/lazywinadmin)/[**AdsiPS**](https://github.com/lazywinadmin/AdsiPS)|PowerShell module to interact with Active Directory using ADSI and the System.DirectoryServices namespace (.NET Framework)|[:arrow_upper_right:](http://www.lazywinadmin.com)|
-|97|[@dlwyatt](https://github.com/dlwyatt)/[**PolicyFileEditor**](https://github.com/dlwyatt/PolicyFileEditor)|PowerShell functions and DSC resource wrappers around the TJX.PolFileEditor.PolFile .NET class.||
-|80|[@BCSharp](https://github.com/BCSharp)/[**PSCondaEnvs**](https://github.com/BCSharp/PSCondaEnvs)|Implementation of Conda's activate/deactivate functions in Powershell.||
+|1035|[@lazywinadmin](https://github.com/lazywinadmin)/[**PowerShell**](https://github.com/lazywinadmin/PowerShell)|PowerShell functions and scripts (SCCM, SCSM, AD, Exchange, O365, ...)|[:arrow_upper_right:](http://lazywinadmin.com)|
+|736|[@Arvanaghi](https://github.com/Arvanaghi)/[**SessionGopher**](https://github.com/Arvanaghi/SessionGopher)|SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or locally.||
+|274|[@lazywinadmin](https://github.com/lazywinadmin)/[**LazyWinAdmin_GUI**](https://github.com/lazywinadmin/LazyWinAdmin_GUI)|PowerShell Script that generates a GUI/WinForms loaded with tons of functions|[:arrow_upper_right:](http://lazywinadmin.github.io/LazyWinAdmin_GUI/)|
+|161|[@lazywinadmin](https://github.com/lazywinadmin)/[**Monitor-ADGroupMembership**](https://github.com/lazywinadmin/Monitor-ADGroupMembership)|PowerShell script to monitor Active Directory groups and send an email when someone is changing the membership||
+|149|[@lazywinadmin](https://github.com/lazywinadmin)/[**AdsiPS**](https://github.com/lazywinadmin/AdsiPS)|PowerShell module to interact with Active Directory using ADSI and the System.DirectoryServices namespace (.NET Framework)|[:arrow_upper_right:](http://www.lazywinadmin.com)|
+|99|[@dlwyatt](https://github.com/dlwyatt)/[**PolicyFileEditor**](https://github.com/dlwyatt/PolicyFileEditor)|PowerShell functions and DSC resource wrappers around the TJX.PolFileEditor.PolFile .NET class.||
+|81|[@BCSharp](https://github.com/BCSharp)/[**PSCondaEnvs**](https://github.com/BCSharp/PSCondaEnvs)|Implementation of Conda's activate/deactivate functions in Powershell.||
 |70|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powershell-powerline-prompt**](https://github.com/AmrEldib/cmder-powershell-powerline-prompt)|Custom PowerShell prompt for Cmder on Windows ||
 |66|[@dlwyatt](https://github.com/dlwyatt)/[**ProtectedData**](https://github.com/dlwyatt/ProtectedData)|PowerShell Module for securely encrypting and sharing secret data such as passwords.||
-|64|[@AmrEldib](https://github.com/AmrEldib)/[**WindowsContextMenuCustomizations**](https://github.com/AmrEldib/WindowsContextMenuCustomizations)|Registry entries to modify Windows context menu||
-|48|[@lazywinadmin](https://github.com/lazywinadmin)/[**LazyTS**](https://github.com/lazywinadmin/LazyTS)|PowerShell Script (GUI) to manage Terminal Sessions|[:arrow_upper_right:](http://lazywinadmin.com)|
+|65|[@AmrEldib](https://github.com/AmrEldib)/[**WindowsContextMenuCustomizations**](https://github.com/AmrEldib/WindowsContextMenuCustomizations)|Registry entries to modify Windows context menu||
+|49|[@lazywinadmin](https://github.com/lazywinadmin)/[**LazyTS**](https://github.com/lazywinadmin/LazyTS)|PowerShell Script (GUI) to manage Terminal Sessions|[:arrow_upper_right:](http://lazywinadmin.com)|
 |48|[@lazywinadmin](https://github.com/lazywinadmin)/[**WinFormPS**](https://github.com/lazywinadmin/WinFormPS)|PowerShell functions for Windows Forms controls|[:arrow_upper_right:](http://www.lazywinadmin.com)|
 |38|[@dlwyatt](https://github.com/dlwyatt)/[**PowershellProfiler**](https://github.com/dlwyatt/PowershellProfiler)|||
 |38|[@jlouros](https://github.com/jlouros)/[**PowerShell-toolbox**](https://github.com/jlouros/PowerShell-toolbox)|my collection of PowerShell scripts||
@@ -38,7 +38,7 @@
 |6|[@dansmith65](https://github.com/dansmith65)/[**FileMaker-PowerShell-Clipboard**](https://github.com/dansmith65/FileMaker-PowerShell-Clipboard)|Manipulate FileMaker formatted clipboard formats with PowerShell.||
 |6|[@dlwyatt](https://github.com/dlwyatt)/[**RefactoringPowerShellWithPester**](https://github.com/dlwyatt/RefactoringPowerShellWithPester)|Demonstration of using Pester to aid in refactoring an old script||
 |6|[@lazywinadmin](https://github.com/lazywinadmin)/[**CountriesPS**](https://github.com/lazywinadmin/CountriesPS)|CountriesPS is a module to retrieve data about Countries using the https://restcountries.eu/ REST API||
-|6|[@lazywinadmin](https://github.com/lazywinadmin)/[**PowerShellTests**](https://github.com/lazywinadmin/PowerShellTests)|Random PowerShell test/draft scripts|[:arrow_upper_right:](https://lazywinadmin.com)|
+|6|[@lazywinadmin](https://github.com/lazywinadmin)/[**PowerShellTests**](https://github.com/lazywinadmin/PowerShellTests)|PowerShell playground, test/draft scripts|[:arrow_upper_right:](https://lazywinadmin.com)|
 |6|[@lazywinadmin](https://github.com/lazywinadmin)/[**ScriptAnalyzerRulesLWA**](https://github.com/lazywinadmin/ScriptAnalyzerRulesLWA)|Opinionated PSScriptAnalyzer custom rules||
 |5|[@TunnyTraffic](https://github.com/TunnyTraffic)/[**Useful-PS-Scripts**](https://github.com/TunnyTraffic/Useful-PS-Scripts)|Just a bucket for PS stuff||
 |5|[@fsackur](https://github.com/fsackur)/[**Powershell-and-SE**](https://github.com/fsackur/Powershell-and-SE)|Material for talk on Powershell and Principles of Software Engineering||
@@ -46,6 +46,7 @@
 |4|[@DonSchenck](https://github.com/DonSchenck)/[**PoshRack**](https://github.com/DonSchenck/PoshRack)|An opinionated PowerShell client for the Rackspace cloud.||
 |4|[@JamesKovacs](https://github.com/JamesKovacs)/[**scripts**](https://github.com/JamesKovacs/scripts)|PowerShell Scripts|[:arrow_upper_right:](http://jameskovacs.com)|
 |4|[@dlwyatt](https://github.com/dlwyatt)/[**WinOps2015Demo**](https://github.com/dlwyatt/WinOps2015Demo)|||
+|4|[@lazywinadmin](https://github.com/lazywinadmin)/[**CiresonAssetManagementPS**](https://github.com/lazywinadmin/CiresonAssetManagementPS)|PowerShell module for Cireson Asset Management (CAM)||
 |4|[@twistedstream](https://github.com/twistedstream)/[**BoxStarter-packages**](https://github.com/twistedstream/BoxStarter-packages)|Source for the various BoxStarter packages I've created||
 |4|[@yetanotherchris](https://github.com/yetanotherchris)/[**Choco-chromedriver**](https://github.com/yetanotherchris/Choco-chromedriver)|Chocolatey package that downloads and installs the latest Chromedriver||
 |4|[@yetanotherchris](https://github.com/yetanotherchris)/[**Laptop-Install**](https://github.com/yetanotherchris/Laptop-Install)|Setup script and assets for for a new Visual Studio VM||
@@ -54,7 +55,6 @@
 |3|[@adv4000](https://github.com/adv4000)/[**packer**](https://github.com/adv4000/packer)|HashiCorp Packer||
 |3|[@giulianoberteo](https://github.com/giulianoberteo)/[**vcdNetworksRedeploy**](https://github.com/giulianoberteo/vcdNetworksRedeploy)|This PS script can redeploy and/or reset vCloud Director networks||
 |3|[@jlucktay](https://github.com/jlucktay)/[**posh-bomb**](https://github.com/jlucktay/posh-bomb)|Giant Bomb dot com and PowerShell, together at last||
-|3|[@lazywinadmin](https://github.com/lazywinadmin)/[**CiresonAssetManagementPS**](https://github.com/lazywinadmin/CiresonAssetManagementPS)|PowerShell module for Cireson Asset Management (CAM)||
 |3|[@lazywinadmin](https://github.com/lazywinadmin)/[**PSModuleSample**](https://github.com/lazywinadmin/PSModuleSample)|PowerShell Module demo||
 |3|[@lazywinadmin](https://github.com/lazywinadmin)/[**nxtools**](https://github.com/lazywinadmin/nxtools)|PowerShell tools for Linux Operating System||
 

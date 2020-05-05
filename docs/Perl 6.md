@@ -1,8 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|23|[@briandfoy](https://github.com/briandfoy)/[**LearningPerl6_Downloads**](https://github.com/briandfoy/LearningPerl6_Downloads)|The downloads for LearningPerl6.com, here as a backup||
+|22|[@briandfoy](https://github.com/briandfoy)/[**LearningPerl6_Downloads**](https://github.com/briandfoy/LearningPerl6_Downloads)|The downloads for LearningPerl6.com, here as a backup||
 |20|[@supernovus](https://github.com/supernovus)/[**perl6-web**](https://github.com/supernovus/perl6-web)|A collection of libraries for making Web Apps in Perl 6||
-|16|[@supernovus](https://github.com/supernovus)/[**perl6-http-client**](https://github.com/supernovus/perl6-http-client)|Build HTTP Clients easily with Perl 6||
 |15|[@supernovus](https://github.com/supernovus)/[**exemel**](https://github.com/supernovus/exemel)|An Object-Oriented XML Library for Perl 6||
 |13|[@supernovus](https://github.com/supernovus)/[**perl6-http-easy**](https://github.com/supernovus/perl6-http-easy)|Make HTTP servers (with PSGI support) easily with Perl 6||
 |11|[@supernovus](https://github.com/supernovus)/[**PSpec**](https://github.com/supernovus/PSpec)|An RSpec-like BDD test framework for Perl 6.|[:arrow_upper_right:](http://huri.net/articles/2010/01/pspec.html)|

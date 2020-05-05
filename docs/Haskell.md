@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|829|[@fosskers](https://github.com/fosskers)/[**aura**](https://github.com/fosskers/aura)|A secure, multilingual package manager for Arch Linux and the AUR.|[:arrow_upper_right:](https://gitter.im/aurapm/aura)|
-|209|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
+|840|[@fosskers](https://github.com/fosskers)/[**aura**](https://github.com/fosskers/aura)|A secure, multilingual package manager for Arch Linux and the AUR.|[:arrow_upper_right:](https://gitter.im/aurapm/aura)|
+|213|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
 |155|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
 |131|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |130|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
@@ -20,7 +20,6 @@
 |25|[@WillSewell](https://github.com/WillSewell)/[**pusher-http-haskell**](https://github.com/WillSewell/pusher-http-haskell)|Pusher Haskell HTTP Library||
 |24|[@singpolyma](https://github.com/singpolyma)/[**unexceptionalio**](https://github.com/singpolyma/unexceptionalio)|IO without any PseudoExceptions|[:arrow_upper_right:](http://hackage.haskell.org/package/unexceptionalio)|
 |21|[@PhDP](https://github.com/PhDP)/[**Akarui**](https://github.com/PhDP/Akarui)|Experimental ML/AI code||
-|20|[@PhDP](https://github.com/PhDP)/[**Faun**](https://github.com/PhDP/Faun)|Experimental ML/AI code||
 |18|[@Aiden01](https://github.com/Aiden01)/[**iris-lang**](https://github.com/Aiden01/iris-lang)|A simple, statically-typed programming language||
 |17|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm-old**](https://github.com/JoeyEremondi/haskelm-old)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |16|[@WillSewell](https://github.com/WillSewell)/[**benchpress**](https://github.com/WillSewell/benchpress)|Micro-benchmarking of Haskell code with detailed execution time statistics.||
@@ -31,16 +30,17 @@
 |16|[@gregorycollins](https://github.com/gregorycollins)/[**homepage**](https://github.com/gregorycollins/homepage)|Source code for http://gregorycollins.net/ --- built on the Haskell "happstack" framework|[:arrow_upper_right:](http://gregorycollins.net/)|
 |16|[@jpittis](https://github.com/jpittis)/[**toxiproxy-haskell**](https://github.com/jpittis/toxiproxy-haskell)|A Haskell client for Toxiproxy.||
 |15|[@Ailrun](https://github.com/Ailrun)/[**core-lang-haskell**](https://github.com/Ailrun/core-lang-haskell)|Implementation for the book <Implementing functional languages: a tutorial>||
+|15|[@fosskers](https://github.com/fosskers)/[**versions**](https://github.com/fosskers/versions)|Haskell types and parsers for software version numbers.||
 |15|[@larrytheliquid](https://github.com/larrytheliquid)/[**neurosis**](https://github.com/larrytheliquid/neurosis)|Ruby Sinatra REST frontent to simple Haskell MLP Neural Network (AKA Hubris Haskell->Ruby bridge demo)||
 |15|[@levex](https://github.com/levex)/[**haskell-doom**](https://github.com/levex/haskell-doom)|doom||
 |14|[@aycanirican](https://github.com/aycanirican)/[**hweblib**](https://github.com/aycanirican/hweblib)|Haskell Web Library||
 |14|[@csabahruska](https://github.com/csabahruska)/[**jhc-grin**](https://github.com/csabahruska/jhc-grin)|GRIN Haskell backend stripped out from JHC. (GRIN from scratch: https://github.com/grin-tech/grin)||
-|14|[@fosskers](https://github.com/fosskers)/[**versions**](https://github.com/fosskers/versions)|Haskell types and parsers for software version numbers.||
 |14|[@nitrix](https://github.com/nitrix)/[**udfs**](https://github.com/nitrix/udfs)|Ubiquitous Distributed File System||
 |14|[@singpolyma](https://github.com/singpolyma)/[**wai-session**](https://github.com/singpolyma/wai-session)|Flexible session middleware for WAI||
 |14|[@takeoutweight](https://github.com/takeoutweight)/[**shade-todomvc**](https://github.com/takeoutweight/shade-todomvc)|Example of using Haste and React.js to implement TodoMVC||
+|12|[@danieljharvey](https://github.com/danieljharvey)/[**tmux-mate**](https://github.com/danieljharvey/tmux-mate)|Launch and manage your Tmux sessions from Dhall files.||
 |12|[@gregorycollins](https://github.com/gregorycollins)/[**attoparsec-iteratee**](https://github.com/gregorycollins/attoparsec-iteratee)|An adapter to convert attoparsec Parsers into blazing-fast Iteratees||
-|11|[@danieljharvey](https://github.com/danieljharvey)/[**tmux-mate**](https://github.com/danieljharvey/tmux-mate)|Launch and manage your Tmux sessions from Dhall files.||
+|12|[@nitrix](https://github.com/nitrix)/[**lspace**](https://github.com/nitrix/lspace)|Real-time 2D strategy/sandbox game.|[:arrow_upper_right:](https://lonesomespace.com)|
 |11|[@eschnett](https://github.com/eschnett)/[**mpi-hs**](https://github.com/eschnett/mpi-hs)|MPI bindings for Haskell||
 |11|[@fosskers](https://github.com/fosskers)/[**microlens-aeson**](https://github.com/fosskers/microlens-aeson)|Lenses and Traversals for Aeson, based on Microlens.||
 |11|[@singpolyma](https://github.com/singpolyma)/[**cheogram**](https://github.com/singpolyma/cheogram)|Groupchat for everyone|[:arrow_upper_right:](https://cheogram.com)|
@@ -77,6 +77,7 @@
 |6|[@larrytheliquid](https://github.com/larrytheliquid)/[**spire**](https://github.com/larrytheliquid/spire)|The Spire Programming Language||
 |6|[@nitrix](https://github.com/nitrix)/[**ni**](https://github.com/nitrix/ni)|Ni programming language||
 |6|[@pbevin](https://github.com/pbevin)/[**cardelli**](https://github.com/pbevin/cardelli)|Cardelli type inferencer translated to Javascript||
+|5|[@csabahruska](https://github.com/csabahruska)/[**dsl-experiment**](https://github.com/csabahruska/dsl-experiment)|Basic implementation of Hindley-Milner Type System and variants.||
 |5|[@csabahruska](https://github.com/csabahruska)/[**game-logic-experiment**](https://github.com/csabahruska/game-logic-experiment)|experiment with game logic representation in haskell||
 |5|[@csabahruska](https://github.com/csabahruska)/[**stunts**](https://github.com/csabahruska/stunts)|Remake of Stunts 4D Sports Driving in Haskell||
 |5|[@diogob](https://github.com/diogob)/[**reader-tutorial**](https://github.com/diogob/reader-tutorial)|Tutorial using ReaderT and mock IO functions for testing||
@@ -97,7 +98,6 @@
 |3|[@avieth](https://github.com/avieth)/[**PullRequestNagger**](https://github.com/avieth/PullRequestNagger)|Nag your peers about outstanding pull requests||
 |3|[@ba205](https://github.com/ba205)/[**ml-conduit**](https://github.com/ba205/ml-conduit)|Online ML Algorithms with Conduit||
 |3|[@bsandrow](https://github.com/bsandrow)/[**xmonad**](https://github.com/bsandrow/xmonad)|My Xmonad Config file and Related scripts||
-|3|[@csabahruska](https://github.com/csabahruska)/[**dsl-experiment**](https://github.com/csabahruska/dsl-experiment)|Basic implementation of Hindley-Milner Type System and variants.||
 |3|[@csabahruska](https://github.com/csabahruska)/[**immunity**](https://github.com/csabahruska/immunity)|||
 |3|[@cvogt](https://github.com/cvogt)/[**haskell-training**](https://github.com/cvogt/haskell-training)|building a minimal circleci client in haskell||
 |3|[@diogob](https://github.com/diogob)/[**hasql-notifications**](https://github.com/diogob/hasql-notifications)|Use PostgreSQL LISTEN/NOTIFY with your Hasql Types||
