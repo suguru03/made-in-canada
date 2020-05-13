@@ -6,6 +6,8 @@
 |8|[@rafael-trevisan](https://github.com/rafael-trevisan)/[**apex-plugin-peekaboo**](https://github.com/rafael-trevisan/apex-plugin-peekaboo)|Oracle APEX Plugin Pack - APEX Peekaboo||
 |6|[@martindsouza](https://github.com/martindsouza)/[**oracle-project-template**](https://github.com/martindsouza/oracle-project-template)|Template for Oracle APEX and PL/SQL Projects||
 |6|[@martindsouza](https://github.com/martindsouza)/[**pres-open-source-apex**](https://github.com/martindsouza/pres-open-source-apex)|View presentation: |[:arrow_upper_right:](http://martindsouza.github.io/pres-open-source-apex)|
+|3|[@bcgov](https://github.com/bcgov)/[**EDUC-INFRA-COMMON**](https://github.com/bcgov/EDUC-INFRA-COMMON)|||
+|3|[@tschf](https://github.com/tschf)/[**apex-ajax-upload**](https://github.com/tschf/apex-ajax-upload)|||
 |3|[@tschf](https://github.com/tschf)/[**pldu**](https://github.com/tschf/pldu)|PL/SQL Developer Utility||
 |3|[@vincentmorneau](https://github.com/vincentmorneau)/[**apex-theme-documentation**](https://github.com/vincentmorneau/apex-theme-documentation)|APEX Plugin to Help with Application Documentation||
 

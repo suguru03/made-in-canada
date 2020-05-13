@@ -1,18 +1,18 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|499|[@hamaluik](https://github.com/hamaluik)/[**timecop**](https://github.com/hamaluik/timecop)|A time tracking app that respects your privacy and the gets the job done without being fancy.|[:arrow_upper_right:](https://timecop.app/)|
+|501|[@hamaluik](https://github.com/hamaluik)/[**timecop**](https://github.com/hamaluik/timecop)|A time tracking app that respects your privacy and the gets the job done without being fancy.|[:arrow_upper_right:](https://timecop.app/)|
 |114|[@gurleensethi](https://github.com/gurleensethi)/[**sailor**](https://github.com/gurleensethi/sailor)|Easy page navigation and management in Flutter apps.|[:arrow_upper_right:](https://pub.dev/packages/sailor)|
 |90|[@JagandeepBrar](https://github.com/JagandeepBrar)/[**LunaSea**](https://github.com/JagandeepBrar/LunaSea)|LunaSea - Usenet Manager for iOS|[:arrow_upper_right:](https://www.lunasea.app)|
 |89|[@AndriousSolutions](https://github.com/AndriousSolutions)/[**mvc_pattern**](https://github.com/AndriousSolutions/mvc_pattern)|Flutter Plugin to implement one of many variations of the MVC design pattern.||
-|48|[@AndriousSolutions](https://github.com/AndriousSolutions)/[**ads**](https://github.com/AndriousSolutions/ads)|||
+|50|[@AndriousSolutions](https://github.com/AndriousSolutions)/[**ads**](https://github.com/AndriousSolutions/ads)|||
 |41|[@mikemimik](https://github.com/mikemimik)/[**flutter-calendar**](https://github.com/mikemimik/flutter-calendar)|A Calendar Widget for flutter||
 |34|[@AndriousSolutions](https://github.com/AndriousSolutions)/[**dbutils**](https://github.com/AndriousSolutions/dbutils)|Flutter Library for use of SQLite database||
 |33|[@butlermatt](https://github.com/butlermatt)/[**dart_koans**](https://github.com/butlermatt/dart_koans)|Dart Koans. Achieve enlightenment through failure.||
 |28|[@AndriousSolutions](https://github.com/AndriousSolutions)/[**auth**](https://github.com/AndriousSolutions/auth)|||
 |21|[@AndriousSolutions](https://github.com/AndriousSolutions)/[**mvc**](https://github.com/AndriousSolutions/mvc)|Initial Commit.||
 |19|[@Andrious](https://github.com/Andrious)/[**weathercast**](https://github.com/Andrious/weathercast)|Simple Flutter Weather Forecast App||
+|18|[@cesarferreira](https://github.com/cesarferreira)/[**flutter-architecture-example**](https://github.com/cesarferreira/flutter-architecture-example)|Easy Flutter architecture using dependency injection (DI) + BLoC + State Manager + Repository Pattern||
 |18|[@rock3r](https://github.com/rock3r)/[**squanchy-flutter**](https://github.com/rock3r/squanchy-flutter)|Flutter demo copying a few things over from Squanchy (http://squanchy.net)||
-|17|[@cesarferreira](https://github.com/cesarferreira)/[**flutter-architecture-example**](https://github.com/cesarferreira/flutter-architecture-example)|Easy Flutter architecture using dependency injection (DI) + BLoC + State Manager + Repository Pattern||
 |16|[@butlermatt](https://github.com/butlermatt)/[**dart_HTML5_Canvas**](https://github.com/butlermatt/dart_HTML5_Canvas)|A Dart port of the HTML5 Canvas (2nd Edition) Samples||
 |12|[@AndriousSolutions](https://github.com/AndriousSolutions)/[**mvc_application**](https://github.com/AndriousSolutions/mvc_application)|Application Framework conveying the MVC design pattern.||
 |11|[@gurleensethi](https://github.com/gurleensethi)/[**notifier**](https://github.com/gurleensethi/notifier)|Update any widget, from anywhere at anytime.||

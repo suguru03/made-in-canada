@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|205|[@samuelcolvin](https://github.com/samuelcolvin)/[**JuliaByExample**](https://github.com/samuelcolvin/JuliaByExample)|Examples of Julia|[:arrow_upper_right:](https://juliabyexample.helpmanual.io/)|
+|207|[@samuelcolvin](https://github.com/samuelcolvin)/[**JuliaByExample**](https://github.com/samuelcolvin/JuliaByExample)|Examples of Julia|[:arrow_upper_right:](https://juliabyexample.helpmanual.io/)|
 |73|[@eschnett](https://github.com/eschnett)/[**SIMD.jl**](https://github.com/eschnett/SIMD.jl)|Explicit SIMD vector operations for Julia||
 |65|[@una-dinosauria](https://github.com/una-dinosauria)/[**local-search-quantization**](https://github.com/una-dinosauria/local-search-quantization)|State-of-the-art method for large-scale ANN search as of Oct 2016. Presented at ECCV 16.||
 |35|[@una-dinosauria](https://github.com/una-dinosauria)/[**Rayuela.jl**](https://github.com/una-dinosauria/Rayuela.jl)|Code for my PhD thesis. Library of quantization-based methods for fast similarity search in high dimensions. Presented at ECCV 18.||

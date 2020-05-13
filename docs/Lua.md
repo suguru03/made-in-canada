@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|765|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
-|515|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
-|506|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
+|763|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
+|516|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
+|508|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
 |351|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
-|309|[@fangchangma](https://github.com/fangchangma)/[**sparse-to-dense**](https://github.com/fangchangma/sparse-to-dense)|ICRA 2018  "Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image" (Torch Implementation)||
+|311|[@fangchangma](https://github.com/fangchangma)/[**sparse-to-dense**](https://github.com/fangchangma/sparse-to-dense)|ICRA 2018  "Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image" (Torch Implementation)||
 |159|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
 |106|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
-|95|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
+|94|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
 |63|[@karai17](https://github.com/karai17)/[**lapis-chan**](https://github.com/karai17/lapis-chan)|Image board software written in Lua using the Lapis web framework.|[:arrow_upper_right:](http://lapchan.moe)|
 |54|[@castorini](https://github.com/castorini)/[**NCE-CNN-Torch**](https://github.com/castorini/NCE-CNN-Torch)|Noise-Contrastive Estimation for Question Answering with Convolutional Neural Networks (Rao et al. CIKM 2016)||
 |47|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**torch-in-action**](https://github.com/nicholas-leonard/torch-in-action)|Code for the Torch in Action book||
@@ -50,10 +50,10 @@
 |7|[@Deziel0495](https://github.com/Deziel0495)/[**ImprovedTowTruckScript**](https://github.com/Deziel0495/ImprovedTowTruckScript)|A modified version of Asser90's tow script with multiple fixes and improvements.||
 |7|[@karai17](https://github.com/karai17)/[**lua-winged-edge**](https://github.com/karai17/lua-winged-edge)|Winged Edge Data Structure in Lua||
 |7|[@krrish94](https://github.com/krrish94)/[**CarKeypoints**](https://github.com/krrish94/CarKeypoints)|Inference code for keypoint detection on cars||
+|7|[@mvdan](https://github.com/mvdan)/[**dotfiles**](https://github.com/mvdan/dotfiles)|Here be dragons||
 |6|[@Deziel0495](https://github.com/Deziel0495)/[**PTTPoliceRadio**](https://github.com/Deziel0495/PTTPoliceRadio)|This script toggles the police radio animation when the PTT key for your voice application is pushed.|[:arrow_upper_right:](https://forum.fivem.net/t/release-pttpoliceradio/49854)|
 |6|[@ReikaKalseki](https://github.com/ReikaKalseki)/[**EndgameCombat**](https://github.com/ReikaKalseki/EndgameCombat)|A mod to add much more powerful endgame weaponry and defences, to stand up to mods like Natural Evolution and DyTech.||
 |6|[@jhawthorn](https://github.com/jhawthorn)/[**dotfiles**](https://github.com/jhawthorn/dotfiles)|my configs||
-|6|[@mvdan](https://github.com/mvdan)/[**dotfiles**](https://github.com/mvdan/dotfiles)|Here be dragons||
 |6|[@vocksel](https://github.com/vocksel)/[**import**](https://github.com/vocksel/import)|A Roblox module importer with a concise path syntax||
 |5|[@ARitz-Cracker](https://github.com/ARitz-Cracker)/[**ARCPhone**](https://github.com/ARitz-Cracker/ARCPhone)|An in-game phone for Garry's Mod||
 |5|[@AndrewHazelden](https://github.com/AndrewHazelden)/[**Fusion-Studio-FuScript-IDE-Tools-and-Pipeline-Scripts**](https://github.com/AndrewHazelden/Fusion-Studio-FuScript-IDE-Tools-and-Pipeline-Scripts)|An open source collection of Fusion Studio based IDE tools and pipeline scripts||

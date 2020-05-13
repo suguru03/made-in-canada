@@ -1,25 +1,25 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|4795|[@christiannaths](https://github.com/christiannaths)/[**Redacted-Font**](https://github.com/christiannaths/Redacted-Font)|Keep your wireframes free of distracting Lorem Ipsum.||
+|4800|[@christiannaths](https://github.com/christiannaths)/[**Redacted-Font**](https://github.com/christiannaths/Redacted-Font)|Keep your wireframes free of distracting Lorem Ipsum.||
 |4037|[@Spandan-Madan](https://github.com/Spandan-Madan)/[**DeepLearningProject**](https://github.com/Spandan-Madan/DeepLearningProject)|An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.|[:arrow_upper_right:](https://spandan-madan.github.io/DeepLearningProject/)|
-|3915|[@addyosmani](https://github.com/addyosmani)/[**essential-js-design-patterns**](https://github.com/addyosmani/essential-js-design-patterns)|Repo for my 'Learning JavaScript Design Patterns' book|[:arrow_upper_right:](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)|
+|3916|[@addyosmani](https://github.com/addyosmani)/[**essential-js-design-patterns**](https://github.com/addyosmani/essential-js-design-patterns)|Repo for my 'Learning JavaScript Design Patterns' book|[:arrow_upper_right:](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)|
 |3889|[@addyosmani](https://github.com/addyosmani)/[**grunt-uncss**](https://github.com/addyosmani/grunt-uncss)|:scissors: A grunt task for removing unused CSS from your projects.||
-|3384|[@jlord](https://github.com/jlord)/[**git-it-electron**](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub||
+|3390|[@jlord](https://github.com/jlord)/[**git-it-electron**](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub||
 |2885|[@alfredxing](https://github.com/alfredxing)/[**brick**](https://github.com/alfredxing/brick)|Open-source webfont service|[:arrow_upper_right:](http://brick.im)|
 |1907|[@dansup](https://github.com/dansup)/[**bulma-templates**](https://github.com/dansup/bulma-templates)|free flexbox templates built with the bulma css framework|[:arrow_upper_right:](https://dansup.github.io/bulma-templates/)|
-|1837|[@jlord](https://github.com/jlord)/[**git-it**](https://github.com/jlord/git-it)|:computer: :mortar_board: Learn Git and GitHub. Try the new desktop version → |[:arrow_upper_right:](http://github.com/jlord/git-it-electron)|
+|1836|[@jlord](https://github.com/jlord)/[**git-it**](https://github.com/jlord/git-it)|:computer: :mortar_board: Learn Git and GitHub. Try the new desktop version → |[:arrow_upper_right:](http://github.com/jlord/git-it-electron)|
 |1568|[@allenhwkim](https://github.com/allenhwkim)/[**angularjs-google-maps**](https://github.com/allenhwkim/angularjs-google-maps)|The Simplest AngularJS Google Maps V3 Directive |[:arrow_upper_right:](http://ngmap.github.io)|
 |1470|[@christophery](https://github.com/christophery)/[**pushy**](https://github.com/christophery/pushy)|Pushy is a responsive off-canvas navigation menu using CSS transforms & transitions.|[:arrow_upper_right:](https://chrisyee.ca/pushy)|
-|948|[@jlord](https://github.com/jlord)/[**patchwork**](https://github.com/jlord/patchwork)|All the Git-it Workshop completers! |[:arrow_upper_right:](http://jlord.github.io/patchwork)|
+|947|[@jlord](https://github.com/jlord)/[**patchwork**](https://github.com/jlord/patchwork)|All the Git-it Workshop completers! |[:arrow_upper_right:](http://jlord.github.io/patchwork)|
 |928|[@dustinblackman](https://github.com/dustinblackman)/[**Championify**](https://github.com/dustinblackman/Championify)|Import recent item sets from popular aggregators like Champion.gg in to League of Legends to use within game! No hassle.||
-|900|[@lhunath](https://github.com/lhunath)/[**bash.academy**](https://github.com/lhunath/bash.academy)|The http://bash.academy website||
+|901|[@lhunath](https://github.com/lhunath)/[**bash.academy**](https://github.com/lhunath/bash.academy)|The http://bash.academy website||
 |799|[@bauhouse](https://github.com/bauhouse)/[**fluid960gs**](https://github.com/bauhouse/fluid960gs)|Fluid 960 Grid System|[:arrow_upper_right:](https://fluid960gs.markuplibrary.com/)|
 |776|[@ellekasai](https://github.com/ellekasai)/[**purplecoat.js**](https://github.com/ellekasai/purplecoat.js)|[Unmaintained] Simple Labeled Overlays|[:arrow_upper_right:](http://ellekasai.github.io/purplecoat.js)|
 |698|[@ellekasai](https://github.com/ellekasai)/[**resumecards**](https://github.com/ellekasai/resumecards)|[Unmaintained] A Markdown based resume generator. It looks great on mobile/desktop and can be saved as PDF.|[:arrow_upper_right:](http://ellekasai.github.io/resumecards/)|
-|610|[@zafarali](https://github.com/zafarali)/[**learning-angular**](https://github.com/zafarali/learning-angular)|A repo containing all code used to learn AngularJS, Scroll down to README for the tutorial.||
+|609|[@zafarali](https://github.com/zafarali)/[**learning-angular**](https://github.com/zafarali/learning-angular)|A repo containing all code used to learn AngularJS, Scroll down to README for the tutorial.||
 |548|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**PerfectDocs**](https://github.com/PerfectlySoft/PerfectDocs)|Reference and documentation for Perfect (Server-side Swift). Perfect (支持服务器端Swift语言的软件函数库）使用文档和参考手册.|[:arrow_upper_right:](https://www.perfect.org)|
-|538|[@lhunath](https://github.com/lhunath)/[**guide.bash.academy**](https://github.com/lhunath/guide.bash.academy)|Bash Academy - The Bash Guide||
-|490|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**Rdatasets**](https://github.com/vincentarelbundock/Rdatasets)|An archive of datasets distributed with R||
+|539|[@lhunath](https://github.com/lhunath)/[**guide.bash.academy**](https://github.com/lhunath/guide.bash.academy)|Bash Academy - The Bash Guide||
+|492|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**Rdatasets**](https://github.com/vincentarelbundock/Rdatasets)|An archive of datasets distributed with R||
 |462|[@auchenberg](https://github.com/auchenberg)/[**dependo**](https://github.com/auchenberg/dependo)|Visualize your CommonJS or AMD module dependencies in a force directed graph report.||
 |452|[@programble](https://github.com/programble)/[**writ**](https://github.com/programble/writ)|Opinionated, classless styles for semantic HTML|[:arrow_upper_right:](https://writ.cmcenroe.me)|
 |375|[@codyd51](https://github.com/codyd51)/[**axle**](https://github.com/codyd51/axle)|a UNIX-like kernel + userspace|[:arrow_upper_right:](http://axleos.com)|
@@ -32,45 +32,45 @@
 |292|[@ellekasai](https://github.com/ellekasai)/[**shiori**](https://github.com/ellekasai/shiori)|[Unmaintained] A Bootstrap-based Jekyll Theme.|[:arrow_upper_right:](http://ellekasai.github.io/shiori)|
 |264|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**modelsummary**](https://github.com/vincentarelbundock/modelsummary)|Beautiful, customizable, publication-ready model summaries in R.||
 |251|[@chfoo](https://github.com/chfoo)/[**wpull**](https://github.com/chfoo/wpull)|Wget-compatible web downloader and crawler.||
-|249|[@mrmrs](https://github.com/mrmrs)/[**gradients**](https://github.com/mrmrs/gradients)|Gradients!|[:arrow_upper_right:](http://mrmrs.io/gradients)|
-|244|[@chamkank](https://github.com/chamkank)/[**flask-chatterbot**](https://github.com/chamkank/flask-chatterbot)|Simple boilerplate for ChatterBot using Flask||
-|244|[@kylefox](https://github.com/kylefox)/[**jquery-tablesort**](https://github.com/kylefox/jquery-tablesort)|A tiny & dead-simple jQuery plugin for sortable tables.|[:arrow_upper_right:](http://dl.dropbox.com/u/780754/tablesort/index.html)|
-|235|[@cloudtracer](https://github.com/cloudtracer)/[**ThreatPinchLookup**](https://github.com/cloudtracer/ThreatPinchLookup)|Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke)|
+|250|[@mrmrs](https://github.com/mrmrs)/[**gradients**](https://github.com/mrmrs/gradients)|Gradients!|[:arrow_upper_right:](http://mrmrs.io/gradients)|
+|248|[@chamkank](https://github.com/chamkank)/[**flask-chatterbot**](https://github.com/chamkank/flask-chatterbot)|Simple boilerplate for ChatterBot using Flask||
+|245|[@kylefox](https://github.com/kylefox)/[**jquery-tablesort**](https://github.com/kylefox/jquery-tablesort)|A tiny & dead-simple jQuery plugin for sortable tables.|[:arrow_upper_right:](http://dl.dropbox.com/u/780754/tablesort/index.html)|
+|236|[@cloudtracer](https://github.com/cloudtracer)/[**ThreatPinchLookup**](https://github.com/cloudtracer/ThreatPinchLookup)|Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke)|
 |230|[@Spandan-Madan](https://github.com/Spandan-Madan)/[**A-Collection-of-important-tasks-in-pytorch**](https://github.com/Spandan-Madan/A-Collection-of-important-tasks-in-pytorch)|Everyday things people use in Pytorch. No need to spend hours reading Pytorch forums trying to find them!|[:arrow_upper_right:](https://goo.gl/5Q72ER)|
-|226|[@ajinabraham](https://github.com/ajinabraham)/[**Droid-Application-Fuzz-Framework**](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework)|Android application fuzzing framework with fuzzers and crash monitor.|[:arrow_upper_right:](https://opensecurity.in)|
+|227|[@ajinabraham](https://github.com/ajinabraham)/[**Droid-Application-Fuzz-Framework**](https://github.com/ajinabraham/Droid-Application-Fuzz-Framework)|Android application fuzzing framework with fuzzers and crash monitor.|[:arrow_upper_right:](https://opensecurity.in)|
 |226|[@danielcrisp](https://github.com/danielcrisp)/[**angular-rangeslider**](https://github.com/danielcrisp/angular-rangeslider)|Simple directive that creates a range slider for Angular, styled to match Bootstrap-styled form elements||
-|219|[@tristen](https://github.com/tristen)/[**hoverintent**](https://github.com/tristen/hoverintent)|:mouse: Fire mouse events when a user intends it|[:arrow_upper_right:](http://tristen.ca/hoverintent/)|
-|191|[@Currie32](https://github.com/Currie32)/[**Text-Summarization-with-Amazon-Reviews**](https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews)|A seq2seq model that can generate summaries from fine food reviews on Amazon.||
-|188|[@adamwathan](https://github.com/adamwathan)/[**theming-tailwind-demo**](https://github.com/adamwathan/theming-tailwind-demo)|||
-|187|[@dalinhuang99](https://github.com/dalinhuang99)/[**dalinhuang99.github.io**](https://github.com/dalinhuang99/dalinhuang99.github.io)|https://dalinhuang99.github.io||
+|220|[@tristen](https://github.com/tristen)/[**hoverintent**](https://github.com/tristen/hoverintent)|:mouse: Fire mouse events when a user intends it|[:arrow_upper_right:](http://tristen.ca/hoverintent/)|
+|192|[@Currie32](https://github.com/Currie32)/[**Text-Summarization-with-Amazon-Reviews**](https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews)|A seq2seq model that can generate summaries from fine food reviews on Amazon.||
+|189|[@adamwathan](https://github.com/adamwathan)/[**theming-tailwind-demo**](https://github.com/adamwathan/theming-tailwind-demo)|||
+|188|[@dalinhuang99](https://github.com/dalinhuang99)/[**dalinhuang99.github.io**](https://github.com/dalinhuang99/dalinhuang99.github.io)|https://dalinhuang99.github.io||
 |182|[@mrmrs](https://github.com/mrmrs)/[**html**](https://github.com/mrmrs/html)|HTML blocks|[:arrow_upper_right:](http://mrmrs.io/html)|
 |172|[@gaearon](https://github.com/gaearon)/[**react-elmish-example**](https://github.com/gaearon/react-elmish-example)|My personal attempt at understanding Elm architecture|[:arrow_upper_right:](http://gaearon.github.io/react-elmish-example)|
-|159|[@dohliam](https://github.com/dohliam)/[**dropin-minimal-css**](https://github.com/dohliam/dropin-minimal-css)|Drop-in switcher for previewing minimal CSS frameworks|[:arrow_upper_right:](https://dohliam.github.io/dropin-minimal-css)|
+|160|[@dohliam](https://github.com/dohliam)/[**dropin-minimal-css**](https://github.com/dohliam/dropin-minimal-css)|Drop-in switcher for previewing minimal CSS frameworks|[:arrow_upper_right:](https://dohliam.github.io/dropin-minimal-css)|
 |152|[@addyosmani](https://github.com/addyosmani)/[**prism-js**](https://github.com/addyosmani/prism-js)|A Polymer element for syntax highlighting with Prism.js||
 |151|[@allenhwkim](https://github.com/allenhwkim)/[**angular-jsdoc**](https://github.com/allenhwkim/angular-jsdoc)|AngularJS Template/Plugin for JSDoc 3.||
 |148|[@vincentmorneau](https://github.com/vincentmorneau)/[**material-apex**](https://github.com/vincentmorneau/material-apex)|A Material Design Theme for Oracle APEX|[:arrow_upper_right:](https://apex.oracle.com/pls/apex/f?p=12192)|
 |142|[@impressivewebs](https://github.com/impressivewebs)/[**CSS3-Click-Chart**](https://github.com/impressivewebs/CSS3-Click-Chart)|Example Code and Support Chart for new CSS Features|[:arrow_upper_right:](https://css3clickchart.com)|
+|142|[@miklevin](https://github.com/miklevin)/[**Levinux**](https://github.com/miklevin/Levinux)|Face your FEAR OF HEADLESS SERVERS with this ~20MB Virtual Linux w/ Python, vim & git. Stick your hand in the *nix gom jabbar with a double-click from the desktop of your Mac, Windows or Linux PC.|[:arrow_upper_right:](http://mikelev.in/ux/)|
 |142|[@websemantics](https://github.com/websemantics)/[**Image-Select**](https://github.com/websemantics/Image-Select)|Image Select is an extension of Chosen, a jQuery plugin that makes long, unwieldy select boxes much more user-friendly. It provides image support for Single and Multi select HTML tags.|[:arrow_upper_right:](http://websemantics.github.io/Image-Select)|
-|141|[@miklevin](https://github.com/miklevin)/[**Levinux**](https://github.com/miklevin/Levinux)|Face your FEAR OF HEADLESS SERVERS with this ~20MB Virtual Linux w/ Python, vim & git. Stick your hand in the *nix gom jabbar with a double-click from the desktop of your Mac, Windows or Linux PC.|[:arrow_upper_right:](http://mikelev.in/ux/)|
 |139|[@Currie32](https://github.com/Currie32)/[**Chatbot-from-Movie-Dialogue**](https://github.com/Currie32/Chatbot-from-Movie-Dialogue)|Built a simple chatbot from a sequence-to-sequence model with TensorFlow.||
 |137|[@posabsolute](https://github.com/posabsolute)/[**inker**](https://github.com/posabsolute/inker)|Evolved email development & delivery workflow|[:arrow_upper_right:](http://inker.position-absolute.com)|
 |135|[@matthutchinson](https://github.com/matthutchinson)/[**paging_keys_js**](https://github.com/matthutchinson/paging_keys_js)|Page navigation (scrolling) and pagination using keyboard shortcuts with micro-formatted html (hentry), inspired by the interaction on ffffound.com|[:arrow_upper_right:](http://matthutchinson.github.com/sandbox/paging_keys/examples/prototype/example.html)|
 |129|[@Jonic](https://github.com/Jonic)/[**WhatColourIsIt-ScreenSaver**](https://github.com/Jonic/WhatColourIsIt-ScreenSaver)|It's http://whatcolourisit.scn9a.org/ but as a Mac screensaver||
+|127|[@Metroxe](https://github.com/Metroxe)/[**one-html-page-challenge**](https://github.com/Metroxe/one-html-page-challenge)|Can you create something cool without modern tools?|[:arrow_upper_right:](https://onehtmlpagechallenge.com)|
 |126|[@stmorgan](https://github.com/stmorgan)/[**pythonNNexample**](https://github.com/stmorgan/pythonNNexample)|Annotations for the Sirajology Python NN Example. This code comes from a demo NN program from the YouTube video https://youtu.be/h3l4qz76JhQ. The program creates an neural network that simulates the exclusive OR function with two inputs and one output.||
-|125|[@Metroxe](https://github.com/Metroxe)/[**one-html-page-challenge**](https://github.com/Metroxe/one-html-page-challenge)|Can you create something cool without modern tools?|[:arrow_upper_right:](https://onehtmlpagechallenge.com)|
 |122|[@choumx](https://github.com/choumx)/[**amp-pwa**](https://github.com/choumx/amp-pwa)|A sample React PWA with AMP content.||
 |122|[@danielhomola](https://github.com/danielhomola)/[**science_flask**](https://github.com/danielhomola/science_flask)|ScienceFlask: an open-source template for scientific web-app development|[:arrow_upper_right:](https://scienceflask.com)|
 |120|[@tomhodgins](https://github.com/tomhodgins)/[**reprocss**](https://github.com/tomhodgins/reprocss)|A flexible <style>-tag based CSS reprocessor|[:arrow_upper_right:](https://tomhodgins.github.io/reprocss)|
+|118|[@marcaube](https://github.com/marcaube)/[**bootstrap-magnify**](https://github.com/marcaube/bootstrap-magnify)|Small bootstrap js plugin to enhance porte-folios and image galleries.||
 |117|[@jlord](https://github.com/jlord)/[**forkngo**](https://github.com/jlord/forkngo)|A site about how awesome Fork-n-go is!|[:arrow_upper_right:](http://jlord.github.io/forkngo)|
-|117|[@marcaube](https://github.com/marcaube)/[**bootstrap-magnify**](https://github.com/marcaube/bootstrap-magnify)|Small bootstrap js plugin to enhance porte-folios and image galleries.||
-|111|[@michelf](https://github.com/michelf)/[**mdtest**](https://github.com/michelf/mdtest)|Test suite for Markdown implementations||
+|112|[@michelf](https://github.com/michelf)/[**mdtest**](https://github.com/michelf/mdtest)|Test suite for Markdown implementations||
 |110|[@mrmrs](https://github.com/mrmrs)/[**vimgifs**](https://github.com/mrmrs/vimgifs)|http://vimgifs.com||
 |108|[@gschier](https://github.com/gschier)/[**html-share-buttons**](https://github.com/gschier/html-share-buttons)|HTML-only Share Buttons||
 |106|[@alinush](https://github.com/alinush)/[**6.824-lecture-notes**](https://github.com/alinush/6.824-lecture-notes)|6.824 Distributed Systems: Lecture notes (edited a little and formatted with Markdown)||
 |105|[@adamwathan](https://github.com/adamwathan)/[**vue-shopify-sortable-demo**](https://github.com/adamwathan/vue-shopify-sortable-demo)|||
 |105|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**gtsummary**](https://github.com/vincentarelbundock/gtsummary)|Beautiful, customizable, publication-ready model summaries in R.||
 |100|[@jennybc](https://github.com/jennybc)/[**purrr-tutorial**](https://github.com/jennybc/purrr-tutorial)|Materials for getting to the know the R package purrr|[:arrow_upper_right:](https://jennybc.github.io/purrr-tutorial/)|
-|97|[@broccolini](https://github.com/broccolini)/[**athena**](https://github.com/broccolini/athena)|A simple and elegant theme for Jekyll and GitHub Pages.|[:arrow_upper_right:](http://broccolini.net/athena/)|
+|98|[@broccolini](https://github.com/broccolini)/[**athena**](https://github.com/broccolini/athena)|A simple and elegant theme for Jekyll and GitHub Pages.|[:arrow_upper_right:](http://broccolini.net/athena/)|
 |95|[@TimvdLippe](https://github.com/TimvdLippe)/[**iron-lazy-pages**](https://github.com/TimvdLippe/iron-lazy-pages)|Lazy-load content and lazy-register pages to reduce the first load time|[:arrow_upper_right:](https://www.webcomponents.org/element/TimvdLippe/iron-lazy-pages)|
 |93|[@tomhodgins](https://github.com/tomhodgins)/[**quark**](https://github.com/tomhodgins/quark)|Quark.js is a microscopic atomic CSS polyfill in JS just 140 bytes|[:arrow_upper_right:](https://tomhodgins.github.io/quark)|
 |90|[@aneagoie](https://github.com/aneagoie)/[**zero-to-mastery**](https://github.com/aneagoie/zero-to-mastery)|Zero to Mastery Open Source||
@@ -79,14 +79,14 @@
 |85|[@tomhodgins](https://github.com/tomhodgins)/[**qss**](https://github.com/tomhodgins/qss)|QSS ➸ a simple query syntax for CSS element queries|[:arrow_upper_right:](https://tomhodgins.github.io/qss)|
 |84|[@charpeni](https://github.com/charpeni)/[**svelte-example**](https://github.com/charpeni/svelte-example)|:rocket: :books: Some examples to test the Svelte Framework||
 |82|[@davemo](https://github.com/davemo)/[**intro-to-angularjs**](https://github.com/davemo/intro-to-angularjs)|An Introduction to Angular.JS||
+|82|[@mrmrs](https://github.com/mrmrs)/[**links**](https://github.com/mrmrs/links)|Better default styles for text links||
 |81|[@mrmrs](https://github.com/mrmrs)/[**css-system-fonts**](https://github.com/mrmrs/css-system-fonts)|A css module for utilizing system fonts across platforms||
-|81|[@mrmrs](https://github.com/mrmrs)/[**links**](https://github.com/mrmrs/links)|Better default styles for text links||
 |75|[@bcit-ci](https://github.com/bcit-ci)/[**codeigniter-website**](https://github.com/bcit-ci/codeigniter-website)|The project's website||
-|72|[@christiannaths](https://github.com/christiannaths)/[**Climacons-Font**](https://github.com/christiannaths/Climacons-Font)|75 climatically categorised pictographs for web and UI design.||
+|73|[@christiannaths](https://github.com/christiannaths)/[**Climacons-Font**](https://github.com/christiannaths/Climacons-Font)|75 climatically categorised pictographs for web and UI design.||
 |72|[@danielstern](https://github.com/danielstern)/[**vue-todomvc**](https://github.com/danielstern/vue-todomvc)|A TodoMVC Application Built With Vue :star:|[:arrow_upper_right:](http://danielstern.ca/vue/)|
-|71|[@tomhodgins](https://github.com/tomhodgins)/[**liveeditor**](https://github.com/tomhodgins/liveeditor)|A simple live HTML, CSS, and JavaScript scratchpad in your browser|[:arrow_upper_right:](https://tomhodgins.github.io/liveeditor/index.html)|
+|72|[@tomhodgins](https://github.com/tomhodgins)/[**liveeditor**](https://github.com/tomhodgins/liveeditor)|A simple live HTML, CSS, and JavaScript scratchpad in your browser|[:arrow_upper_right:](https://tomhodgins.github.io/liveeditor/index.html)|
+|69|[@drehimself](https://github.com/drehimself)/[**tailwind-examples**](https://github.com/drehimself/tailwind-examples)| A collection of web pages built in Tailwind CSS v0.7.4|[:arrow_upper_right:](https://tailwindcss.andredemos.ca)|
 |69|[@websemantics](https://github.com/websemantics)/[**semantic-dojo**](https://github.com/websemantics/semantic-dojo)|A responsive Dojo theme that harnesses the style awesomeness of Semantic-ui framework.|[:arrow_upper_right:](http://websemantics.github.io/semantic-dojo/)|
-|68|[@drehimself](https://github.com/drehimself)/[**tailwind-examples**](https://github.com/drehimself/tailwind-examples)| A collection of web pages built in Tailwind CSS v0.7.4|[:arrow_upper_right:](https://tailwindcss.andredemos.ca)|
 |68|[@huyingjie](https://github.com/huyingjie)/[**hexo-theme-A-RSnippet**](https://github.com/huyingjie/hexo-theme-A-RSnippet)|🦀 A Responsive Theme for Hexo 🦀 |[:arrow_upper_right:](http://arsnippet.yingjiehu.com/)|
 |68|[@sentenza](https://github.com/sentenza)/[**jekyll-material-design**](https://github.com/sentenza/jekyll-material-design)|Jekyll Bootstrap 3 with the material design flavour. Publish your materialized blog using GitHub Pages easily.|[:arrow_upper_right:](https://sentenza.github.io/jekyll-material-design)|
 |65|[@va3c](https://github.com/va3c)/[**va3c.github.io**](https://github.com/va3c/va3c.github.io)|vA3C Homepage|[:arrow_upper_right:](http://va3c.github.io/)|
@@ -100,17 +100,17 @@
 |57|[@bcabanes](https://github.com/bcabanes)/[**ng-camera**](https://github.com/bcabanes/ng-camera)|AngularJS directive for capturing images form your computer's camera.||
 |57|[@foxdonut](https://github.com/foxdonut)/[**meiosis-examples**](https://github.com/foxdonut/meiosis-examples)|meiosis examples - http://meiosis.js.org||
 |56|[@filipedeschamps](https://github.com/filipedeschamps)/[**filipedeschamps.github.io**](https://github.com/filipedeschamps/filipedeschamps.github.io)|Site pessoal|[:arrow_upper_right:](https://filipedeschamps.com.br)|
-|54|[@dgryski](https://github.com/dgryski)/[**gophervids**](https://github.com/dgryski/gophervids)|Proof of concept Gopher Video player|[:arrow_upper_right:](http://gophervids.appspot.com/)|
+|55|[@dgryski](https://github.com/dgryski)/[**gophervids**](https://github.com/dgryski/gophervids)|Proof of concept Gopher Video player|[:arrow_upper_right:](http://gophervids.appspot.com/)|
 |54|[@rowanmanning](https://github.com/rowanmanning)/[**cssdb**](https://github.com/rowanmanning/cssdb)|[UNMAINTAINED] CSSDB: A curated collection of great CSS, Sass, LESS and Stylus libraries.|[:arrow_upper_right:](http://cssdb.co/)|
 |53|[@addyosmani](https://github.com/addyosmani)/[**google-slides**](https://github.com/addyosmani/google-slides)|:zap: An offline-enabled Polymer slide-deck|[:arrow_upper_right:](http://addyosmani.github.io/google-slides)|
 |53|[@impressivewebs](https://github.com/impressivewebs)/[**fixed-TOC-dropdown-jquery**](https://github.com/impressivewebs/fixed-TOC-dropdown-jquery)|A fixed table of contents drop-down menu jQuery plugin.|[:arrow_upper_right:](http://www.impressivewebs.com/fixed-table-of-contents-drop-down-menu-jquery-plugin/)|
 |52|[@Currie32](https://github.com/Currie32)/[**Movie-Reviews-Sentiment**](https://github.com/Currie32/Movie-Reviews-Sentiment)|Used two different methods to predict the sentiment (positive or negative) of movie reviews.||
 |52|[@RByers](https://github.com/RByers)/[**rbyers.github.io**](https://github.com/RByers/rbyers.github.io)|Web samples||
+|50|[@flekschas](https://github.com/flekschas)/[**svelte-simple-modal**](https://github.com/flekschas/svelte-simple-modal)|A simple, small, and content-agnostic modal for Svelte v3|[:arrow_upper_right:](https://svelte.dev/repl/033e824fad0a4e34907666e7196caec4?version=3.20.1)|
 |49|[@MAXIMUS-DeltaWare](https://github.com/MAXIMUS-DeltaWare)/[**adminlte-keycloak-theme**](https://github.com/MAXIMUS-DeltaWare/adminlte-keycloak-theme)|A Keycloak theme based on the AdminLTE UI library||
-|49|[@flekschas](https://github.com/flekschas)/[**svelte-simple-modal**](https://github.com/flekschas/svelte-simple-modal)|A simple, small, and content-agnostic modal for Svelte v3|[:arrow_upper_right:](https://svelte.dev/repl/033e824fad0a4e34907666e7196caec4?version=3.20.1)|
-|48|[@curiositry](https://github.com/curiositry)/[**undefined-ghost-theme**](https://github.com/curiositry/undefined-ghost-theme)|A minimal, Ghost 3.0-ready, membership-enabled starter theme for the Ghost blogging platform.|[:arrow_upper_right:](http://curiositry.com/undefined-ghost-theme/)|
+|49|[@curiositry](https://github.com/curiositry)/[**undefined-ghost-theme**](https://github.com/curiositry/undefined-ghost-theme)|A minimal, Ghost 3.0-ready, membership-enabled starter theme for the Ghost blogging platform.|[:arrow_upper_right:](http://curiositry.com/undefined-ghost-theme/)|
 |48|[@hpssjellis](https://github.com/hpssjellis)/[**beginner-tensorflowjs-examples-in-javascript**](https://github.com/hpssjellis/beginner-tensorflowjs-examples-in-javascript)|For anyone who knows a bit of Javascript and wants to know some Machine Learning|[:arrow_upper_right:](https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/)|
-|46|[@davestewart](https://github.com/davestewart)/[**classic-shell-win10**](https://github.com/davestewart/classic-shell-win10)|A Windows 10 theme for Classic Shell / Classic Start Menu||
+|47|[@davestewart](https://github.com/davestewart)/[**classic-shell-win10**](https://github.com/davestewart/classic-shell-win10)|A Windows 10 theme for Classic Shell / Classic Start Menu||
 |45|[@benfred](https://github.com/benfred)/[**mds.js**](https://github.com/benfred/mds.js)|Classic Multidimensional scaling code in Javascript||
 |44|[@dansmith65](https://github.com/dansmith65)/[**FileMaker-JSON**](https://github.com/dansmith65/FileMaker-JSON)|Provides native support for JSON in FileMaker|[:arrow_upper_right:](http://www.modularfilemaker.org/module/json/)|
 |44|[@marekdlugos](https://github.com/marekdlugos)/[**TakeMeAsIntern**](https://github.com/marekdlugos/TakeMeAsIntern)|Landing page for looking for an internship during the summer 2015.||
@@ -123,10 +123,10 @@
 |42|[@snwh](https://github.com/snwh)/[**computefreely**](https://github.com/snwh/computefreely)|The source of Compute Freely website|[:arrow_upper_right:](https://computefreely.org/)|
 |41|[@practicalli](https://github.com/practicalli)/[**spacemacs**](https://github.com/practicalli/spacemacs)|How to use Spacemacs, a community configuration for Emacs, for Clojure development|[:arrow_upper_right:](https://practicalli.github.io/spacemacs)|
 |41|[@tessalt](https://github.com/tessalt)/[**dropdowns**](https://github.com/tessalt/dropdowns)|Multilevel responsive dropdown menu. ||
+|41|[@trishume](https://github.com/trishume)/[**numderline**](https://github.com/trishume/numderline)|Font patcher to using shaping tricks to make it easier to pick out digit groups in numbers without commas|[:arrow_upper_right:](https://thume.ca/numderline)|
+|40|[@AndrewHazelden](https://github.com/AndrewHazelden)/[**Domemaster-Photoshop-Actions-Pack**](https://github.com/AndrewHazelden/Domemaster-Photoshop-Actions-Pack)|This is a collection of fulldome production related Photoshop actions||
 |40|[@jennybc](https://github.com/jennybc)/[**wtf-2019-rsc**](https://github.com/jennybc/wtf-2019-rsc)|What They Forgot to Teach You About R, 2019 January 15/16 @ rstudio::conf|[:arrow_upper_right:](https://rstd.io/wtf-2019-rsc)|
-|39|[@AndrewHazelden](https://github.com/AndrewHazelden)/[**Domemaster-Photoshop-Actions-Pack**](https://github.com/AndrewHazelden/Domemaster-Photoshop-Actions-Pack)|This is a collection of fulldome production related Photoshop actions||
 |39|[@ladieslearningcode](https://github.com/ladieslearningcode)/[**llc-intro-to-python**](https://github.com/ladieslearningcode/llc-intro-to-python)|[To be Archived on August 1st] intro to Data Insights with Python |[:arrow_upper_right:](http://ladieslearningcode.github.io/llc-intro-to-python/slides.html#slide1)|
-|39|[@trishume](https://github.com/trishume)/[**numderline**](https://github.com/trishume/numderline)|Font patcher to using shaping tricks to make it easier to pick out digit groups in numbers without commas|[:arrow_upper_right:](https://thume.ca/numderline)|
 |38|[@defuse](https://github.com/defuse)/[**defuse.ca**](https://github.com/defuse/defuse.ca)|The source code to my defuse.ca website.||
 |38|[@posabsolute](https://github.com/posabsolute)/[**jquery-engage**](https://github.com/posabsolute/jquery-engage)|A jQuery plugin to better engage with your blog audience||
 |36|[@susanli2016](https://github.com/susanli2016)/[**Named-Entity-Extractor**](https://github.com/susanli2016/Named-Entity-Extractor)|A simple Flask API for named entity extraction using spaCy Model||
@@ -142,43 +142,44 @@
 |31|[@sebastien](https://github.com/sebastien)/[**wwwclient**](https://github.com/sebastien/wwwclient)|Advanced web browsing, scraping and automation|[:arrow_upper_right:](http://www.ivy.fr/wwwclient)|
 |30|[@TMRh20](https://github.com/TMRh20)/[**tmrh20.github.io**](https://github.com/TMRh20/tmrh20.github.io)|Documentation for related code and projects||
 |30|[@ladieslearningcode](https://github.com/ladieslearningcode)/[**llc-html-css-multi-page-site**](https://github.com/ladieslearningcode/llc-html-css-multi-page-site)|Full day intro to HTML & CSS - multi-page website - (SLIDES - http://ladieslearningcode.github.io/llc-html-css-multi-page-site/slides.html), (SAMPLE PROJECT - http://ladieslearningcode.github.io/llc-html-css-multi-page-site/project/final/), (LEARNER FILES - http://bit.ly/llc-multipage)||
+|28|[@ababaian](https://github.com/ababaian)/[**serratus**](https://github.com/ababaian/serratus)|Ultra-deep Coronavirus Homology Search|[:arrow_upper_right:](http://serratus.io)|
 |28|[@danielstern](https://github.com/danielstern)/[**redux-saga-sandbox**](https://github.com/danielstern/redux-saga-sandbox)|A console-based Redux Saga sandbox||
 |28|[@mispy](https://github.com/mispy)/[**heart**](https://github.com/mispy/heart)|A very silly Valentine's Day HTML5 experiment :)|[:arrow_upper_right:](http://heart.mispy.me/)|
-|27|[@ababaian](https://github.com/ababaian)/[**serratus**](https://github.com/ababaian/serratus)|Ultra-deep Coronavirus Homology Search|[:arrow_upper_right:](http://serratus.io)|
 |27|[@ahmadnassri](https://github.com/ahmadnassri)/[**har-resources**](https://github.com/ahmadnassri/har-resources)|A community curated list of resources, tools, projects and applications that support HTTP Archive (HAR).|[:arrow_upper_right:](http://har.tech/)|
 |27|[@bioinformatics-ca](https://github.com/bioinformatics-ca)/[**bioinformatics-ca.github.io**](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io)|repository for student workshop pages||
 |27|[@james2doyle](https://github.com/james2doyle)/[**angular-through-iframe**](https://github.com/james2doyle/angular-through-iframe)|How to use angular.js through an iframe|[:arrow_upper_right:](http://james2doyle.github.io/angular-through-iframe/)|
 |26|[@christinatruong](https://github.com/christinatruong)/[**css-essential-training**](https://github.com/christinatruong/css-essential-training)|Exercise files for the CSS Essential Training course on LinkedIn Learning and Lynda.com||
 |26|[@ladieslearningcode](https://github.com/ladieslearningcode)/[**llc-intro-to-javascript**](https://github.com/ladieslearningcode/llc-intro-to-javascript)| Full day Intro to JavaScript (SLIDES - http://ladieslearningcode.github.io/llc-intro-to-javascript/slides.html), (LEARNER FILES - http://bit.ly/1oNRFA2), no sample project. ||
+|25|[@Currie32](https://github.com/Currie32)/[**Predicting-the-Dow-Jones-with-Headlines**](https://github.com/Currie32/Predicting-the-Dow-Jones-with-Headlines)|Used Keras to build a model (CNNs + LSTMs) to predict the opening price change of the Dow Jones.||
 |25|[@ricmoo](https://github.com/ricmoo)/[**meeseeks-app**](https://github.com/ricmoo/meeseeks-app)|Safely load verified IPFS content on its own domain with browser Cross-Origin Policy protection.||
-|24|[@Currie32](https://github.com/Currie32)/[**Predicting-the-Dow-Jones-with-Headlines**](https://github.com/Currie32/Predicting-the-Dow-Jones-with-Headlines)|Used Keras to build a model (CNNs + LSTMs) to predict the opening price change of the Dow Jones.||
 |24|[@ReactForBeginners](https://github.com/ReactForBeginners)/[**exercise1-todo**](https://github.com/ReactForBeginners/exercise1-todo)|Coding your first React.js app|[:arrow_upper_right:](http://reactforbeginners.github.io/exercise1-todo/)|
 |24|[@Yive](https://github.com/Yive)/[**YivesMirror**](https://github.com/Yive/YivesMirror)|||
 |24|[@bbc](https://github.com/bbc)/[**accessibility-news-and-you**](https://github.com/bbc/accessibility-news-and-you)|We want to be the most accessible news website in the world. This is how.|[:arrow_upper_right:](https://bbc.github.io/accessibility-news-and-you/)|
+|24|[@fxsitecompat](https://github.com/fxsitecompat)/[**www.fxsitecompat.dev**](https://github.com/fxsitecompat/www.fxsitecompat.dev)|The source of our Firefox Site Compatibility site powered by Hugo.|[:arrow_upper_right:](https://www.fxsitecompat.dev/)|
 |24|[@gavinsimpson](https://github.com/gavinsimpson)/[**gams-yorku-canada-150**](https://github.com/gavinsimpson/gams-yorku-canada-150)|GAM Workshop at York University, October 2018||
 |24|[@ianrose](https://github.com/ianrose)/[**typesettings-site**](https://github.com/ianrose/typesettings-site)|Source for the Typesettings website||
 |24|[@ruyadorno](https://github.com/ruyadorno)/[**polymer-simple-slider**](https://github.com/ruyadorno/polymer-simple-slider)|A Polymer element providing a simple slider functionality|[:arrow_upper_right:](http://ruyadorno.github.io/polymer-simple-slider/)|
 |23|[@AndrewHazelden](https://github.com/AndrewHazelden)/[**Arnold-Syntax-Highlighter**](https://github.com/AndrewHazelden/Arnold-Syntax-Highlighter)|The Arnold Syntax Highlighter modules makes it easier to compose and edit Solid Angle Arnold scene source (.ASS) and Arnold Metadata (.MTD) files.||
 |23|[@alinush](https://github.com/alinush)/[**6.858-lecture-notes**](https://github.com/alinush/6.858-lecture-notes)|6.858 Computer Systems Security: Lecture notes (edited a little and formatted with Markdown)||
 |23|[@blockgeeks](https://github.com/blockgeeks)/[**workshop**](https://github.com/blockgeeks/workshop)|Blockgeeks Solidity workshops|[:arrow_upper_right:](http://blockgeeks.com)|
-|23|[@fxsitecompat](https://github.com/fxsitecompat)/[**www.fxsitecompat.dev**](https://github.com/fxsitecompat/www.fxsitecompat.dev)|The source of our Firefox Site Compatibility site powered by Hugo.|[:arrow_upper_right:](https://www.fxsitecompat.dev/)|
 |23|[@neilk](https://github.com/neilk)/[**letterpwn**](https://github.com/neilk/letterpwn)|Solve Letterpress boards with Node.js.|[:arrow_upper_right:](http://letterpwn.neilk.net/)|
 |22|[@davelab6](https://github.com/davelab6)/[**type-notes**](https://github.com/davelab6/type-notes)|A collection of notes about type design from events around the world||
 |22|[@mrmrs](https://github.com/mrmrs)/[**mrmrs**](https://github.com/mrmrs/mrmrs)|Personal Portfolio Site|[:arrow_upper_right:](http://mrmrs.cc)|
 |22|[@nvk](https://github.com/nvk)/[**wallets-recovery**](https://github.com/nvk/wallets-recovery)|Information about wallet defaults for external recovery|[:arrow_upper_right:](https://walletsrecovery.org/)|
 |22|[@practicalli](https://github.com/practicalli)/[**clojure**](https://github.com/practicalli/clojure)|A practical introduction to Clojure (created with Gitbook.IO)|[:arrow_upper_right:](http://clojure.practical.li/)|
 |22|[@tpetricek](https://github.com/tpetricek)/[**TomaspNet.Website**](https://github.com/tpetricek/TomaspNet.Website)|(*Aug 2013 - †Aug 2016) Source code & hosting for http://tomasp.net ||
+|21|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**go-poly-tenant**](https://github.com/CaptainCodeman/go-poly-tenant)|Go + Polymer MultiTenancy on AppEngine||
 |21|[@JagandeepBrar](https://github.com/JagandeepBrar)/[**Hypernova-Webpage**](https://github.com/JagandeepBrar/Hypernova-Webpage)|Top-level webpage for Hypernova||
 |21|[@callmenick](https://github.com/callmenick)/[**CSS-Presentation**](https://github.com/callmenick/CSS-Presentation)|My CSS presentation (demos included), that I gave at Hack Reactor||
 |21|[@fxsitecompat](https://github.com/fxsitecompat)/[**www.fxsitecompat.com**](https://github.com/fxsitecompat/www.fxsitecompat.com)|The source of our Firefox Site Compatibility site powered by Hugo.|[:arrow_upper_right:](https://www.fxsitecompat.com/)|
 |21|[@gnugat](https://github.com/gnugat)/[**gnugat.github.io**](https://github.com/gnugat/gnugat.github.io)|Blog about technical and practices advices|[:arrow_upper_right:](https://gnugat.github.io/)|
 |21|[@joeyklee](https://github.com/joeyklee)/[**friendly-github-intro**](https://github.com/joeyklee/friendly-github-intro)|This is a friendly introduction to making open, version-controlled, and collaborative projects using Github.||
 |21|[@tomhodgins](https://github.com/tomhodgins)/[**tinkerpad**](https://github.com/tomhodgins/tinkerpad)|Tinkerpad is an HTML, CSS, and JavaScript scratchpad similar to jsFiddle. Tinkerpad is written as an offline-capable HTML5 web app and requires no external dependencies.|[:arrow_upper_right:](http://staticresource.com/tinkerpad)|
-|20|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**go-poly-tenant**](https://github.com/CaptainCodeman/go-poly-tenant)|Go + Polymer MultiTenancy on AppEngine||
 |20|[@bryik](https://github.com/bryik)/[**aframe-ball-throw**](https://github.com/bryik/aframe-ball-throw)|A basic A-Frame demo with physics and Vive controller support.|[:arrow_upper_right:](https://bryik.github.io/aframe-ball-throw/)|
 |20|[@jennybc](https://github.com/jennybc)/[**STAT545A_2013**](https://github.com/jennybc/STAT545A_2013)|UBC grad course in data analysis with R|[:arrow_upper_right:](http://www.stat.ubc.ca/~jenny/STAT545A/current.html)|
 |20|[@ladieslearningcode](https://github.com/ladieslearningcode)/[**llc-html-css-one-page**](https://github.com/ladieslearningcode/llc-html-css-one-page)|Ladies Learning Code: Build a One-Page Website with HTML & CSS (6 hours) \| Femmes en programmation : Création d’un site Web à une page avec le HTML et le CSS (6 heures)||
 |20|[@michaelmior](https://github.com/michaelmior)/[**heroku-django-skeleton**](https://github.com/michaelmior/heroku-django-skeleton)|A simple project to get started with Django on Heroku||
+|20|[@tpetricek](https://github.com/tpetricek)/[**tomasp.net**](https://github.com/tpetricek/tomasp.net)|Source code for my web site and blog - yet another remake!||
 |19|[@adamwathan](https://github.com/adamwathan)/[**vue-cli-tailwind-1.0**](https://github.com/adamwathan/vue-cli-tailwind-1.0)|||
 |19|[@alireza-saberi](https://github.com/alireza-saberi)/[**pos**](https://github.com/alireza-saberi/pos)|A simple point-­of-­sale (POS) application for a coffee shop:coffee: like Starbucks with  Vue framework||
 |19|[@ateucher](https://github.com/ateucher)/[**rcourse_site**](https://github.com/ateucher/rcourse_site)|Material for Introdoctory R course website|[:arrow_upper_right:](http://ateucher.github.io/rcourse_site/)|
@@ -188,7 +189,6 @@
 |19|[@fnando](https://github.com/fnando)/[**messages-app**](https://github.com/fnando/messages-app)|Use alert messages in your README.|[:arrow_upper_right:](https://messages-svg.herokuapp.com)|
 |19|[@prydonius](https://github.com/prydonius)/[**seanmeme**](https://github.com/prydonius/seanmeme)|Sean Meme's photo gallery||
 |19|[@seananderson](https://github.com/seananderson)/[**seananderson.ca**](https://github.com/seananderson/seananderson.ca)|Hugo backend to my personal site, CV, and blog|[:arrow_upper_right:](http://seananderson.ca/)|
-|19|[@tpetricek](https://github.com/tpetricek)/[**tomasp.net**](https://github.com/tpetricek/tomasp.net)|Source code for my web site and blog - yet another remake!||
 |18|[@bcgov](https://github.com/bcgov)/[**design-system**](https://github.com/bcgov/design-system)|British Columbia Government Design System for Digital Services||
 |18|[@bob-carpenter](https://github.com/bob-carpenter)/[**case-studies**](https://github.com/bob-carpenter/case-studies)|Case studies in applied and computational statistics.||
 |18|[@chenkie](https://github.com/chenkie)/[**ngclassifieds**](https://github.com/chenkie/ngclassifieds)|||
@@ -230,6 +230,8 @@
 |14|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**auth-ajax**](https://github.com/CaptainCodeman/auth-ajax)|Auth token handling for Polymer||
 |14|[@ShMcK](https://github.com/ShMcK)/[**Angular2-Meteor-Demos**](https://github.com/ShMcK/Angular2-Meteor-Demos)|Angular2-Meteor Demos||
 |14|[@alex-wilmer](https://github.com/alex-wilmer)/[**polyhack-synth**](https://github.com/alex-wilmer/polyhack-synth)|Synth it up|[:arrow_upper_right:](https://www.youtube.com/watch?v=jif1RcaR7Cc&t=8s)|
+|14|[@brettcannon](https://github.com/brettcannon)/[**mousebender**](https://github.com/brettcannon/mousebender)|A package for installing Python packages||
+|14|[@drehimself](https://github.com/drehimself)/[**resume-template**](https://github.com/drehimself/resume-template)|||
 |14|[@hpssjellis](https://github.com/hpssjellis)/[**face-api.js-for-beginners**](https://github.com/hpssjellis/face-api.js-for-beginners)||[:arrow_upper_right:](https://hpssjellis.github.io/face-api.js-for-beginners/)|
 |14|[@joeyklee](https://github.com/joeyklee)/[**quant-humanists-2018**](https://github.com/joeyklee/quant-humanists-2018)|Repo for NYU's ITP "Quant Humanists: the 'I' in API" course|[:arrow_upper_right:](https://joeyklee.github.io/quant-humanists-2018/)|
 |14|[@mrmrs](https://github.com/mrmrs)/[**marquee**](https://github.com/mrmrs/marquee)|||
@@ -239,7 +241,6 @@
 |13|[@Alan01252](https://github.com/Alan01252)/[**pixi-tilemap-tutorial**](https://github.com/Alan01252/pixi-tilemap-tutorial)|A tutorial on how to use https://github.com/pixijs/pixi-tilemap||
 |13|[@addyosmani](https://github.com/addyosmani)/[**medium-backups**](https://github.com/addyosmani/medium-backups)|||
 |13|[@bcgsc](https://github.com/bcgsc)/[**chromeqc**](https://github.com/bcgsc/chromeqc)|ChromeQC: Summarize sequencing library quality of 10x Genomics Chromium linked reads|[:arrow_upper_right:](https://bcgsc.github.io/chromeqc)|
-|13|[@drehimself](https://github.com/drehimself)/[**resume-template**](https://github.com/drehimself/resume-template)|||
 |13|[@h3xstream](https://github.com/h3xstream)/[**montreal_isp**](https://github.com/h3xstream/montreal_isp)|Utility tool to compare Internet plans for Montreal.|[:arrow_upper_right:](http://h3xstream.github.io/montreal_isp/)|
 |13|[@hpssjellis](https://github.com/hpssjellis)/[**spark-core-web-page-html-control**](https://github.com/hpssjellis/spark-core-web-page-html-control)|Example control of the spark core and perhaps photon with a simple html web page ||
 |13|[@joeyklee](https://github.com/joeyklee)/[**aloha-r**](https://github.com/joeyklee/aloha-r)|a map-example heavy introduction to r||
@@ -257,6 +258,7 @@
 |12|[@ellekasai](https://github.com/ellekasai)/[**ellekasai.com**](https://github.com/ellekasai/ellekasai.com)|||
 |12|[@falkirks](https://github.com/falkirks)/[**MCPEDNS**](https://github.com/falkirks/MCPEDNS)|[OUTDATED] MCPE hostname creation service. Uses CloudFlare API. ||
 |12|[@hallamlab](https://github.com/hallamlab)/[**LCAStar**](https://github.com/hallamlab/LCAStar)|Alternative taxonomic consensus algorithms based on the NCBI taxonomy tree||
+|12|[@joeyklee](https://github.com/joeyklee)/[**quant-humanists-2019**](https://github.com/joeyklee/quant-humanists-2019)|Repo for NYU's ITP "Quant Humanists: the 'I' in API" course 2019||
 |12|[@ladieslearningcode](https://github.com/ladieslearningcode)/[**llc-css-fundamentals**](https://github.com/ladieslearningcode/llc-css-fundamentals)|HTML & CSS, Level 2 - Online Resume - (SLIDES - http://ladieslearningcode.github.io/llc-css-fundamentals/slides.html), (SAMPLE PROJECT - http://ladieslearningcode.github.io/llc-css-fundamentals/project/final.html), (LEARNER FILES - http://bit.ly/llc-css2)||
 |12|[@maruel](https://github.com/maruel)/[**webskel**](https://github.com/maruel/webskel)|A template to make free web site generated by Hugo, hosted on GitHub pages, using CloudFlare for HTTPS||
 |12|[@splorp](https://github.com/splorp)/[**tersus-tumblr**](https://github.com/splorp/tersus-tumblr)|An achingly simple Tumblr theme without all the usual cruft.|[:arrow_upper_right:](http://tersustheme.tumblr.com/)|
@@ -268,7 +270,6 @@
 |11|[@cwrc](https://github.com/cwrc)/[**ontology**](https://github.com/cwrc/ontology)|CWRC ontology - primary repository||
 |11|[@dohliam](https://github.com/dohliam)/[**yub**](https://github.com/dohliam/yub)|yub.js - A command-line for the web|[:arrow_upper_right:](https://dohliam.github.io/yub/)|
 |11|[@joeyklee](https://github.com/joeyklee)/[**hellowebmaps**](https://github.com/joeyklee/hellowebmaps)|||
-|11|[@joeyklee](https://github.com/joeyklee)/[**quant-humanists-2019**](https://github.com/joeyklee/quant-humanists-2019)|Repo for NYU's ITP "Quant Humanists: the 'I' in API" course 2019||
 |11|[@mznmel](https://github.com/mznmel)/[**aln9**](https://github.com/mznmel/aln9)|A lightweight markup language designed for Arabic text.||
 |11|[@nurey](https://github.com/nurey)/[**disclosed**](https://github.com/nurey/disclosed)|Source code and raw data via Canadian Federal Government Proactive Disclosure including procurement contracts|[:arrow_upper_right:](http://www.disclosed.ca)|
 |11|[@obilodeau](https://github.com/obilodeau)/[**ceopardy**](https://github.com/obilodeau/ceopardy)|Game Board for NorthSec's Hacker Jeopardy since 2017|[:arrow_upper_right:](https://www.nsec.io/competition/)|
@@ -284,7 +285,6 @@
 |10|[@TheInitializer](https://github.com/TheInitializer)/[**arch-lightdm-theme**](https://github.com/TheInitializer/arch-lightdm-theme)|My personal configuration for lightdm-webkit-greeter.||
 |10|[@bartdag](https://github.com/bartdag)/[**recodoc2**](https://github.com/bartdag/recodoc2)|Analysis Platform for Developer Learning Resources|[:arrow_upper_right:](http://www.cs.mcgill.ca/~swevo/recodoc)|
 |10|[@bbc](https://github.com/bbc)/[**datalab.rocks**](https://github.com/bbc/datalab.rocks)||[:arrow_upper_right:](https://datalab.rocks)|
-|10|[@brettcannon](https://github.com/brettcannon)/[**mousebender**](https://github.com/brettcannon/mousebender)|A package for installing Python packages||
 |10|[@dohliam](https://github.com/dohliam)/[**xsampa**](https://github.com/dohliam/xsampa)|X-SAMPA to IPA converter|[:arrow_upper_right:](https://dohliam.github.io/xsampa/)|
 |10|[@dustinblackman](https://github.com/dustinblackman)/[**gulp-inno**](https://github.com/dustinblackman/gulp-inno)|Compile Inno Setup scripts using Gulp||
 |10|[@eoscanada](https://github.com/eoscanada)/[**EEPs**](https://github.com/eoscanada/EEPs)|EOS Enhancements Proposals - (to be moved to another location)||
@@ -293,6 +293,7 @@
 |10|[@mkhDev](https://github.com/mkhDev)/[**aln9**](https://github.com/mkhDev/aln9)|A lightweight markup language designed for Arabic text.||
 |10|[@mrmrs](https://github.com/mrmrs)/[**sans-serif**](https://github.com/mrmrs/sans-serif)|CSS module for utilizing system sans-serif fonts||
 |10|[@practicalli](https://github.com/practicalli)/[**clojurescript**](https://github.com/practicalli/clojurescript)|A basic introduction to ClojureScript||
+|10|[@shagunsodhani](https://github.com/shagunsodhani)/[**ml-logger**](https://github.com/shagunsodhani/ml-logger)|Logging utility for ML experiments|[:arrow_upper_right:](https://shagunsodhani.github.io/ml-logger)|
 |10|[@sictweb](https://github.com/sictweb)/[**web222**](https://github.com/sictweb/web222)|Web Programming Principles|[:arrow_upper_right:](https://web222.ca)|
 |10|[@sjackman](https://github.com/sjackman)/[**uniqtag-paper**](https://github.com/sjackman/uniqtag-paper)|UniqTag: Content-derived unique and stable identifiers for gene annotation|[:arrow_upper_right:](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0128026)|
 |10|[@splorp](https://github.com/splorp)/[**newton-faq**](https://github.com/splorp/newton-faq)|A community resource for commonly asked questions related to the Apple Newton platform.||
@@ -311,7 +312,6 @@
 |9|[@ladieslearningcode](https://github.com/ladieslearningcode)/[**llc-intro-to-jquery**](https://github.com/ladieslearningcode/llc-intro-to-jquery)| Full day intro to jQuery (SLIDES - http://ladieslearningcode.github.io/llc-intro-to-jquery/slides.html), (SAMPLE PROJECT - http://ladieslearningcode.github.io/llc-intro-to-jquery/project/final.html), (LEARNER FILES - http://bit.ly/llc-jquery-intro) ||
 |9|[@rowanmanning](https://github.com/rowanmanning)/[**rowanmanning.github.io**](https://github.com/rowanmanning/rowanmanning.github.io)|My website|[:arrow_upper_right:](http://rowanmanning.com/)|
 |9|[@rprouse](https://github.com/rprouse)/[**theme-obsidian**](https://github.com/rprouse/theme-obsidian)|Son of Obsidian theme for Visual Studio Code|[:arrow_upper_right:](https://marketplace.visualstudio.com/items/rprouse.theme-obsidian)|
-|9|[@shagunsodhani](https://github.com/shagunsodhani)/[**ml-logger**](https://github.com/shagunsodhani/ml-logger)|Logging utility for ML experiments|[:arrow_upper_right:](https://shagunsodhani.github.io/ml-logger)|
 |9|[@smabie](https://github.com/smabie)/[**udacity-AI-trading-notes**](https://github.com/smabie/udacity-AI-trading-notes)|Udacity AI for Trading Nanogree notes||
 |9|[@tomhodgins](https://github.com/tomhodgins)/[**memopad**](https://github.com/tomhodgins/memopad)|Memo Pad is a simple memo pad that saves your notes to localStorage, as well as allows you to share notes via URL|[:arrow_upper_right:](http://tomhodgins.github.io/memopad)|
 |8|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**lazy-img**](https://github.com/CaptainCodeman/lazy-img)|Lazy loading img||
@@ -345,6 +345,7 @@
 |7|[@EddYerburgh](https://github.com/EddYerburgh)/[**pug-boilerplate**](https://github.com/EddYerburgh/pug-boilerplate)|Pug / Jade version of HTML5 Boilerplate||
 |7|[@Hexstream](https://github.com/Hexstream)/[**clos-mop.hexstreamsoft.com**](https://github.com/Hexstream/clos-mop.hexstreamsoft.com)|This project is an "Hexstreamification" of Robert Strandh's public domain HTML version of the CLOS MOP. It is by far the best version of the CLOS MOP specification as of 15 october 2017.|[:arrow_upper_right:](https://clos-mop.hexstreamsoft.com/)|
 |7|[@OneSlashNinja](https://github.com/OneSlashNinja)/[**ChatRoom**](https://github.com/OneSlashNinja/ChatRoom)|A online chat room implemented with node and socket.io||
+|7|[@PresearchOfficial](https://github.com/PresearchOfficial)/[**Start-Extension-Chrome**](https://github.com/PresearchOfficial/Start-Extension-Chrome)|Presearch.org - Start With Us - Chrome Extension|[:arrow_upper_right:](https://presearch.org)|
 |7|[@RobLoach](https://github.com/RobLoach)/[**xor-crypt**](https://github.com/RobLoach/xor-crypt)|:symbols: Simple JavaScript XOR string encryption library|[:arrow_upper_right:](http://robloach.github.io/xor-crypt/)|
 |7|[@ZhuangER](https://github.com/ZhuangER)/[**LouCloud**](https://github.com/ZhuangER/LouCloud)|仿OpenStack云计算管理软件||
 |7|[@acgd-learn-the-web](https://github.com/acgd-learn-the-web)/[**modular-typography-code**](https://github.com/acgd-learn-the-web/modular-typography-code)|Code samples for the modular typography tutorial.||
@@ -358,12 +359,14 @@
 |7|[@crazyhottommy](https://github.com/crazyhottommy)/[**scripts-general-use**](https://github.com/crazyhottommy/scripts-general-use)|||
 |7|[@csabahruska](https://github.com/csabahruska)/[**lambdacube-workshop**](https://github.com/csabahruska/lambdacube-workshop)|LambaCube 3D workshop at LambdaConf 2017||
 |7|[@dohliam](https://github.com/dohliam)/[**units**](https://github.com/dohliam/units)|Units - a small portable unit converter|[:arrow_upper_right:](https://dohliam.github.io/tiny_tools/units/)|
+|7|[@enricllagostera](https://github.com/enricllagostera)/[**awesome-altctrls**](https://github.com/enricllagostera/awesome-altctrls)|A list of resources for creating alternative controllers, playful installations and physical-digital hybrids.|[:arrow_upper_right:](https://enricllagostera.github.io/awesome-altctrls/)|
 |7|[@fserb](https://github.com/fserb)/[**RTMidi**](https://github.com/fserb/RTMidi)|rtmidi haxe native port||
 |7|[@gavinsimpson](https://github.com/gavinsimpson)/[**gams-instaar-2018**](https://github.com/gavinsimpson/gams-instaar-2018)|Modelling Palaeoenvironmental Time Series Using Generalized Additive Models||
 |7|[@jacquesberger](https://github.com/jacquesberger)/[**exemplesINF5190**](https://github.com/jacquesberger/exemplesINF5190)|Exemples présentés dans le cours INF5190.||
 |7|[@jkeesh](https://github.com/jkeesh)/[**etherstatic**](https://github.com/jkeesh/etherstatic)|Host static websites in ethereum transactions||
 |7|[@jlord](https://github.com/jlord)/[**glitch-spreadsheet**](https://github.com/jlord/glitch-spreadsheet)|Repository for|[:arrow_upper_right:](http://spreadsheet.glitch.me)|
 |7|[@jlord](https://github.com/jlord)/[**sorting-rocks**](https://github.com/jlord/sorting-rocks)|gonna make an atom shell app its gonna be like iPhoto/Photos but not do things i don't want it to||
+|7|[@joellord](https://github.com/joellord)/[**node-kinect**](https://github.com/joellord/node-kinect)|Kinect Gestures in Node.js||
 |7|[@jsimnz](https://github.com/jsimnz)/[**angular-jquery-nice-select**](https://github.com/jsimnz/angular-jquery-nice-select)|AngularJS directives for jquery-nice-select library||
 |7|[@ladieslearningcode](https://github.com/ladieslearningcode)/[**llc-intro-to-browser-extensions**](https://github.com/ladieslearningcode/llc-intro-to-browser-extensions)|Intro to Browser Extensions with JavaScript|[:arrow_upper_right:](https://ladieslearningcode.github.io/llc-intro-to-browser-extensions/slides-en.html)|
 |7|[@ladieslearningcode](https://github.com/ladieslearningcode)/[**llc-intro-to-ruby**](https://github.com/ladieslearningcode/llc-intro-to-ruby)|Intro to Data Analysis with Ruby -- (SLIDES - http://ladieslearningcode.github.io/llc-intro-to-ruby/slides.html), (LEARNER FILES - http://bit.ly/llc-ruby-data) - No sample project.||
@@ -388,11 +391,11 @@
 |6|[@Cookizza](https://github.com/Cookizza)/[**Password-Generator**](https://github.com/Cookizza/Password-Generator)|A javascript password generator with easy to define rules||
 |6|[@Corb3nik](https://github.com/Corb3nik)/[**Hackfest2017-Challenges**](https://github.com/Corb3nik/Hackfest2017-Challenges)|All of my Hackfest 2017 CTF challenges||
 |6|[@Currie32](https://github.com/Currie32)/[**Predicting-Similar-Questions**](https://github.com/Currie32/Predicting-Similar-Questions)|Used TfidfVectorizer, Doc2Vec, and deep learning to predict if pairs of questions have the same meaning.||
+|6|[@Currie32](https://github.com/Currie32)/[**Titanic-Kaggle-Competition**](https://github.com/Currie32/Titanic-Kaggle-Competition)|My analysis for the 'Titanic: Machine Learning from Disaster' competition, hosted by Kaggle.com||
 |6|[@Incognito](https://github.com/Incognito)/[**blog**](https://github.com/Incognito/blog)|I've decided basic markdown and a dump of files is the best blog format.||
 |6|[@OneClickLab](https://github.com/OneClickLab)/[**ugly-email-website**](https://github.com/OneClickLab/ugly-email-website)|Gmail Extension To Check If Email Is Being Tracked.|[:arrow_upper_right:](https://uglyemail.com)|
 |6|[@OnionIoT](https://github.com/OnionIoT)/[**base-www**](https://github.com/OnionIoT/base-www)|Files for website hosting on the Omega to ensure compatibility between Onion utilities||
 |6|[@OnionIoT](https://github.com/OnionIoT)/[**transmission-console-app**](https://github.com/OnionIoT/transmission-console-app)|Omega Console App for the Transmission BitTorrent Client Web Interface||
-|6|[@PresearchOfficial](https://github.com/PresearchOfficial)/[**Start-Extension-Chrome**](https://github.com/PresearchOfficial/Start-Extension-Chrome)|Presearch.org - Start With Us - Chrome Extension|[:arrow_upper_right:](https://presearch.org)|
 |6|[@RangerMauve](https://github.com/RangerMauve)/[**dat-overview**](https://github.com/RangerMauve/dat-overview)|Some slides describing how Dat works and why it's useful|[:arrow_upper_right:](https://ranger.mauve.moe/dat-overview/#1)|
 |6|[@Spandan-Madan](https://github.com/Spandan-Madan)/[**End_to_end_image_classification_pipeline**](https://github.com/Spandan-Madan/End_to_end_image_classification_pipeline)|In-depth look at an image classification pipeline for your own dataset. https://goo.gl/BuL267||
 |6|[@acgd-learn-the-web](https://github.com/acgd-learn-the-web)/[**topics**](https://github.com/acgd-learn-the-web/topics)|The written tutorials and video links for all the content.||
@@ -404,12 +407,10 @@
 |6|[@dynamsoft-dwt](https://github.com/dynamsoft-dwt)/[**Scan-Documents-with-Go**](https://github.com/dynamsoft-dwt/Scan-Documents-with-Go)|Dynamic Web TWAIN with Go||
 |6|[@eclipsesource](https://github.com/eclipsesource)/[**jsonforms-seed**](https://github.com/eclipsesource/jsonforms-seed)|||
 |6|[@egonio](https://github.com/egonio)/[**ghost-theme-matchu**](https://github.com/egonio/ghost-theme-matchu)|A Free Ghost Theme - Matchu||
-|6|[@enricllagostera](https://github.com/enricllagostera)/[**awesome-altctrls**](https://github.com/enricllagostera/awesome-altctrls)|A list of resources for creating alternative controllers, playful installations and physical-digital hybrids.|[:arrow_upper_right:](https://enricllagostera.github.io/awesome-altctrls/)|
 |6|[@gil--](https://github.com/gil--)/[**magento2-keyboard-shortcuts**](https://github.com/gil--/magento2-keyboard-shortcuts)|:keyboard: :peace_symbol: Improve accessibility by adding customer-facing keyboard shortcuts for quickly navigating around a Magento 2 website.||
 |6|[@gorhill](https://github.com/gorhill)/[**obj-vs-set-vs-map**](https://github.com/gorhill/obj-vs-set-vs-map)|Just a benchmark to measure performance of Set(), Map() versus Object.create(null)||
 |6|[@harrycresswell](https://github.com/harrycresswell)/[**zapier-contact-form**](https://github.com/harrycresswell/zapier-contact-form)|Using Zapier to send form data to your email address||
 |6|[@hoytech](https://github.com/hoytech)/[**RCCar-Driver**](https://github.com/hoytech/RCCar-Driver)|Drive a toy remote-control car with SDR::Radio::HackRF||
-|6|[@joellord](https://github.com/joellord)/[**node-kinect**](https://github.com/joellord/node-kinect)|Kinect Gestures in Node.js||
 |6|[@ladieslearningcode](https://github.com/ladieslearningcode)/[**klc-webmaking-with-html-css**](https://github.com/ladieslearningcode/klc-webmaking-with-html-css)|Kids Learning Code - Webmaking with HTML & CSS (3 hours) \| Créer des sites Web avec le HTML + CSS (3 heures)||
 |6|[@ladieslearningcode](https://github.com/ladieslearningcode)/[**llc-wp-themes**](https://github.com/ladieslearningcode/llc-wp-themes)|WordPress II - Full day introductory workshop to WordPress Theme Development. (SLIDES - http://bitly.com/llc-wp-slides) - No sample project or learner files||
 |6|[@ldionne](https://github.com/ldionne)/[**meetingcpp-2016**](https://github.com/ldionne/meetingcpp-2016)|My presentation material for the closing keynote of Meeting C++ 2016||
@@ -428,7 +429,6 @@
 |5|[@Ailrun](https://github.com/Ailrun)/[**software_foundations_solution**](https://github.com/Ailrun/software_foundations_solution)|Solutions for software foundations textbook||
 |5|[@AmeliaBR](https://github.com/AmeliaBR)/[**responsive-svg-notes**](https://github.com/AmeliaBR/responsive-svg-notes)|Presentation notes and links for my talk on SVG for responsive web sites at RWD summit 2015||
 |5|[@Bus-Data-NYC](https://github.com/Bus-Data-NYC)/[**oba-path-extractor**](https://github.com/Bus-Data-NYC/oba-path-extractor)|Tool to extract/create shapefiles from Bustime MTA app||
-|5|[@Currie32](https://github.com/Currie32)/[**Titanic-Kaggle-Competition**](https://github.com/Currie32/Titanic-Kaggle-Competition)|My analysis for the 'Titanic: Machine Learning from Disaster' competition, hosted by Kaggle.com||
 |5|[@Currie32](https://github.com/Currie32)/[**Tweet-Like-Trump**](https://github.com/Currie32/Tweet-Like-Trump)|A one2seq model that can generate tweets similar to those of Donald Trump.||
 |5|[@Hayawi](https://github.com/Hayawi)/[**OneShotGenerator**](https://github.com/Hayawi/OneShotGenerator)|A generator for one shot campaigns in DnD 5e.||
 |5|[@OneZoom](https://github.com/OneZoom)/[**OZtree**](https://github.com/OneZoom/OZtree)|OneZoom Tree of Life Explorer||
@@ -436,6 +436,7 @@
 |5|[@Sn0wCh1ld](https://github.com/Sn0wCh1ld)/[**Sn0wCh1ld.github.io**](https://github.com/Sn0wCh1ld/Sn0wCh1ld.github.io)|Royal's official website|[:arrow_upper_right:](https://www.royalapps.xyz)|
 |5|[@TimvdLippe](https://github.com/TimvdLippe)/[**polymer-lazy-application**](https://github.com/TimvdLippe/polymer-lazy-application)|Sample application to show and test usage of carbon-route with iron-lazy-pages||
 |5|[@ajkhoury](https://github.com/ajkhoury)/[**OpenBSP-MinGW**](https://github.com/ajkhoury/OpenBSP-MinGW)|||
+|5|[@alexpate](https://github.com/alexpate)/[**duo**](https://github.com/alexpate/duo)|A curated set of colour combinations|[:arrow_upper_right:](https://duo.alexpate.uk)|
 |5|[@alireza-saberi](https://github.com/alireza-saberi)/[**move-planer2**](https://github.com/alireza-saberi/move-planer2)|Get information about the place that you want to move :truck:||
 |5|[@andkov](https://github.com/andkov)/[**psy532**](https://github.com/andkov/psy532)|Univariate GLM. Accompanies a graduate statistics course at the University of Victoria||
 |5|[@ankurp](https://github.com/ankurp)/[**NJBusNowRestAPI**](https://github.com/ankurp/NJBusNowRestAPI)|Rest Server returning NJ Transit Bus data|[:arrow_upper_right:](https://njtransitrestapi.herokuapp.com/)|
@@ -466,6 +467,7 @@
 |5|[@mrmrs](https://github.com/mrmrs)/[**up**](https://github.com/mrmrs/up)|A short photo project|[:arrow_upper_right:](http://mrmrs.io/up)|
 |5|[@nfriend](https://github.com/nfriend)/[**Rook**](https://github.com/nfriend/Rook)|An online, multiplayer implementation of the classic card game Rook, using WebSockets.|[:arrow_upper_right:](http://nathanfriend.com/rook/)|
 |5|[@nicolai86](https://github.com/nicolai86)/[**dash-annotations**](https://github.com/nicolai86/dash-annotations)|A Dash 3, 4 & 5 compatible annotations backend written in golang|[:arrow_upper_right:](https://kapeli.com/dash)|
+|5|[@perone](https://github.com/perone)/[**covid19analysis**](https://github.com/perone/covid19analysis)|COVID-10 Analysis|[:arrow_upper_right:](https://perone.github.io/covid19analysis)|
 |5|[@reelyactive](https://github.com/reelyactive)/[**web-ble-demo**](https://github.com/reelyactive/web-ble-demo)|Detect and identify nearby BLE devices via the web, in a web browser.  We believe in an open Internet of Things.|[:arrow_upper_right:](https://reelyactive.github.io/web-ble-demo/)|
 |5|[@sjackman](https://github.com/sjackman)/[**abyss-scaffold-paper**](https://github.com/sjackman/abyss-scaffold-paper)|Scaffolding a genome sequence assembly using ABySS|[:arrow_upper_right:](https://sjackman.github.io/abyss-scaffold-paper/)|
 |5|[@toxtli](https://github.com/toxtli)/[**daw**](https://github.com/toxtli/daw)|GridSound wants to be a free browser-based HTML5 DAW (Digital Audio Workstation) following the new Web Audio API. You can test the application here https://gridsound.github.io/daw and have more information here https://gridsound.github.io||
@@ -536,7 +538,6 @@
 |4|[@mycarta](https://github.com/mycarta)/[**Niccoli_Speidel_2018_Geoconvention**](https://github.com/mycarta/Niccoli_Speidel_2018_Geoconvention)|||
 |4|[@nfriend](https://github.com/nfriend)/[**Theremin**](https://github.com/nfriend/Theremin)|A musical instrument using Chrome, the HTML5 Web Audio API, and a Leap Motion controller.|[:arrow_upper_right:](http://nathanfriend.com/theremin/)|
 |4|[@nravic](https://github.com/nravic)/[**py-amber_alert**](https://github.com/nravic/py-amber_alert)|Web Amber Alert framework for use in countries lacking alert infrastructure written in Python using Flask, Flask-SQLAlchemy and associated abstraction layers.||
-|4|[@perone](https://github.com/perone)/[**covid19analysis**](https://github.com/perone/covid19analysis)|COVID-10 Analysis|[:arrow_upper_right:](https://perone.github.io/covid19analysis)|
 |4|[@redhat-cip](https://github.com/redhat-cip)/[**swift-durability-calculator**](https://github.com/redhat-cip/swift-durability-calculator)|Calculate object loss probability for Swift|[:arrow_upper_right:](http://redhat-cip.github.io/swift-durability-calculator/)|
 |4|[@reelyactive](https://github.com/reelyactive)/[**sniffypedia**](https://github.com/reelyactive/sniffypedia)|A collaborative repository of linked data for radio-identifiable products.  We believe in an open Internet of Things.|[:arrow_upper_right:](https://sniffypedia.org)|
 |4|[@rich-iannone](https://github.com/rich-iannone)/[**DiagrammeR-docs**](https://github.com/rich-iannone/DiagrammeR-docs)|A book providing documentation and examples for the R DiagrammeR package||
@@ -599,11 +600,13 @@
 |3|[@acgd-learn-the-web](https://github.com/acgd-learn-the-web)/[**javascript-jquery-effects-code**](https://github.com/acgd-learn-the-web/javascript-jquery-effects-code)|Code samples for the Javascript + jQuery effects tutorial.||
 |3|[@adamwathan](https://github.com/adamwathan)/[**game-of-life**](https://github.com/adamwathan/game-of-life)|||
 |3|[@afilina](https://github.com/afilina)/[**angular-intro**](https://github.com/afilina/angular-intro)||[:arrow_upper_right:](https://speakerdeck.com/afilina/powerful-applications-with-angularjs-1)|
-|3|[@alexpate](https://github.com/alexpate)/[**duo**](https://github.com/alexpate/duo)|A curated set of colour combinations|[:arrow_upper_right:](https://duo.alexpate.uk)|
 |3|[@alway5dotcom](https://github.com/alway5dotcom)/[**Html-Template-For-E-mail**](https://github.com/alway5dotcom/Html-Template-For-E-mail)|https://davidng94.wordpress.com||
 |3|[@ammobinDOTca](https://github.com/ammobinDOTca)/[**ammobin-compose**](https://github.com/ammobinDOTca/ammobin-compose)|how to run https://ammobin.ca using docker-compose|[:arrow_upper_right:](https://ammobin.ca)|
+|3|[@aneagoie](https://github.com/aneagoie)/[**aneagoie.github.io**](https://github.com/aneagoie/aneagoie.github.io)|||
+|3|[@aneagoie](https://github.com/aneagoie)/[**startup-of-the-year**](https://github.com/aneagoie/startup-of-the-year)||[:arrow_upper_right:](https://aneagoie.github.io/startup-of-the-year/.)|
 |3|[@ashes999](https://github.com/ashes999)/[**learnhaxe**](https://github.com/ashes999/learnhaxe)|Blog about Haxe and related ecosystem tools. |[:arrow_upper_right:](https://ashes999.github.io/learnhaxe)|
 |3|[@azohra](https://github.com/azohra)/[**shipyard**](https://github.com/azohra/shipyard)|Opinionated soft multitenancy for GKE.|[:arrow_upper_right:](https://shipyard.azohra.com/)|
+|3|[@backmeupplz](https://github.com/backmeupplz)/[**pleaseno**](https://github.com/backmeupplz/pleaseno)|Static website that shows "Please, no" message||
 |3|[@bbc](https://github.com/bbc)/[**bbc.github.io**](https://github.com/bbc/bbc.github.io)|bbc.github.io|[:arrow_upper_right:](http://bbc.github.io)|
 |3|[@bcgov](https://github.com/bcgov)/[**SSD-methods**](https://github.com/bcgov/SSD-methods)|||
 |3|[@bcgov](https://github.com/bcgov)/[**Swagger-Codegen-Extension**](https://github.com/bcgov/Swagger-Codegen-Extension)|||
@@ -686,6 +689,7 @@
 |3|[@mrmrs](https://github.com/mrmrs)/[**tachyons-floats-less**](https://github.com/mrmrs/tachyons-floats-less)|Tachyons floats module ported to less||
 |3|[@mrmrs](https://github.com/mrmrs)/[**tachyons-word-spacing**](https://github.com/mrmrs/tachyons-word-spacing)|Word-spacing utilities from Tachyons|[:arrow_upper_right:](http://tachyons.io)|
 |3|[@myusuf3](https://github.com/myusuf3)/[**siapaperwallet**](https://github.com/myusuf3/siapaperwallet)|Create Sia Paper Wallets|[:arrow_upper_right:](https://siapaperwallet.co)|
+|3|[@onishiweb](https://github.com/onishiweb)/[**aframe-gallery**](https://github.com/onishiweb/aframe-gallery)|VR Image gallery for photography|[:arrow_upper_right:](https://onishiweb.github.io/aframe-gallery/)|
 |3|[@rafbm](https://github.com/rafbm)/[**howtomakeaslider**](https://github.com/rafbm/howtomakeaslider)|How To Make A Slider|[:arrow_upper_right:](http://rafbm.github.com/howtomakeaslider/)|
 |3|[@remixz](https://github.com/remixz)/[**remixz.github.com**](https://github.com/remixz/remixz.github.com)|Personal site|[:arrow_upper_right:](https://bruggie.com)|
 |3|[@richardgong1987](https://github.com/richardgong1987)/[**OpenSource**](https://github.com/richardgong1987/OpenSource)|openMaterial open source||

@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|840|[@fosskers](https://github.com/fosskers)/[**aura**](https://github.com/fosskers/aura)|A secure, multilingual package manager for Arch Linux and the AUR.|[:arrow_upper_right:](https://gitter.im/aurapm/aura)|
-|213|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
+|841|[@fosskers](https://github.com/fosskers)/[**aura**](https://github.com/fosskers/aura)|A secure, multilingual package manager for Arch Linux and the AUR.|[:arrow_upper_right:](https://gitter.im/aurapm/aura)|
+|214|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
 |155|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
 |131|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |130|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
@@ -9,7 +9,7 @@
 |109|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
 |105|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
 |78|[@zhangchiqing](https://github.com/zhangchiqing)/[**beginner-friendly-haskell-for-web-development**](https://github.com/zhangchiqing/beginner-friendly-haskell-for-web-development)|A book about real world web development in beginner friendly Haskell||
-|71|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
+|72|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
 |54|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
 |50|[@csabahruska](https://github.com/csabahruska)/[**jhc-components**](https://github.com/csabahruska/jhc-components)|JHC Haskell compiler split into reusable components||
 |42|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm**](https://github.com/JoeyEremondi/haskelm)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
@@ -38,12 +38,12 @@
 |14|[@nitrix](https://github.com/nitrix)/[**udfs**](https://github.com/nitrix/udfs)|Ubiquitous Distributed File System||
 |14|[@singpolyma](https://github.com/singpolyma)/[**wai-session**](https://github.com/singpolyma/wai-session)|Flexible session middleware for WAI||
 |14|[@takeoutweight](https://github.com/takeoutweight)/[**shade-todomvc**](https://github.com/takeoutweight/shade-todomvc)|Example of using Haste and React.js to implement TodoMVC||
-|12|[@danieljharvey](https://github.com/danieljharvey)/[**tmux-mate**](https://github.com/danieljharvey/tmux-mate)|Launch and manage your Tmux sessions from Dhall files.||
+|13|[@danieljharvey](https://github.com/danieljharvey)/[**tmux-mate**](https://github.com/danieljharvey/tmux-mate)|Launch and manage your Tmux sessions from Dhall files.||
 |12|[@gregorycollins](https://github.com/gregorycollins)/[**attoparsec-iteratee**](https://github.com/gregorycollins/attoparsec-iteratee)|An adapter to convert attoparsec Parsers into blazing-fast Iteratees||
 |12|[@nitrix](https://github.com/nitrix)/[**lspace**](https://github.com/nitrix/lspace)|Real-time 2D strategy/sandbox game.|[:arrow_upper_right:](https://lonesomespace.com)|
+|12|[@singpolyma](https://github.com/singpolyma)/[**cheogram**](https://github.com/singpolyma/cheogram)|Groupchat for everyone|[:arrow_upper_right:](https://cheogram.com)|
 |11|[@eschnett](https://github.com/eschnett)/[**mpi-hs**](https://github.com/eschnett/mpi-hs)|MPI bindings for Haskell||
 |11|[@fosskers](https://github.com/fosskers)/[**microlens-aeson**](https://github.com/fosskers/microlens-aeson)|Lenses and Traversals for Aeson, based on Microlens.||
-|11|[@singpolyma](https://github.com/singpolyma)/[**cheogram**](https://github.com/singpolyma/cheogram)|Groupchat for everyone|[:arrow_upper_right:](https://cheogram.com)|
 |10|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**lambda-pi-constraint**](https://github.com/JoeyEremondi/lambda-pi-constraint)|||
 |10|[@avieth](https://github.com/avieth)/[**diplomacy**](https://github.com/avieth/diplomacy)|The board game Diplomacy, spoken in Haskell||
 |10|[@aycanirican](https://github.com/aycanirican)/[**hlibev**](https://github.com/aycanirican/hlibev)|FFI interface to libev||

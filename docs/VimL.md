@@ -3,7 +3,7 @@
 |200|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
 |150|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |113|[@colepeters](https://github.com/colepeters)/[**spacemacs-theme.vim**](https://github.com/colepeters/spacemacs-theme.vim)|Spacemacs-flavoured colorscheme for Vim and iTerm||
-|60|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
+|59|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
 |51|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
 |45|[@ujihisa](https://github.com/ujihisa)/[**unite-colorscheme**](https://github.com/ujihisa/unite-colorscheme)|A unite.vim plugin||
 |40|[@ujihisa](https://github.com/ujihisa)/[**shadow.vim**](https://github.com/ujihisa/shadow.vim)|That's not the file. That's shadow.||
@@ -36,6 +36,7 @@
 |6|[@billkeys](https://github.com/billkeys)/[**Documentation**](https://github.com/billkeys/Documentation)|||
 |6|[@travisjeffery](https://github.com/travisjeffery)/[**vim-auto-mkdir**](https://github.com/travisjeffery/vim-auto-mkdir)|vim: automatically mkdir when writing file in nonexistent directory|[:arrow_upper_right:](http://twitter.com/travisjeffery)|
 |6|[@ujihisa](https://github.com/ujihisa)/[**unite-rake**](https://github.com/ujihisa/unite-rake)|A Unite.vim plugin to run tasks or to view descriptions easily, using rake command||
+|6|[@z3t0](https://github.com/z3t0)/[**arduvim**](https://github.com/z3t0/arduvim)|A vim plugin for automatic Arduino syntax generation and more...|[:arrow_upper_right:](http://z3t0.github.io/arduvim)|
 |5|[@chasinglogic](https://github.com/chasinglogic)/[**ChasingLogic-colorscheme-vim**](https://github.com/chasinglogic/ChasingLogic-colorscheme-vim)|The color scheme I created for myself. Thought it might be of use to others.||
 |5|[@idbrii](https://github.com/idbrii)/[**vim-focusclip**](https://github.com/idbrii/vim-focusclip)|Integrate vim and system clipboard without breaking your workflow.||
 |5|[@mrandrewandrade](https://github.com/mrandrewandrade)/[**dotfiles**](https://github.com/mrandrewandrade/dotfiles)|A gnarly system manager and portable dotfiles generator|[:arrow_upper_right:](http://mrandrewandrade.com/dotfiles)|
@@ -43,7 +44,6 @@
 |5|[@ujihisa](https://github.com/ujihisa)/[**correr**](https://github.com/ujihisa/correr)|correr.vim: run a command later||
 |5|[@ujihisa](https://github.com/ujihisa)/[**unite-gem**](https://github.com/ujihisa/unite-gem)|A Unite plugin for RubyGems||
 |5|[@ujihisa](https://github.com/ujihisa)/[**unite-launch**](https://github.com/ujihisa/unite-launch)|powered by quickrun||
-|5|[@z3t0](https://github.com/z3t0)/[**arduvim**](https://github.com/z3t0/arduvim)|A vim plugin for automatic Arduino syntax generation and more...|[:arrow_upper_right:](http://z3t0.github.io/arduvim)|
 |4|[@bigfish](https://github.com/bigfish)/[**vim4js**](https://github.com/bigfish/vim4js)|Vim goodies for Javascript||
 |4|[@garyharan](https://github.com/garyharan)/[**vim-proto**](https://github.com/garyharan/vim-proto)|Protobuf syntax highlighting bundled for Vim||
 |4|[@idbrii](https://github.com/idbrii)/[**vim-perforce**](https://github.com/idbrii/vim-perforce)|Control Perforce from vim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=240)|
