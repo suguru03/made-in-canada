@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|207|[@samuelcolvin](https://github.com/samuelcolvin)/[**JuliaByExample**](https://github.com/samuelcolvin/JuliaByExample)|Examples of Julia|[:arrow_upper_right:](https://juliabyexample.helpmanual.io/)|
+|209|[@samuelcolvin](https://github.com/samuelcolvin)/[**JuliaByExample**](https://github.com/samuelcolvin/JuliaByExample)|Examples of Julia|[:arrow_upper_right:](https://juliabyexample.helpmanual.io/)|
 |73|[@eschnett](https://github.com/eschnett)/[**SIMD.jl**](https://github.com/eschnett/SIMD.jl)|Explicit SIMD vector operations for Julia||
 |65|[@una-dinosauria](https://github.com/una-dinosauria)/[**local-search-quantization**](https://github.com/una-dinosauria/local-search-quantization)|State-of-the-art method for large-scale ANN search as of Oct 2016. Presented at ECCV 16.||
 |35|[@una-dinosauria](https://github.com/una-dinosauria)/[**Rayuela.jl**](https://github.com/una-dinosauria/Rayuela.jl)|Code for my PhD thesis. Library of quantization-based methods for fast similarity search in high dimensions. Presented at ECCV 18.||
@@ -26,12 +26,12 @@
 |5|[@hessammehr](https://github.com/hessammehr)/[**Logic.jl**](https://github.com/hessammehr/Logic.jl)|A typed Prolog interpreter in Julia||
 |4|[@christopher-dG](https://github.com/christopher-dG)/[**Chatter.jl**](https://github.com/christopher-dG/Chatter.jl)|Talk to stuff, and talk to more stuff when I am less lazy (not 1.0 compatible)||
 |4|[@christopher-dG](https://github.com/christopher-dG)/[**jlisp**](https://github.com/christopher-dG/jlisp)|An even lispier dialect of Julia [WIP]||
+|4|[@jiahao](https://github.com/jiahao)/[**ArbRadixFloatingPoints.jl**](https://github.com/jiahao/ArbRadixFloatingPoints.jl)|Floating point numbers with arbitrary radixes (may be negative or nonreal)||
 |4|[@tpoisot](https://github.com/tpoisot)/[**Viridis.jl**](https://github.com/tpoisot/Viridis.jl)|Viridis (et al.) palettes for Julia||
 |3|[@0](https://github.com/0)/[**LatticeSweeper.jl**](https://github.com/0/LatticeSweeper.jl)|Simple two-site DMRG.||
 |3|[@christopher-dG](https://github.com/christopher-dG)/[**GitForge.jl**](https://github.com/christopher-dG/GitForge.jl)|Unified interface for interacting with Git forges||
 |3|[@christopher-dG](https://github.com/christopher-dG)/[**YAJL.jl**](https://github.com/christopher-dG/YAJL.jl)|JSON stream processing with YAJL in Julia||
 |3|[@jfsantos](https://github.com/jfsantos)/[**IJuliaNotebooks**](https://github.com/jfsantos/IJuliaNotebooks)|Simple Julia tutorials as IJulia notebooks||
-|3|[@jiahao](https://github.com/jiahao)/[**ArbRadixFloatingPoints.jl**](https://github.com/jiahao/ArbRadixFloatingPoints.jl)|Floating point numbers with arbitrary radixes (may be negative or nonreal)||
 |3|[@jiahao](https://github.com/jiahao)/[**BigFinance.jl**](https://github.com/jiahao/BigFinance.jl)|Analysis of high frequency quantitative data in Julia||
 |3|[@jiahao](https://github.com/jiahao)/[**NetflixPrize.jl**](https://github.com/jiahao/NetflixPrize.jl)|Julia package for handling the Netflix Prize data set of 2006||
 

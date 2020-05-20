@@ -5,8 +5,9 @@
 |40|[@berke](https://github.com/berke)/[**jsure**](https://github.com/berke/jsure)|JSure is a fast, standalone Javascript checker.||
 |21|[@janicduplessis](https://github.com/janicduplessis)/[**bs-graphql-js**](https://github.com/janicduplessis/bs-graphql-js)|Bucklescript bindings for https://github.com/graphql/graphql-js||
 |21|[@yawaramin](https://github.com/yawaramin)/[**re-hyperapp**](https://github.com/yawaramin/re-hyperapp)|Almost zero-cost bindings for the https://github.com/hyperapp/hyperapp UI library.||
+|16|[@smabie](https://github.com/smabie)/[**xs**](https://github.com/smabie/xs)|concatenative array language inspired by kdb/+q ||
+|11|[@yawaramin](https://github.com/yawaramin)/[**dbc**](https://github.com/yawaramin/dbc)|Design-by-contract programming for JavaScript and ReasonML||
 |10|[@tokenrove](https://github.com/tokenrove)/[**tsdl-image**](https://github.com/tokenrove/tsdl-image)|OCaml SDL2_image bindings to go with Tsdl||
-|10|[@yawaramin](https://github.com/yawaramin)/[**dbc**](https://github.com/yawaramin/dbc)|Design-by-contract programming for JavaScript and ReasonML||
 |9|[@yawaramin](https://github.com/yawaramin)/[**bs-webapi**](https://github.com/yawaramin/bs-webapi)|(WIP) BuckleScript Web API Bindings||
 |8|[@yawaramin](https://github.com/yawaramin)/[**bs-hyperapp**](https://github.com/yawaramin/bs-hyperapp)|DEPRECATED - see https://github.com/yawaramin/re-hyperapp for a more recent (experimental) attempt||
 |7|[@adrianmcli](https://github.com/adrianmcli)/[**rehydrate-workshop**](https://github.com/adrianmcli/rehydrate-workshop)|A small collection of basic components built with Rehydrate 💧.||

@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2103|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
+|2102|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
 |318|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
 |105|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
-|84|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
+|82|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
 |41|[@sjackman](https://github.com/sjackman)/[**lambdar**](https://github.com/sjackman/lambdar)|ƛR: Run R on AWS Lambda|[:arrow_upper_right:](http://lambdar.sjackman.ca/?e=stem(rnorm(100)))|
 |39|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_build**](https://github.com/CopperheadOS/platform_build)|||
 |38|[@RobLoach](https://github.com/RobLoach)/[**base16-geany**](https://github.com/RobLoach/base16-geany)|:crystal_ball: Base16 Scheme for Geany|[:arrow_upper_right:](https://github.com/chriskempson/base16)|
@@ -13,12 +13,12 @@
 |22|[@sjackman](https://github.com/sjackman)/[**docker-bio**](https://github.com/sjackman/docker-bio)|Docker images of bioinformatics software||
 |21|[@atlas-jj](https://github.com/atlas-jj)/[**ORB-SLAM-free-space-carving**](https://github.com/atlas-jj/ORB-SLAM-free-space-carving)|Implementation and annotation of Free Space Carving algorithm (CARV) using ORB-SLAM map points and camera poses.||
 |19|[@derekstavis](https://github.com/derekstavis)/[**switch-runlinux**](https://github.com/derekstavis/switch-runlinux)|Makefile for loading Linux into Nintendo Switch||
+|18|[@exAspArk](https://github.com/exAspArk)/[**docker-alpine-ruby**](https://github.com/exAspArk/docker-alpine-ruby)|The smallest Docker image with Ruby||
 |18|[@sjackman](https://github.com/sjackman)/[**makefile-example**](https://github.com/sjackman/makefile-example)|An example of a data analysis pipeline using Make|[:arrow_upper_right:](http://sjackman.ca/makefile-example/)|
-|16|[@exAspArk](https://github.com/exAspArk)/[**docker-alpine-ruby**](https://github.com/exAspArk/docker-alpine-ruby)|The smallest Docker image with Ruby||
-|15|[@sjourdan](https://github.com/sjourdan)/[**strace-docker**](https://github.com/sjourdan/strace-docker)|strace in docker||
+|16|[@sjourdan](https://github.com/sjourdan)/[**strace-docker**](https://github.com/sjourdan/strace-docker)|strace in docker||
 |14|[@sjackman](https://github.com/sjackman)/[**docker-linuxbrew**](https://github.com/sjackman/docker-linuxbrew)|:skull: Defunct. Use https://github.com/Linuxbrew/docker||
-|14|[@sjourdan](https://github.com/sjourdan)/[**ffmpeg-docker**](https://github.com/sjourdan/ffmpeg-docker)|FFmpeg on Alpine Docker Image||
 |13|[@sjackman](https://github.com/sjackman)/[**assembly-graph**](https://github.com/sjackman/assembly-graph)|Compare assembly graph file formats||
+|13|[@sjourdan](https://github.com/sjourdan)/[**ffmpeg-docker**](https://github.com/sjourdan/ffmpeg-docker)|FFmpeg on Alpine Docker Image||
 |11|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_osprey**](https://github.com/sultanqasim/android_device_motorola_osprey)|Device tree for 2015 Moto G (osprey)||
 |10|[@RobLoach](https://github.com/RobLoach)/[**composer.deb**](https://github.com/RobLoach/composer.deb)|Build a Debian package to install and use Composer.|[:arrow_upper_right:](http://getcomposer.org)|
 |10|[@ustwo](https://github.com/ustwo)/[**docker-sauce-connect**](https://github.com/ustwo/docker-sauce-connect)|Builds a Sauce Labs Connect image||
@@ -40,6 +40,7 @@
 |5|[@northox](https://github.com/northox)/[**rump-npfer**](https://github.com/northox/rump-npfer)|A Rumprun firewall unikernel for Qubes OS (c)||
 |4|[@aminb](https://github.com/aminb)/[**dotfiles**](https://github.com/aminb/dotfiles)|[OUTDATED] repository now located at https://git.sr.ht/~bandali/dotfiles||
 |4|[@atgreen](https://github.com/atgreen)/[**howto-change-container-yum-source**](https://github.com/atgreen/howto-change-container-yum-source)|Example of how to set up yum in a container to source content from a Satellite CV other than the container hosts'||
+|4|[@benhylau](https://github.com/benhylau)/[**mesh-router-builder**](https://github.com/benhylau/mesh-router-builder)|Build mesh router .deb packages and Debian-based system images for armhf and amd64 using a Vagrant machine||
 |4|[@gwihlidal](https://github.com/gwihlidal)/[**docker-protoc**](https://github.com/gwihlidal/docker-protoc)|Docker image with protobuf compiler and various language plugins||
 |4|[@karnauskas](https://github.com/karnauskas)/[**openwrt-mdns-repeater**](https://github.com/karnauskas/openwrt-mdns-repeater)|mdns-repeater build for OpenWrt||
 |4|[@mabgnu](https://github.com/mabgnu)/[**dotfiles**](https://github.com/mabgnu/dotfiles)|[OUTDATED] repository now located at https://git.sr.ht/~bandali/dotfiles||
@@ -53,7 +54,6 @@
 |3|[@bbc](https://github.com/bbc)/[**alpha**](https://github.com/bbc/alpha)|The alpha.bbc platform||
 |3|[@bbidulock](https://github.com/bbidulock)/[**icewm-extra-themes**](https://github.com/bbidulock/icewm-extra-themes)|Extra themes for IceWM (too large to include in IceWM distribution).||
 |3|[@bbidulock](https://github.com/bbidulock)/[**xde-helpers**](https://github.com/bbidulock/xde-helpers)|Helper .desktop files for XDE||
-|3|[@benhylau](https://github.com/benhylau)/[**mesh-router-builder**](https://github.com/benhylau/mesh-router-builder)|Build mesh router .deb packages and Debian-based system images for armhf and amd64 using a Vagrant machine||
 |3|[@cjcliffe](https://github.com/cjcliffe)/[**CubicSDR-flatpak**](https://github.com/cjcliffe/CubicSDR-flatpak)|Flatpak build scripts for CubicSDR||
 |3|[@karnauskas](https://github.com/karnauskas)/[**openwrt-packages**](https://github.com/karnauskas/openwrt-packages)|||
 |3|[@sjackman](https://github.com/sjackman)/[**linuxbrew-slides**](https://github.com/sjackman/linuxbrew-slides)|Linuxbrew and Homebrew-Science|[:arrow_upper_right:](http://sjackman.ca/linuxbrew-slides/)|

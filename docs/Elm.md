@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|169|[@ktonon](https://github.com/ktonon)/[**elm-serverless**](https://github.com/ktonon/elm-serverless)|Maintained at: https://github.com/the-sett/elm-serverless||
+|168|[@ktonon](https://github.com/ktonon)/[**elm-serverless**](https://github.com/ktonon/elm-serverless)|Maintained at: https://github.com/the-sett/elm-serverless||
 |64|[@jadpole](https://github.com/jadpole)/[**jadpole.github.io**](https://github.com/jadpole/jadpole.github.io)||[:arrow_upper_right:](https://jadpole.github.io)|
 |42|[@jxxcarlson](https://github.com/jxxcarlson)/[**minilatex**](https://github.com/jxxcarlson/minilatex)|parse MiniLaTeX source text and render it into HTML|[:arrow_upper_right:](https://demo.minilatex.app/)|
 |30|[@diogob](https://github.com/diogob)/[**elm-workshop**](https://github.com/diogob/elm-workshop)|Elm + PostgREST workshop, building a simple database query user interface.||
 |22|[@pzp1997](https://github.com/pzp1997)/[**assoc-list**](https://github.com/pzp1997/assoc-list)|Dictionary with custom keys implemented using association lists|[:arrow_upper_right:](https://package.elm-lang.org/packages/pzp1997/assoc-list/latest/)|
-|17|[@ktonon](https://github.com/ktonon)/[**elm-serverless-demo**](https://github.com/ktonon/elm-serverless-demo)|elm-serverless demo for latest release||
+|16|[@ktonon](https://github.com/ktonon)/[**elm-serverless-demo**](https://github.com/ktonon/elm-serverless-demo)|elm-serverless demo for latest release||
 |14|[@tj](https://github.com/tj)/[**elm-svg-loaders**](https://github.com/tj/elm-svg-loaders)|A collection of SVG loading indicators for Elm.||
 |13|[@ktonon](https://github.com/ktonon)/[**elm-aws-core**](https://github.com/ktonon/elm-aws-core)|Make authenticated REST requests to AWS services using Elm||
 |12|[@chrisbolin](https://github.com/chrisbolin)/[**skycoins**](https://github.com/chrisbolin/skycoins)|🚁💰|[:arrow_upper_right:](http://bolin.co/skycoins)|

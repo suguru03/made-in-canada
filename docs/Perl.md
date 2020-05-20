@@ -1,19 +1,19 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |166|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
-|163|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
+|162|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
 |146|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
 |128|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
 |120|[@trentm](https://github.com/trentm)/[**node-ldapauth**](https://github.com/trentm/node-ldapauth)|Simple node.js module to authenticate against an LDAP server||
 |104|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
-|92|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
+|94|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
 |83|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
 |71|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
-|59|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
+|60|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
 |50|[@briandfoy](https://github.com/briandfoy)/[**Learning-Perl-Sample-Files**](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|[:arrow_upper_right:](http://www.learning-perl.org/)|
 |45|[@bcgsc](https://github.com/bcgsc)/[**LINKS**](https://github.com/bcgsc/LINKS)|⛓Long Interval Nucleotide K-mer Scaffolder||
 |41|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
-|38|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
+|39|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
 |35|[@moshen](https://github.com/moshen)/[**Image-Term256Color**](https://github.com/moshen/Image-Term256Color)|Display images in your 256 color terminal! (kinda) - superseded by https://github.com/moshen/gotermimg||
 |30|[@cdrage](https://github.com/cdrage)/[**dockerfiles**](https://github.com/cdrage/dockerfiles)|🐳 My Dockerfiles||
 |26|[@sestaton](https://github.com/sestaton)/[**HMMER2GO**](https://github.com/sestaton/HMMER2GO)|Annotate DNA sequences for Gene Ontology terms||
@@ -60,14 +60,14 @@
 |9|[@kpumuk](https://github.com/kpumuk)/[**mysqlsla-bdb**](https://github.com/kpumuk/mysqlsla-bdb)|MySQL Slow Logs Analyzer optimized to work with huge logs (use BerkeleyDB instead of perl hashes)|[:arrow_upper_right:](http://hackmysql.com/mysqlsla)|
 |9|[@zoffixznet](https://github.com/zoffixznet)/[**JavaScript-Minifier**](https://github.com/zoffixznet/JavaScript-Minifier)|JavaScript::Minifier perl module||
 |8|[@bbidulock](https://github.com/bbidulock)/[**perlpanel**](https://github.com/bbidulock/perlpanel)|Panel for the X Desktop Environment (XDE) based on PerlPanel||
+|8|[@briandfoy](https://github.com/briandfoy)/[**cpan-packagedetails**](https://github.com/briandfoy/cpan-packagedetails)|(Perl) A code interface to CPAN's 02packages.details.txt.gz|[:arrow_upper_right:](https://metacpan.org/pod/CPAN::PackageDetails)|
+|8|[@briandfoy](https://github.com/briandfoy)/[**module-extract-use**](https://github.com/briandfoy/module-extract-use)|Extract the modules a Perl file uses||
 |8|[@briandfoy](https://github.com/briandfoy)/[**modulino-demo**](https://github.com/briandfoy/modulino-demo)|The Perl Modulino::Demo module||
 |8|[@hoytech](https://github.com/hoytech)/[**Qstruct**](https://github.com/hoytech/Qstruct)|Quick structure serialisation||
 |8|[@yanick](https://github.com/yanick)/[**PPIx-EditorTools**](https://github.com/yanick/PPIx-EditorTools)|||
 |8|[@yanick](https://github.com/yanick)/[**netpacket**](https://github.com/yanick/netpacket)|(Perl) |[:arrow_upper_right:](http://search.cpan.org/dist/NetPacket)|
 |7|[@bob-carpenter](https://github.com/bob-carpenter)/[**java-arithcode**](https://github.com/bob-carpenter/java-arithcode)|A Java implementation of arithmetic coding and PPM compression.||
 |7|[@briandfoy](https://github.com/briandfoy)/[**app-module-lister**](https://github.com/briandfoy/app-module-lister)|(Perl) List all of the installed modules with just Perl5.004 code|[:arrow_upper_right:](https://metacpan.org/pod/App::Module::Lister)|
-|7|[@briandfoy](https://github.com/briandfoy)/[**cpan-packagedetails**](https://github.com/briandfoy/cpan-packagedetails)|(Perl) A code interface to CPAN's 02packages.details.txt.gz|[:arrow_upper_right:](https://metacpan.org/pod/CPAN::PackageDetails)|
-|7|[@briandfoy](https://github.com/briandfoy)/[**module-extract-use**](https://github.com/briandfoy/module-extract-use)|Extract the modules a Perl file uses||
 |7|[@briandfoy](https://github.com/briandfoy)/[**test-prereq**](https://github.com/briandfoy/test-prereq)|(Perl) check if Makefile.PL has the right pre-requisites|[:arrow_upper_right:](https://metacpan.org/pod/Test::Prereq)|
 |7|[@byjg](https://github.com/byjg)/[**usdocker**](https://github.com/byjg/usdocker)|A collection of Useful Scripts for Docker|[:arrow_upper_right:](http://usdocker.com)|
 |7|[@danijar](https://github.com/danijar)/[**dotfiles**](https://github.com/danijar/dotfiles)|My Linux and Mac configuration||
@@ -99,9 +99,11 @@
 |5|[@yanick](https://github.com/yanick)/[**pod-manual**](https://github.com/yanick/pod-manual)|Aggregates several Perl PODs into a single manual||
 |5|[@yanick](https://github.com/yanick)/[**www-ohloh-api**](https://github.com/yanick/www-ohloh-api)|Ohloh API implementation for Perl||
 |4|[@briandfoy](https://github.com/briandfoy)/[**app-ppi-dumper**](https://github.com/briandfoy/app-ppi-dumper)|(Perl) This is what the module does|[:arrow_upper_right:](https://metacpan.org/pod/App::PPI::Dumper)|
+|4|[@briandfoy](https://github.com/briandfoy)/[**data-constraint**](https://github.com/briandfoy/data-constraint)|(Perl) prototypical value checking|[:arrow_upper_right:](https://metacpan.org/pod/Data::Constraint)|
 |4|[@briandfoy](https://github.com/briandfoy)/[**mac-osversion**](https://github.com/briandfoy/mac-osversion)|(Perl) Get the Mac OS X system version|[:arrow_upper_right:](https://metacpan.org/pod/Mac::OSVersion)|
 |4|[@briandfoy](https://github.com/briandfoy)/[**module-extract-version**](https://github.com/briandfoy/module-extract-version)|(Perl) This is what the module does|[:arrow_upper_right:](https://metacpan.org/pod/Module::Extract::VERSION)|
 |4|[@briandfoy](https://github.com/briandfoy)/[**object-iterate**](https://github.com/briandfoy/object-iterate)|The Object-Iterate Perl module|[:arrow_upper_right:](https://metacpan.org/pod/Object::Iterate)|
+|4|[@briandfoy](https://github.com/briandfoy)/[**test-data**](https://github.com/briandfoy/test-data)|The Test::Data Perl module|[:arrow_upper_right:](https://metacpan.org/pod/Test::Data)|
 |4|[@briandfoy](https://github.com/briandfoy)/[**tie-cycle**](https://github.com/briandfoy/tie-cycle)|Cycle through a list of values via a scalar|[:arrow_upper_right:](https://metacpan.org/pod/Tie::Cycle)|
 |4|[@bricas](https://github.com/bricas)/[**cpan-changes-web**](https://github.com/bricas/cpan-changes-web)|CPAN::Changes Kwalitee Service||
 |4|[@bricas](https://github.com/bricas)/[**finance-wesabe**](https://github.com/bricas/finance-wesabe)|Access your wesabe.com account information|[:arrow_upper_right:](http://search.cpan.org/dist/Finance-Wesabe/)|
@@ -135,7 +137,8 @@
 |3|[@briandfoy](https://github.com/briandfoy)/[**HTTP-Cookies-Chrome**](https://github.com/briandfoy/HTTP-Cookies-Chrome)|(Perl) Access the Chrome cookies file|[:arrow_upper_right:](http://search.cpan.org/dist/HTTP-Cookies-Chrome)|
 |3|[@briandfoy](https://github.com/briandfoy)/[**Object-Iterate**](https://github.com/briandfoy/Object-Iterate)|The Object-Iterate Perl module|[:arrow_upper_right:](http://search.cpan.org/dist/Object-Iterate)|
 |3|[@briandfoy](https://github.com/briandfoy)/[**chemistry-elements**](https://github.com/briandfoy/chemistry-elements)|Perl extension for working with Chemical Elements||
-|3|[@briandfoy](https://github.com/briandfoy)/[**data-constraint**](https://github.com/briandfoy/data-constraint)|(Perl) prototypical value checking|[:arrow_upper_right:](https://metacpan.org/pod/Data::Constraint)|
+|3|[@briandfoy](https://github.com/briandfoy)/[**file-find-closures**](https://github.com/briandfoy/file-find-closures)|(Perl) functions you can use with File::Find|[:arrow_upper_right:](https://metacpan.org/pod/File::Find::Closures)|
+|3|[@briandfoy](https://github.com/briandfoy)/[**file-fingerprint**](https://github.com/briandfoy/file-fingerprint)|(Perl) This is what the module does|[:arrow_upper_right:](https://metacpan.org/pod/File::Fingerprint)|
 |3|[@briandfoy](https://github.com/briandfoy)/[**geo-geonames**](https://github.com/briandfoy/geo-geonames)|The Perl Geo::Geonames module||
 |3|[@briandfoy](https://github.com/briandfoy)/[**html-simplelinkextor**](https://github.com/briandfoy/html-simplelinkextor)|(Perl) Extract links from HTML|[:arrow_upper_right:](https://metacpan.org/pod/HTML::SimpleLinkExtor)|
 |3|[@briandfoy](https://github.com/briandfoy)/[**http-cookies-chrome**](https://github.com/briandfoy/http-cookies-chrome)|(Perl) Access the Chrome cookies file|[:arrow_upper_right:](https://metacpan.org/pod/HTTP::Cookies::Chrome)|
@@ -143,7 +146,6 @@
 |3|[@briandfoy](https://github.com/briandfoy)/[**pegs-pdf**](https://github.com/briandfoy/pegs-pdf)|(Perl) Draw Perl Graphical Structures in PDF|[:arrow_upper_right:](https://metacpan.org/pod/PeGS::PDF)|
 |3|[@briandfoy](https://github.com/briandfoy)/[**perl5faq_in_perl6**](https://github.com/briandfoy/perl5faq_in_perl6)|Answers to the perlfaq from Perl 5, but in Perl 6||
 |3|[@briandfoy](https://github.com/briandfoy)/[**sourcecode-linecounter-perl**](https://github.com/briandfoy/sourcecode-linecounter-perl)|Character and count lines of Perl source code||
-|3|[@briandfoy](https://github.com/briandfoy)/[**test-data**](https://github.com/briandfoy/test-data)|The Test::Data Perl module|[:arrow_upper_right:](https://metacpan.org/pod/Test::Data)|
 |3|[@briandfoy](https://github.com/briandfoy)/[**twiddle-regex**](https://github.com/briandfoy/twiddle-regex)|A Perl/Tk application to explore regexes||
 |3|[@briandfoy](https://github.com/briandfoy)/[**wordpress-grep**](https://github.com/briandfoy/wordpress-grep)|A Perl tool to search through a WordPress database||
 |3|[@bricas](https://github.com/bricas)/[**algorithm-scale2x**](https://github.com/bricas/algorithm-scale2x)|Generic implementation of the Scale2x algorithm|[:arrow_upper_right:](http://search.cpan.org/dist/Algorithm-Scale2x/)|
