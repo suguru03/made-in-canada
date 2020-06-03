@@ -4,17 +4,18 @@
 |46|[@Ohmnivore](https://github.com/Ohmnivore)/[**SkullRush**](https://github.com/Ohmnivore/SkullRush)|:skull: A 2D online multiplayer shooter written in Haxe|[:arrow_upper_right:](http://ohmnivore.github.io)|
 |41|[@hamaluik](https://github.com/hamaluik)/[**haxe-glm**](https://github.com/hamaluik/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |37|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
-|32|[@hamaluik](https://github.com/hamaluik)/[**headbutt**](https://github.com/hamaluik/headbutt)|A GJK and EPA collision engine made with pure Haxe.||
+|34|[@hamaluik](https://github.com/hamaluik)/[**headbutt**](https://github.com/hamaluik/headbutt)|A GJK and EPA collision engine made with pure Haxe.||
 |30|[@ashes999](https://github.com/ashes999)/[**butterfly**](https://github.com/ashes999/butterfly)|Haxe generator for simple, static blogs.||
 |20|[@fserb](https://github.com/fserb)/[**sketch**](https://github.com/fserb/sketch)|game sketches|[:arrow_upper_right:](http://fserb.com/vault)|
 |19|[@underscorediscovery](https://github.com/underscorediscovery)/[**structural**](https://github.com/underscorediscovery/structural)|An unencumbered haxe data structures library||
+|17|[@chfoo](https://github.com/chfoo)/[**cobbles**](https://github.com/chfoo/cobbles)|Text layout/rendering engine library for Haxe applications running under a 3D graphics API||
+|17|[@hamaluik](https://github.com/hamaluik)/[**baldrick**](https://github.com/hamaluik/baldrick)|Entity-component-system (ECS) framework, based heavily on edge||
 |16|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxeParticleDesigner**](https://github.com/FuzzyWuzzie/LuxeParticleDesigner)|A tool for quickly designing / tweaking particle systems in Luxe.||
-|16|[@chfoo](https://github.com/chfoo)/[**cobbles**](https://github.com/chfoo/cobbles)|Text layout/rendering engine library for Haxe applications running under a 3D graphics API||
 |16|[@hamaluik](https://github.com/hamaluik)/[**LuxeParticleDesigner**](https://github.com/hamaluik/LuxeParticleDesigner)|A tool for quickly designing / tweaking particle systems in Luxe.||
-|16|[@hamaluik](https://github.com/hamaluik)/[**baldrick**](https://github.com/hamaluik/baldrick)|Entity-component-system (ECS) framework, based heavily on edge||
 |16|[@underscorediscovery](https://github.com/underscorediscovery)/[**hxsw**](https://github.com/underscorediscovery/hxsw)|Haxe Shader Wrangler (hxsw) - a port of glsw||
 |15|[@hamaluik](https://github.com/hamaluik)/[**haxe-gltf**](https://github.com/hamaluik/haxe-gltf)|A Haxe library for reading (and eventually, writing) GLTF files.||
 |14|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**headbutt**](https://github.com/FuzzyWuzzie/headbutt)|A GJK and EPA collision engine made with pure Haxe.||
+|14|[@chfoo](https://github.com/chfoo)/[**callfunc**](https://github.com/chfoo/callfunc)|Foreign function interface Haxe library using libffi||
 |14|[@underscorediscovery](https://github.com/underscorediscovery)/[**mohxa**](https://github.com/underscorediscovery/mohxa)|A BDD style test library based closely on http://visionmedia.github.io/mocha/||
 |14|[@underscorediscovery](https://github.com/underscorediscovery)/[**openfl-simple-particles**](https://github.com/underscorediscovery/openfl-simple-particles)|A simple particle system for openfl||
 |13|[@fserb](https://github.com/fserb)/[**sfxr**](https://github.com/fserb/sfxr)|sfxr port for Haxe|[:arrow_upper_right:](http://fserb.com/vault)|
@@ -22,7 +23,6 @@
 |12|[@Ohmnivore](https://github.com/Ohmnivore)/[**ClientSidePredictionAndServerReconciliation**](https://github.com/Ohmnivore/ClientSidePredictionAndServerReconciliation)|Haxe port of http://www.gabrielgambetta.com/fpm_live.html||
 |12|[@Ohmnivore](https://github.com/Ohmnivore)/[**Monsieur-Moustache**](https://github.com/Ohmnivore/Monsieur-Moustache)|:tophat: Open-source cross-platform endless jumper game (HaxeFlixel engine)|[:arrow_upper_right:](http://ohmnivore.itch.io/monsieur-moustache)|
 |12|[@adireddy](https://github.com/adireddy)/[**haxe-chart**](https://github.com/adireddy/haxe-chart)|Externs of Chart.js for Haxe|[:arrow_upper_right:](http://www.chartjs.org)|
-|12|[@chfoo](https://github.com/chfoo)/[**callfunc**](https://github.com/chfoo/callfunc)|Foreign function interface Haxe library using libffi||
 |12|[@hamaluik](https://github.com/hamaluik)/[**luxe_tusk_old_deprecated**](https://github.com/hamaluik/luxe_tusk_old_deprecated)|My personal game engine||
 |11|[@hamaluik](https://github.com/hamaluik)/[**LuxeSightLights**](https://github.com/hamaluik/LuxeSightLights)|Luxe implementation of Sight & Light by the wonderfully talented Nicky Case||
 |10|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxeSightLights**](https://github.com/FuzzyWuzzie/LuxeSightLights)|Luxe implementation of Sight & Light by the wonderfully talented Nicky Case||
@@ -42,10 +42,10 @@
 |8|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe-assetpacker**](https://github.com/underscorediscovery/luxe-assetpacker)|An asset packing tool for luxe and haxe projects||
 |7|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxeLights**](https://github.com/FuzzyWuzzie/LuxeLights)|A simple demo showing how to use render textures and shaders to create a _very basic_ 2D lighting effect (no shadows, no light "clipping").||
 |7|[@adireddy](https://github.com/adireddy)/[**haxe-p2**](https://github.com/adireddy/haxe-p2)|Externs of p2.js for Haxe|[:arrow_upper_right:](http://schteppe.github.io/p2.js/)|
+|7|[@chfoo](https://github.com/chfoo)/[**thenshim**](https://github.com/chfoo/thenshim)|Adapter/shim for cross-target JavaScript-style ('thenable') promises Haxe library ||
 |6|[@Ohmnivore](https://github.com/Ohmnivore)/[**TileSetter**](https://github.com/Ohmnivore/TileSetter)|UI application for editing tile properties for tilesets||
 |6|[@adireddy](https://github.com/adireddy)/[**haxe-hammer**](https://github.com/adireddy/haxe-hammer)|Externs of hammer.js for Haxe ||
 |6|[@adireddy](https://github.com/adireddy)/[**perf**](https://github.com/adireddy/perf)|Simple JavaScript Performance Monitor||
-|6|[@chfoo](https://github.com/chfoo)/[**thenshim**](https://github.com/chfoo/thenshim)|Adapter/shim for cross-target JavaScript-style ('thenable') promises Haxe library ||
 |6|[@chfoo](https://github.com/chfoo)/[**tppinputassist**](https://github.com/chfoo/tppinputassist)|Touchscreen coordinate tap overlay for inputting into Twitch chat||
 |6|[@hamaluik](https://github.com/hamaluik)/[**haxe-pako**](https://github.com/hamaluik/haxe-pako)|Haxe externs for the https://github.com/nodeca/pako library.||
 |6|[@starburst997](https://github.com/starburst997)/[**SWFTY**](https://github.com/starburst997/SWFTY)|Convert a SWF to an Atlas Spritesheet Tilemap Bitmap Font single zipped file||

@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|167|[@willyd](https://github.com/willyd)/[**caffe-builder**](https://github.com/willyd/caffe-builder)|CMake build scripts to automate building the Caffe library and its dependencies.||
-|129|[@ldionne](https://github.com/ldionne)/[**metabench**](https://github.com/ldionne/metabench)|A simple framework for compile-time benchmarks||
-|70|[@Devolutions](https://github.com/Devolutions)/[**CMakeRust**](https://github.com/Devolutions/CMakeRust)|CMake Rust Language Support||
+|166|[@willyd](https://github.com/willyd)/[**caffe-builder**](https://github.com/willyd/caffe-builder)|CMake build scripts to automate building the Caffe library and its dependencies.||
+|133|[@ldionne](https://github.com/ldionne)/[**metabench**](https://github.com/ldionne/metabench)|A simple framework for compile-time benchmarks||
+|71|[@Devolutions](https://github.com/Devolutions)/[**CMakeRust**](https://github.com/Devolutions/CMakeRust)|CMake Rust Language Support||
 |54|[@corngood](https://github.com/corngood)/[**SDL_vulkan**](https://github.com/corngood/SDL_vulkan)|A library for creating Vulkan surfaces for SDL2 windows.||
 |27|[@PR2](https://github.com/PR2)/[**pr2_common**](https://github.com/PR2/pr2_common)|||
 |27|[@dgovil](https://github.com/dgovil)/[**MeshCompare**](https://github.com/dgovil/MeshCompare)|Comparison tools for Maya meshes, to help visualize the differences between similar meshes.||
 |10|[@cjdb](https://github.com/cjdb)/[**project_template**](https://github.com/cjdb/project_template)|A starting point for C++ projects.||
 |9|[@babelouest](https://github.com/babelouest)/[**yder**](https://github.com/babelouest/yder)|Logging library for C applications|[:arrow_upper_right:](https://babelouest.github.io/yder/)|
+|7|[@fungos](https://github.com/fungos)/[**autovcpkg**](https://github.com/fungos/autovcpkg)|Auto manage native dependencies using vcpkg and cmake||
 |6|[@darienmt](https://github.com/darienmt)/[**ros_ignite_academy_ros_in_5_days**](https://github.com/darienmt/ros_ignite_academy_ros_in_5_days)|ROS Ignite Academy : ROS in 5 Days projects||
-|6|[@fungos](https://github.com/fungos)/[**autovcpkg**](https://github.com/fungos/autovcpkg)|Auto manage native dependencies using vcpkg and cmake||
 |5|[@fire](https://github.com/fire)/[**com-chibifire-fbx-plugin**](https://github.com/fire/com-chibifire-fbx-plugin)|||
 |4|[@cjdb](https://github.com/cjdb)/[**basic_project**](https://github.com/cjdb/basic_project)|A starting point for C++ projects.||
 |4|[@danijar](https://github.com/danijar)/[**modurale**](https://github.com/danijar/modurale)|Modular real time engine for computer graphics applications||

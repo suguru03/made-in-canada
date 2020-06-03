@@ -1,69 +1,71 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |9427|[@chmln](https://github.com/chmln)/[**flatpickr**](https://github.com/chmln/flatpickr)|lightweight and powerful datetimepicker with no dependencies|[:arrow_upper_right:](https://chmln.github.io/flatpickr)|
-|4700|[@DylanVann](https://github.com/DylanVann)/[**react-native-fast-image**](https://github.com/DylanVann/react-native-fast-image)|🚩 FastImage, performant React Native image component.||
+|4741|[@DylanVann](https://github.com/DylanVann)/[**react-native-fast-image**](https://github.com/DylanVann/react-native-fast-image)|🚩 FastImage, performant React Native image component.||
 |4153|[@auchenberg](https://github.com/auchenberg)/[**vscode-browser-preview**](https://github.com/auchenberg/vscode-browser-preview)|A real browser preview inside your editor that you can debug.||
-|1772|[@clauderic](https://github.com/clauderic)/[**react-tiny-virtual-list**](https://github.com/clauderic/react-tiny-virtual-list)|A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, sticky items, scrolling to index, and more!|[:arrow_upper_right:](https://clauderic.github.io/react-tiny-virtual-list/)|
-|1292|[@dsherret](https://github.com/dsherret)/[**ts-morph**](https://github.com/dsherret/ts-morph)|TypeScript Compiler API wrapper for static analysis and programmatic code changes.|[:arrow_upper_right:](https://ts-morph.com)|
-|1042|[@onsip](https://github.com/onsip)/[**SIP.js**](https://github.com/onsip/SIP.js)|A simple, intuitive, and powerful JavaScript signaling library|[:arrow_upper_right:](https://sipjs.com)|
-|852|[@FortAwesome](https://github.com/FortAwesome)/[**angular-fontawesome**](https://github.com/FortAwesome/angular-fontawesome)|  Official Angular component for Font Awesome 5|[:arrow_upper_right:](https://fontawesome.com)|
-|830|[@bbc](https://github.com/bbc)/[**sqs-consumer**](https://github.com/bbc/sqs-consumer)|Build Amazon Simple Queue Service (SQS) based applications without the boilerplate||
-|741|[@dolanmiu](https://github.com/dolanmiu)/[**docx**](https://github.com/dolanmiu/docx)|Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.|[:arrow_upper_right:](https://docx.js.org/)|
-|638|[@Qard](https://github.com/Qard)/[**onchange**](https://github.com/Qard/onchange)|Use glob patterns to watch file sets and run a command when anything is added, changed or deleted.||
-|599|[@mohebifar](https://github.com/mohebifar)/[**vidact**](https://github.com/mohebifar/vidact)|A compiler that converts React-compatible codes to VanillaJS with no Virtual DOM|[:arrow_upper_right:](https://mohebifar.github.io/vidact/)|
-|520|[@r-park](https://github.com/r-park)/[**todo-angular-firebase**](https://github.com/r-park/todo-angular-firebase)|Todo app with Angular CLI • AngularFire2 • Firebase • OAuth • SW-Precache|[:arrow_upper_right:](https://ng2-todo-app.firebaseapp.com)|
+|1776|[@clauderic](https://github.com/clauderic)/[**react-tiny-virtual-list**](https://github.com/clauderic/react-tiny-virtual-list)|A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, sticky items, scrolling to index, and more!|[:arrow_upper_right:](https://clauderic.github.io/react-tiny-virtual-list/)|
+|1318|[@dsherret](https://github.com/dsherret)/[**ts-morph**](https://github.com/dsherret/ts-morph)|TypeScript Compiler API wrapper for static analysis and programmatic code changes.|[:arrow_upper_right:](https://ts-morph.com)|
+|1064|[@onsip](https://github.com/onsip)/[**SIP.js**](https://github.com/onsip/SIP.js)|A simple, intuitive, and powerful JavaScript signaling library|[:arrow_upper_right:](https://sipjs.com)|
+|861|[@FortAwesome](https://github.com/FortAwesome)/[**angular-fontawesome**](https://github.com/FortAwesome/angular-fontawesome)|  Official Angular component for Font Awesome 5|[:arrow_upper_right:](https://fontawesome.com)|
+|835|[@bbc](https://github.com/bbc)/[**sqs-consumer**](https://github.com/bbc/sqs-consumer)|Build Amazon Simple Queue Service (SQS) based applications without the boilerplate||
+|764|[@dolanmiu](https://github.com/dolanmiu)/[**docx**](https://github.com/dolanmiu/docx)|Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.|[:arrow_upper_right:](https://docx.js.org/)|
+|642|[@Qard](https://github.com/Qard)/[**onchange**](https://github.com/Qard/onchange)|Use glob patterns to watch file sets and run a command when anything is added, changed or deleted.||
+|603|[@mohebifar](https://github.com/mohebifar)/[**vidact**](https://github.com/mohebifar/vidact)|A compiler that converts React-compatible codes to VanillaJS with no Virtual DOM|[:arrow_upper_right:](https://mohebifar.github.io/vidact/)|
+|519|[@r-park](https://github.com/r-park)/[**todo-angular-firebase**](https://github.com/r-park/todo-angular-firebase)|Todo app with Angular CLI • AngularFire2 • Firebase • OAuth • SW-Precache|[:arrow_upper_right:](https://ng2-todo-app.firebaseapp.com)|
 |516|[@dsherret](https://github.com/dsherret)/[**ts-simple-ast**](https://github.com/dsherret/ts-simple-ast)|TypeScript Compiler API wrapper for static analysis and code manipulation.|[:arrow_upper_right:](https://dsherret.github.io/ts-simple-ast/)|
 |421|[@r-park](https://github.com/r-park)/[**soundcloud-ngrx**](https://github.com/r-park/soundcloud-ngrx)|SoundCloud API client with Angular • RxJS • ngrx/store • ngrx/effects|[:arrow_upper_right:](https://soundcloud-ngrx.herokuapp.com)|
 |415|[@r-park](https://github.com/r-park)/[**todo-angular2-firebase**](https://github.com/r-park/todo-angular2-firebase)|Todo app with Angular2 • AngularFire2 • Firebase • OAuth • Webpack2|[:arrow_upper_right:](https://ng2-todo-app.firebaseapp.com)|
-|410|[@eclipsesource](https://github.com/eclipsesource)/[**jsonforms**](https://github.com/eclipsesource/jsonforms)|React/Redux-based forms for JSON data|[:arrow_upper_right:](http://jsonforms.io)|
+|412|[@eclipsesource](https://github.com/eclipsesource)/[**jsonforms**](https://github.com/eclipsesource/jsonforms)|React/Redux-based forms for JSON data|[:arrow_upper_right:](http://jsonforms.io)|
 |379|[@arkon](https://github.com/arkon)/[**ng-sidebar**](https://github.com/arkon/ng-sidebar)|Angular sidebar component.|[:arrow_upper_right:](https://echeung.me/ng-sidebar)|
-|326|[@dalenguyen](https://github.com/dalenguyen)/[**rest-api-node-typescript**](https://github.com/dalenguyen/rest-api-node-typescript)|Building RESTful Web APIs with Node.js, Express, MongoDB and TypeScript|[:arrow_upper_right:](https://restful-api-node-typescript.books.dalenguyen.me)|
-|315|[@dsherret](https://github.com/dsherret)/[**ts-ast-viewer**](https://github.com/dsherret/ts-ast-viewer)|TypeScript AST viewer.|[:arrow_upper_right:](https://ts-ast-viewer.com)|
-|259|[@dsherret](https://github.com/dsherret)/[**ts-nameof**](https://github.com/dsherret/ts-nameof)|nameof in TypeScript||
-|255|[@Belphemur](https://github.com/Belphemur)/[**node-json-db**](https://github.com/Belphemur/node-json-db)|A simple "database" that use JSON file for Node.JS.||
-|255|[@dsherret](https://github.com/dsherret)/[**conditional-type-checks**](https://github.com/dsherret/conditional-type-checks)|Types for testing TypeScript types.||
-|252|[@kkemple](https://github.com/kkemple)/[**graphql-auth**](https://github.com/kkemple/graphql-auth)|🔒 GraphQL authentication and authorization middleware||
-|239|[@ChainSafe](https://github.com/ChainSafe)/[**lodestar**](https://github.com/ChainSafe/lodestar)|🌟 Ethereum 2.0: TypeScript Implementation of the Beacon Chain ||
+|331|[@dalenguyen](https://github.com/dalenguyen)/[**rest-api-node-typescript**](https://github.com/dalenguyen/rest-api-node-typescript)|Building RESTful Web APIs with Node.js, Express, MongoDB and TypeScript|[:arrow_upper_right:](https://restful-api-node-typescript.books.dalenguyen.me)|
+|320|[@dsherret](https://github.com/dsherret)/[**ts-ast-viewer**](https://github.com/dsherret/ts-ast-viewer)|TypeScript AST viewer.|[:arrow_upper_right:](https://ts-ast-viewer.com)|
+|260|[@dsherret](https://github.com/dsherret)/[**ts-nameof**](https://github.com/dsherret/ts-nameof)|nameof in TypeScript||
+|257|[@dsherret](https://github.com/dsherret)/[**conditional-type-checks**](https://github.com/dsherret/conditional-type-checks)|Types for testing TypeScript types.||
+|256|[@Belphemur](https://github.com/Belphemur)/[**node-json-db**](https://github.com/Belphemur/node-json-db)|A simple "database" that use JSON file for Node.JS.||
+|253|[@kkemple](https://github.com/kkemple)/[**graphql-auth**](https://github.com/kkemple/graphql-auth)|🔒 GraphQL authentication and authorization middleware||
+|244|[@ChainSafe](https://github.com/ChainSafe)/[**lodestar**](https://github.com/ChainSafe/lodestar)|🌟 Ethereum 2.0: TypeScript Implementation of the Beacon Chain ||
 |226|[@QTGate](https://github.com/QTGate)/[**QTGate-Desktop-Client**](https://github.com/QTGate/QTGate-Desktop-Client)|A revolutionary internet infrastructure enabling a truly free Network, that offers Stability, Trust, Privacy, and Security|[:arrow_upper_right:](https://www.CoNETTech.ca)|
-|195|[@dalenguyen](https://github.com/dalenguyen)/[**firestore-backup-restore**](https://github.com/dalenguyen/firestore-backup-restore)|NPM package for backup and restore Firebase Firestore|[:arrow_upper_right:](https://npmjs.com/package/firestore-export-import)|
-|193|[@andnp](https://github.com/andnp)/[**SimplyTyped**](https://github.com/andnp/SimplyTyped)|yet another Typescript type library for advanced types||
-|190|[@turt2live](https://github.com/turt2live)/[**matrix-dimension**](https://github.com/turt2live/matrix-dimension)|An open source integration manager for matrix clients, like Riot.|[:arrow_upper_right:](https://dimension.t2bot.io)|
+|201|[@dalenguyen](https://github.com/dalenguyen)/[**firestore-backup-restore**](https://github.com/dalenguyen/firestore-backup-restore)|NPM package for backup and restore Firebase Firestore|[:arrow_upper_right:](https://npmjs.com/package/firestore-export-import)|
+|199|[@andnp](https://github.com/andnp)/[**SimplyTyped**](https://github.com/andnp/SimplyTyped)|yet another Typescript type library for advanced types||
+|195|[@turt2live](https://github.com/turt2live)/[**matrix-dimension**](https://github.com/turt2live/matrix-dimension)|An open source integration manager for matrix clients, like Riot.|[:arrow_upper_right:](https://dimension.t2bot.io)|
 |186|[@arkon](https://github.com/arkon)/[**ng-click-outside**](https://github.com/arkon/ng-click-outside)|Angular directive for handling click events outside of an element.|[:arrow_upper_right:](https://echeung.me/ng-click-outside/)|
-|186|[@gdnmobilelab](https://github.com/gdnmobilelab)/[**png-pong**](https://github.com/gdnmobilelab/png-pong)|An image manipulation library with a very specific set of skills.||
+|185|[@gdnmobilelab](https://github.com/gdnmobilelab)/[**png-pong**](https://github.com/gdnmobilelab/png-pong)|An image manipulation library with a very specific set of skills.||
 |181|[@arkon](https://github.com/arkon)/[**ng-inline-svg**](https://github.com/arkon/ng-inline-svg)|Angular directive for inserting an SVG file inline within an element.|[:arrow_upper_right:](https://echeung.me/ng-inline-svg/)|
 |179|[@brentlintner](https://github.com/brentlintner)/[**synt**](https://github.com/brentlintner/synt)|Find similar functions and classes in your JavaScript/TypeScript code|[:arrow_upper_right:](https://npmjs.org/synt)|
-|171|[@backmeupplz](https://github.com/backmeupplz)/[**shieldy**](https://github.com/backmeupplz/shieldy)|@shieldy_bot Telegram bot repository|[:arrow_upper_right:](https://t.me/shieldy_bot)|
-|156|[@allenhwkim](https://github.com/allenhwkim)/[**react-openlayers**](https://github.com/allenhwkim/react-openlayers)|OpenLayer React Components||
+|175|[@backmeupplz](https://github.com/backmeupplz)/[**shieldy**](https://github.com/backmeupplz/shieldy)|@shieldy_bot Telegram bot repository|[:arrow_upper_right:](https://t.me/shieldy_bot)|
+|157|[@allenhwkim](https://github.com/allenhwkim)/[**react-openlayers**](https://github.com/allenhwkim/react-openlayers)|OpenLayer React Components||
+|157|[@benjie](https://github.com/benjie)/[**prettier-plugin-pg**](https://github.com/benjie/prettier-plugin-pg)|[WIP] Plugin for prettier to support formatting of PostgreSQL-flavour SQL, including function bodies in SQL, pgSQL, PLV8, plpython, etc.||
 |154|[@Glavin001](https://github.com/Glavin001)/[**tslint-clean-code**](https://github.com/Glavin001/tslint-clean-code)|TSLint rules for enforcing Clean Code|[:arrow_upper_right:](https://www.npmjs.com/package/tslint-clean-code)|
-|150|[@davestewart](https://github.com/davestewart)/[**axios-actions**](https://github.com/davestewart/axios-actions)|Bundle endpoints as callable, reusable services|[:arrow_upper_right:](https://axios-actions.netlify.com)|
-|149|[@benjie](https://github.com/benjie)/[**prettier-plugin-pg**](https://github.com/benjie/prettier-plugin-pg)|[WIP] Plugin for prettier to support formatting of PostgreSQL-flavour SQL, including function bodies in SQL, pgSQL, PLV8, plpython, etc.||
+|152|[@davestewart](https://github.com/davestewart)/[**axios-actions**](https://github.com/davestewart/axios-actions)|Bundle endpoints as callable, reusable services|[:arrow_upper_right:](https://axios-actions.netlify.com)|
 |143|[@DashboardHub](https://github.com/DashboardHub)/[**PipelineDashboard**](https://github.com/DashboardHub/PipelineDashboard)|Dashboard for your Deployment pipeline https://dashboardhub.io/|[:arrow_upper_right:](https://pipeline.dashboardhub.io/)|
 |141|[@skellock](https://github.com/skellock)/[**typescript-with-electron-react-kit**](https://github.com/skellock/typescript-with-electron-react-kit)|Don't just start your Electron app... TWERKit.|[:arrow_upper_right:](https://skellock.github.io/typescript-with-electron-react-kit)|
-|133|[@alex-okrushko](https://github.com/alex-okrushko)/[**backoff-rxjs**](https://github.com/alex-okrushko/backoff-rxjs)|A collection of helpful RxJS operators to deal with backoff strategies (like exponential backoff)||
+|135|[@alex-okrushko](https://github.com/alex-okrushko)/[**backoff-rxjs**](https://github.com/alex-okrushko/backoff-rxjs)|A collection of helpful RxJS operators to deal with backoff strategies (like exponential backoff)||
 |128|[@Glavin001](https://github.com/Glavin001)/[**graphql-sequelize-crud**](https://github.com/Glavin001/graphql-sequelize-crud)|Automatically generate queries and mutations from Sequelize models|[:arrow_upper_right:](https://www.npmjs.com/package/graphql-sequelize-crud)|
-|114|[@fnando](https://github.com/fnando)/[**cpf**](https://github.com/fnando/cpf)|🇧🇷 Validate, generate and format CPF numbers||
-|110|[@NoelFB](https://github.com/NoelFB)/[**foster-ts**](https://github.com/NoelFB/foster-ts)|A WebGL + TypeScript 2D Game framework with a Scene>Entity>Component model.||
-|100|[@bbc](https://github.com/bbc)/[**sqs-producer**](https://github.com/bbc/sqs-producer)|Simple scaffolding for applications that produce SQS messages||
-|98|[@dolanmiu](https://github.com/dolanmiu)/[**MMM-awesome-alexa**](https://github.com/dolanmiu/MMM-awesome-alexa)|Turn your MagicMirror into an 'Amazon Echo'. Activated when you say 'Alexa'.|[:arrow_upper_right:](https://awesome-alexa.js.org)|
-|97|[@danielgerlag](https://github.com/danielgerlag)/[**workflow-es**](https://github.com/danielgerlag/workflow-es)|Workflow / durable task library for Node.js (or modern browsers)||
-|94|[@dance2die](https://github.com/dance2die)/[**react-use-localstorage**](https://github.com/dance2die/react-use-localstorage)|⚓ React hook for using local storage|[:arrow_upper_right:](https://www.npmjs.com/package/react-use-localstorage)|
-|94|[@tleunen](https://github.com/tleunen)/[**pixi-multistyle-text**](https://github.com/tleunen/pixi-multistyle-text)|Multi-Style Text for pixi.js||
+|115|[@fnando](https://github.com/fnando)/[**cpf**](https://github.com/fnando/cpf)|🇧🇷 Validate, generate and format CPF numbers||
+|109|[@NoelFB](https://github.com/NoelFB)/[**foster-ts**](https://github.com/NoelFB/foster-ts)|A WebGL + TypeScript 2D Game framework with a Scene>Entity>Component model.||
+|102|[@bbc](https://github.com/bbc)/[**sqs-producer**](https://github.com/bbc/sqs-producer)|Simple scaffolding for applications that produce SQS messages||
+|101|[@dolanmiu](https://github.com/dolanmiu)/[**MMM-awesome-alexa**](https://github.com/dolanmiu/MMM-awesome-alexa)|Turn your MagicMirror into an 'Amazon Echo'. Activated when you say 'Alexa'.|[:arrow_upper_right:](https://awesome-alexa.js.org)|
+|100|[@danielgerlag](https://github.com/danielgerlag)/[**workflow-es**](https://github.com/danielgerlag/workflow-es)|Workflow / durable task library for Node.js (or modern browsers)||
+|96|[@castorini](https://github.com/castorini)/[**covidex**](https://github.com/castorini/covidex)|A multi-stage neural search engine for the COVID-19 Open Research Dataset|[:arrow_upper_right:](https://covidex.ai)|
+|95|[@dance2die](https://github.com/dance2die)/[**react-use-localstorage**](https://github.com/dance2die/react-use-localstorage)|⚓ React hook for using local storage|[:arrow_upper_right:](https://www.npmjs.com/package/react-use-localstorage)|
+|95|[@tleunen](https://github.com/tleunen)/[**pixi-multistyle-text**](https://github.com/tleunen/pixi-multistyle-text)|Multi-Style Text for pixi.js||
 |93|[@Glavin001](https://github.com/Glavin001)/[**react-hot-ts**](https://github.com/Glavin001/react-hot-ts)|Demo of React Hot Reloading + TypeScript + Webpack2||
-|91|[@castorini](https://github.com/castorini)/[**covidex**](https://github.com/castorini/covidex)|A multi-stage neural search engine for the COVID-19 Open Research Dataset|[:arrow_upper_right:](https://covidex.ai)|
+|90|[@ggoodman](https://github.com/ggoodman)/[**velcro**](https://github.com/ggoodman/velcro)|A set of tools and libraries for stitching together modules and code in highly dynamic browser environments|[:arrow_upper_right:](https://ggoodman.github.io/velcro/)|
+|89|[@EQuimper](https://github.com/EQuimper)/[**react-native-design-utility**](https://github.com/EQuimper/react-native-design-utility)|Utility for building design system in react-native||
 |89|[@NoelFB](https://github.com/NoelFB)/[**foster**](https://github.com/NoelFB/foster)|A WebGL + TypeScript 2D Game framework with a Scene>Entity>Component model.||
-|87|[@EQuimper](https://github.com/EQuimper)/[**react-native-design-utility**](https://github.com/EQuimper/react-native-design-utility)|Utility for building design system in react-native||
-|83|[@coveo](https://github.com/coveo)/[**search-ui**](https://github.com/coveo/search-ui)|Coveo Search UI framework||
-|83|[@ggoodman](https://github.com/ggoodman)/[**velcro**](https://github.com/ggoodman/velcro)|A set of tools and libraries for stitching together modules and code in highly dynamic browser environments|[:arrow_upper_right:](https://ggoodman.github.io/velcro/)|
+|84|[@coveo](https://github.com/coveo)/[**search-ui**](https://github.com/coveo/search-ui)|Coveo Search UI framework||
 |82|[@JamesHenry](https://github.com/JamesHenry)/[**typescript-estree**](https://github.com/JamesHenry/typescript-estree)|:sparkles: A parser that converts TypeScript source code into an ESTree-compatible form|[:arrow_upper_right:](https://jameshenry.blog)|
 |80|[@dsherret](https://github.com/dsherret)/[**ts-type-info**](https://github.com/dsherret/ts-type-info)|TypeScript AST and code generator [Deprecated]||
-|78|[@mohebifar](https://github.com/mohebifar)/[**react-native-easy-dnd**](https://github.com/mohebifar/react-native-easy-dnd)|Drag and drop with react-native made simple||
+|79|[@mohebifar](https://github.com/mohebifar)/[**react-native-easy-dnd**](https://github.com/mohebifar/react-native-easy-dnd)|Drag and drop with react-native made simple||
 |75|[@kryptco](https://github.com/kryptco)/[**kr-u2f**](https://github.com/kryptco/kr-u2f)|A Browser extension that lets you use your phone as a U2F/WebAuthN Authenticator for strong, unphishable 2FA.|[:arrow_upper_right:](https://krypt.co)|
-|71|[@dalenguyen](https://github.com/dalenguyen)/[**serverless-rest-api**](https://github.com/dalenguyen/serverless-rest-api)|Building RESTful Web APIs with Firebase Cloud Function, Firestore, Express and TypeScript|[:arrow_upper_right:](https://medium.com/@dalenguyen/building-a-serverless-restful-api-with-cloud-functions-firestore-and-express-f917a305d4e6)|
-|70|[@addyosmani](https://github.com/addyosmani)/[**todomvc-angular-4**](https://github.com/addyosmani/todomvc-angular-4)|Angular 4.x TodoMVC implementation||
+|72|[@dalenguyen](https://github.com/dalenguyen)/[**serverless-rest-api**](https://github.com/dalenguyen/serverless-rest-api)|Building RESTful Web APIs with Firebase Cloud Function, Firestore, Express and TypeScript|[:arrow_upper_right:](https://medium.com/@dalenguyen/building-a-serverless-restful-api-with-cloud-functions-firestore-and-express-f917a305d4e6)|
+|70|[@adrianmcli](https://github.com/adrianmcli)/[**eth95**](https://github.com/adrianmcli/eth95)|🛠️ A smart contract UI for your Ethereum dapp project|[:arrow_upper_right:](https://eth95.dev)|
+|69|[@DylanVann](https://github.com/DylanVann)/[**ant-design-draggable-modal**](https://github.com/DylanVann/ant-design-draggable-modal)|The Modal from Ant Design, draggable.|[:arrow_upper_right:](https://ant-design-draggable-modal.netlify.com)|
 |69|[@EQuimper](https://github.com/EQuimper)/[**react-native-google-autocomplete**](https://github.com/EQuimper/react-native-google-autocomplete)|A react-native component with render props around the Google Autocomplete Api||
-|68|[@DylanVann](https://github.com/DylanVann)/[**ant-design-draggable-modal**](https://github.com/DylanVann/ant-design-draggable-modal)|The Modal from Ant Design, draggable.|[:arrow_upper_right:](https://ant-design-draggable-modal.netlify.com)|
-|65|[@dalenguyen](https://github.com/dalenguyen)/[**firebase-functions-helper**](https://github.com/dalenguyen/firebase-functions-helper)|A helper NPM package for Firebase Cloud Functions|[:arrow_upper_right:](https://www.npmjs.com/package/firebase-functions-helper)|
-|63|[@ShMcK](https://github.com/ShMcK)/[**statechart-designer**](https://github.com/ShMcK/statechart-designer)|Visual designing/development tool for statecharts in JS (XState)|[:arrow_upper_right:](https://shmck.github.io/statechart-designer)|
+|69|[@brentvatne](https://github.com/brentvatne)/[**hour-power**](https://github.com/brentvatne/hour-power)|Fun little internal hackathon project from @expo|[:arrow_upper_right:](https://power.bront.xyz)|
+|68|[@addyosmani](https://github.com/addyosmani)/[**todomvc-angular-4**](https://github.com/addyosmani/todomvc-angular-4)|Angular 4.x TodoMVC implementation||
+|66|[@dalenguyen](https://github.com/dalenguyen)/[**firebase-functions-helper**](https://github.com/dalenguyen/firebase-functions-helper)|A helper NPM package for Firebase Cloud Functions|[:arrow_upper_right:](https://www.npmjs.com/package/firebase-functions-helper)|
+|64|[@ShMcK](https://github.com/ShMcK)/[**statechart-designer**](https://github.com/ShMcK/statechart-designer)|Visual designing/development tool for statecharts in JS (XState)|[:arrow_upper_right:](https://shmck.github.io/statechart-designer)|
 |59|[@fnando](https://github.com/fnando)/[**cnpj**](https://github.com/fnando/cnpj)|🇧🇷 Validate, generate and format CNPJ numbers||
 |56|[@nfriend](https://github.com/nfriend)/[**ts-keycode-enum**](https://github.com/nfriend/ts-keycode-enum)|A TypeScript enum definition that maps human-friendly key names to JavaScript key codes||
 |52|[@QTGate](https://github.com/QTGate)/[**CoNET**](https://github.com/QTGate/CoNET)|What is possible, not what is What it could be, not what it is A more secure way of doing… everything|[:arrow_upper_right:](https://www.CoNETTech.ca)|
@@ -78,24 +80,24 @@
 |44|[@eclipsesource](https://github.com/eclipsesource)/[**jsonforms-react-seed**](https://github.com/eclipsesource/jsonforms-react-seed)|React-based JSON Forms Seed App||
 |42|[@Hermanya](https://github.com/Hermanya)/[**use-typing-effect**](https://github.com/Hermanya/use-typing-effect)|⌨️ React hook for the “human typing” effect; great for landing pages, input placeholders and more!|[:arrow_upper_right:](https://hermanya.github.io/use-typing-effect/)|
 |41|[@ashwin-sureshkumar](https://github.com/ashwin-sureshkumar)/[**angular-cache-service-blog**](https://github.com/ashwin-sureshkumar/angular-cache-service-blog)|||
-|40|[@backmeupplz](https://github.com/backmeupplz)/[**telegraf-template**](https://github.com/backmeupplz/telegraf-template)|Telegram bot template based on telegraf.js.org||
+|41|[@backmeupplz](https://github.com/backmeupplz)/[**telegraf-template**](https://github.com/backmeupplz/telegraf-template)|Telegram bot template based on telegraf.js.org||
+|39|[@bobheadxi](https://github.com/bobheadxi)/[**deployments**](https://github.com/bobheadxi/deployments)|❗️GitHub Action for working painlessly with deployment statuses|[:arrow_upper_right:](https://github.com/marketplace/actions/github-deployments)|
+|39|[@chandermani](https://github.com/chandermani)/[**angular6byexample**](https://github.com/chandermani/angular6byexample)|Source control repository for Angular 6 By Example book.||
 |39|[@r-park](https://github.com/r-park)/[**todo-angular2-ngrx**](https://github.com/r-park/todo-angular2-ngrx)|Todo app with Angular • RxJS • ngrx/store • ngrx/effects • Webpack||
 |38|[@ShMcK](https://github.com/ShMcK)/[**Angular-Meteor-Boilerplate**](https://github.com/ShMcK/Angular-Meteor-Boilerplate)|Full Featured Angular Meteor Boilerplate||
-|38|[@chandermani](https://github.com/chandermani)/[**angular6byexample**](https://github.com/chandermani/angular6byexample)|Source control repository for Angular 6 By Example book.||
 |37|[@auchenberg](https://github.com/auchenberg)/[**element-to-source**](https://github.com/auchenberg/element-to-source)|Providing utility to map a DOM element to source information, using debug metadata provided by (some) frameworks.||
 |37|[@turt2live](https://github.com/turt2live)/[**matrix-js-bot-sdk**](https://github.com/turt2live/matrix-js-bot-sdk)|A lightweight version of the matrix-js-sdk intended for bots||
 |36|[@gdnmobilelab](https://github.com/gdnmobilelab)/[**png-pong-font**](https://github.com/gdnmobilelab/png-pong-font)|A text writing transformer for PngPong||
-|35|[@bobheadxi](https://github.com/bobheadxi)/[**deployments**](https://github.com/bobheadxi/deployments)|❗️GitHub Action for working painlessly with deployment statuses|[:arrow_upper_right:](https://github.com/marketplace/actions/github-deployments)|
 |35|[@emyann](https://github.com/emyann)/[**morphism**](https://github.com/emyann/morphism)|⚡ Library to transform any Object / JSON to JavaScript Object Literals, and ES6 Class Objects. Help you scale your data processing.|[:arrow_upper_right:](https://emyann.github.io/morphism)|
 |35|[@mhsjlw](https://github.com/mhsjlw)/[**imdb**](https://github.com/mhsjlw/imdb)|An IMDb interface for Node||
+|33|[@mirego](https://github.com/mirego)/[**react-boilerplate**](https://github.com/mirego/react-boilerplate)|⚛ The stable base upon which we build our React projects at Mirego.|[:arrow_upper_right:](https://open.mirego.com)|
 |32|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**web-app-starter**](https://github.com/CaptainCodeman/web-app-starter)|Web App Starter using WebComponents, Lit-Html, Redux, Typescript and Rollup||
 |32|[@dsherret](https://github.com/dsherret)/[**using-statement**](https://github.com/dsherret/using-statement)|"Using statement" in JavaScript and TypeScript.||
-|32|[@mirego](https://github.com/mirego)/[**react-boilerplate**](https://github.com/mirego/react-boilerplate)|⚛ The stable base upon which we build our React projects at Mirego.|[:arrow_upper_right:](https://open.mirego.com)|
 |31|[@coveo](https://github.com/coveo)/[**sfdx-js**](https://github.com/coveo/sfdx-js)|A TypeScript compatible JavaScript wrapper for Salesforce DX CLI.||
+|30|[@nfriend](https://github.com/nfriend)/[**ts-key-enum**](https://github.com/nfriend/ts-key-enum)|A TypeScript string enum for compile-time safety when working with event.key|[:arrow_upper_right:](https://www.npmjs.com/package/ts-key-enum)|
 |30|[@wbuchwalter](https://github.com/wbuchwalter)/[**tsRedux**](https://github.com/wbuchwalter/tsRedux)|||
-|29|[@backmeupplz](https://github.com/backmeupplz)/[**backend-starter**](https://github.com/backmeupplz/backend-starter)|Backend starter template||
-|29|[@nfriend](https://github.com/nfriend)/[**ts-key-enum**](https://github.com/nfriend/ts-key-enum)|A TypeScript string enum for compile-time safety when working with event.key|[:arrow_upper_right:](https://www.npmjs.com/package/ts-key-enum)|
 |28|[@3DSemantix](https://github.com/3DSemantix)/[**angular-asp.net-core-aad-b2c**](https://github.com/3DSemantix/angular-asp.net-core-aad-b2c)|A single page app implemented using Angular 7, ASP.NET Core 2.1 and Azure AD B2C.||
+|27|[@backmeupplz](https://github.com/backmeupplz)/[**backend-starter**](https://github.com/backmeupplz/backend-starter)|Backend starter template||
 |27|[@backmeupplz](https://github.com/backmeupplz)/[**randymbot**](https://github.com/backmeupplz/randymbot)|Randy Marsh raffle Telegram bot|[:arrow_upper_right:](https://t.me/randymbot)|
 |27|[@coveo](https://github.com/coveo)/[**react-vapor**](https://github.com/coveo/react-vapor)|Vapor CSS components implemented with React!|[:arrow_upper_right:](https://vapor.cloud.coveo.com/)|
 |27|[@ricmoo](https://github.com/ricmoo)/[**Takoyaki**](https://github.com/ricmoo/Takoyaki)|ENS the fun and easy way; like a box of cereal, there is a toy at the bottom.|[:arrow_upper_right:](https://takoyaki.cafe)|
@@ -104,9 +106,9 @@
 |26|[@dsherret](https://github.com/dsherret)/[**code-block-writer**](https://github.com/dsherret/code-block-writer)|Code writer that assists with formatting and visualizing blocks of JavaScript or TypeScript code.||
 |26|[@microfleet](https://github.com/microfleet)/[**core**](https://github.com/microfleet/core)|Microservice abstract class||
 |26|[@mirego](https://github.com/mirego)/[**ember-boilerplate**](https://github.com/mirego/ember-boilerplate)|👓 The stable base upon which we build our Ember.js projects at Mirego.|[:arrow_upper_right:](https://open.mirego.com)|
+|25|[@Incognito](https://github.com/Incognito)/[**one-time-secret**](https://github.com/Incognito/one-time-secret)|Self-Host secrets on a host that you choose. Minimal requirements. Designed for easy setup.||
 |25|[@hansec](https://github.com/hansec)/[**vscode-fortran-ls**](https://github.com/hansec/vscode-fortran-ls)|Fortran IntelliSense for Visual Studio Code||
 |24|[@Hermanya](https://github.com/Hermanya)/[**use-interval**](https://github.com/Hermanya/use-interval)|⏲ Dan Abramov's interval hook.|[:arrow_upper_right:](https://www.npmjs.com/package/use-interval)|
-|24|[@Incognito](https://github.com/Incognito)/[**one-time-secret**](https://github.com/Incognito/one-time-secret)|Self-Host secrets on a host that you choose. Minimal requirements. Designed for easy setup.||
 |24|[@JamesHenry](https://github.com/JamesHenry)/[**eslint-plugin-tslint**](https://github.com/JamesHenry/eslint-plugin-tslint)|:sparkles: A plugin which allows you to run a full instance of TSLint within ESLint|[:arrow_upper_right:](https://jameshenry.blog)|
 |24|[@chenkie](https://github.com/chenkie)/[**angular-cli-heroku**](https://github.com/chenkie/angular-cli-heroku)|||
 |24|[@chenkie](https://github.com/chenkie)/[**ng2-cribs**](https://github.com/chenkie/ng2-cribs)|||
@@ -124,18 +126,19 @@
 |19|[@Ethercast](https://github.com/Ethercast)/[**eth-jsonrpc-client**](https://github.com/Ethercast/eth-jsonrpc-client)|TypeScript Ethereum JSON RPC client|[:arrow_upper_right:](https://ethercast.github.io/eth-jsonrpc-client/)|
 |19|[@Hermanya](https://github.com/Hermanya)/[**use-3d-effect**](https://github.com/Hermanya/use-3d-effect)|🃏React hook that adds the 3D tilt card effect to any component.|[:arrow_upper_right:](https://hermanya.github.io/use-3d-effect)|
 |19|[@ericadamski](https://github.com/ericadamski)/[**vscode-carbon_now_sh**](https://github.com/ericadamski/vscode-carbon_now_sh)|A Code package to open the current editor content in carbon.now.sh|[:arrow_upper_right:](https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh)|
+|18|[@brianleroux](https://github.com/brianleroux)/[**arc-example-deno-ssr**](https://github.com/brianleroux/arc-example-deno-ssr)|||
 |18|[@ggoodman](https://github.com/ggoodman)/[**ts-statemachine**](https://github.com/ggoodman/ts-statemachine)|A fully-typed javascript state machine||
 |17|[@Ailrun](https://github.com/Ailrun)/[**typed-f**](https://github.com/Ailrun/typed-f)|Typed functional programming utilities||
-|17|[@JamesHenry](https://github.com/JamesHenry)/[**mongoose-schema-to-typescript-interface**](https://github.com/JamesHenry/mongoose-schema-to-typescript-interface)|:sparkles: Generate TypeScript interfaces from Mongoose Schemas|[:arrow_upper_right:](https://jameshenry.blog)|
+|17|[@JamesHenry](https://github.com/JamesHenry)/[**mongoose-schema-to-typescript-interface**](https://github.com/JamesHenry/mongoose-schema-to-typescript-interface)|ℹ️This was a project I made for an old employer, but has not been maintained for over 3 years. You are welcome to draw inspiration from it, but note that the implementation is likely quite outdated.||
 |17|[@JamesHenry](https://github.com/JamesHenry)/[**ng-custom-element**](https://github.com/JamesHenry/ng-custom-element)|:sparkles: Legacy AngularJS (1.3+) bindings to modern Custom Elements|[:arrow_upper_right:](https://jameshenry.blog)|
-|17|[@brianleroux](https://github.com/brianleroux)/[**arc-example-deno-ssr**](https://github.com/brianleroux/arc-example-deno-ssr)|||
 |17|[@chenkie](https://github.com/chenkie)/[**angular-auth**](https://github.com/chenkie/angular-auth)|||
+|16|[@backmeupplz](https://github.com/backmeupplz)/[**localizer-backend**](https://github.com/backmeupplz/localizer-backend)|Backend part of Localizer||
 |16|[@benjie](https://github.com/benjie)/[**flow2typescript**](https://github.com/benjie/flow2typescript)|Flow to TypeScript converter||
+|16|[@keithamus](https://github.com/keithamus)/[**mini-observable**](https://github.com/keithamus/mini-observable)|A mini implementation of TC39 observables, plus some utils!||
 |16|[@mirego](https://github.com/mirego)/[**ember-best-language**](https://github.com/mirego/ember-best-language)|🏳 A FastBoot-enabled addon to detect the best language for your user.|[:arrow_upper_right:](https://open.mirego.com)|
+|16|[@turt2live](https://github.com/turt2live)/[**matrix-tag-manager**](https://github.com/turt2live/matrix-tag-manager)|A web interface for supporting power users and their Matrix room tags.|[:arrow_upper_right:](https://tags.t2bot.io)|
 |15|[@Metroxe](https://github.com/Metroxe)/[**composite-data**](https://github.com/Metroxe/composite-data)|A library of data in a composite pattern to be used for validation and organization of data project-wide||
-|15|[@keithamus](https://github.com/keithamus)/[**mini-observable**](https://github.com/keithamus/mini-observable)|A mini implementation of TC39 observables, plus some utils!||
 |15|[@programble](https://github.com/programble)/[**careen**](https://github.com/programble/careen)|Straightforward SQL schema migration, never used||
-|15|[@turt2live](https://github.com/turt2live)/[**matrix-tag-manager**](https://github.com/turt2live/matrix-tag-manager)|A web interface for supporting power users and their Matrix room tags.|[:arrow_upper_right:](https://tags.t2bot.io)|
 |14|[@ChainSafe](https://github.com/ChainSafe)/[**bls-js**](https://github.com/ChainSafe/bls-js)|BLS signature implementation||
 |14|[@Hermanya](https://github.com/Hermanya)/[**react-lean-analytics**](https://github.com/Hermanya/react-lean-analytics)|📊A/B testing for React apps made super easy|[:arrow_upper_right:](https://leananalytics.io)|
 |14|[@Metroxe](https://github.com/Metroxe)/[**pragma**](https://github.com/Metroxe/pragma)|Escape a hostile planet in 100 years. iOS & android game built in React Native.|[:arrow_upper_right:](https://www.youtube.com/watch?v=ByuNEww0-aQ)|
@@ -152,9 +155,10 @@
 |13|[@drehimself](https://github.com/drehimself)/[**todo-angular**](https://github.com/drehimself/todo-angular)|||
 |13|[@dsherret](https://github.com/dsherret)/[**barrel-maintainer**](https://github.com/dsherret/barrel-maintainer)|Automated real-time maintenance of barrels in JavaScript and TypeScript.||
 |13|[@gizak](https://github.com/gizak)/[**vscode-shortcuts**](https://github.com/gizak/vscode-shortcuts)|VSCode Shortcuts Extension||
+|13|[@leighhalliday](https://github.com/leighhalliday)/[**use-supercluster**](https://github.com/leighhalliday/use-supercluster)|A React Hook for using Supercluster||
 |13|[@ulaval](https://github.com/ulaval)/[**modul-typescript-template**](https://github.com/ulaval/modul-typescript-template)|Template to start a new project with Modul / Vuejs / Typescript||
-|12|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**mega-material**](https://github.com/CaptainCodeman/mega-material)|Making Elements Great Again, Material Style||
 |12|[@DylanPiercey](https://github.com/DylanPiercey)/[**parse-form**](https://github.com/DylanPiercey/parse-form)|📃 Utility to easily parse forms in the browser.||
+|12|[@aneagoie](https://github.com/aneagoie)/[**robofriends-typescript-completed**](https://github.com/aneagoie/robofriends-typescript-completed)|Udemy tutorial - adding TypeScript to a react app||
 |12|[@babelouest](https://github.com/babelouest)/[**hutch**](https://github.com/babelouest/hutch)|Online password and secret locker|[:arrow_upper_right:](https://babelouest.github.io/hutch/)|
 |12|[@bcgov](https://github.com/bcgov)/[**dFlow**](https://github.com/bcgov/dFlow)|A demonstration of the verifiable organization network showing a new restaurant gathering the permits necessary to open.||
 |12|[@cheapsteak](https://github.com/cheapsteak)/[**yelp-graphql-mocks**](https://github.com/cheapsteak/yelp-graphql-mocks)|||
@@ -162,6 +166,8 @@
 |12|[@ihadeed](https://github.com/ihadeed)/[**ionic-parallax**](https://github.com/ihadeed/ionic-parallax)|Parallax Module for Ionic Framework 2+||
 |12|[@overthink](https://github.com/overthink)/[**fpmclone**](https://github.com/overthink/fpmclone)|Simulation of fast paced multiplayer game to better understand effects of latency, prediction, and interpolation|[:arrow_upper_right:](http://www.proofbyexample.com/multiplayer-game-architecture.html)|
 |12|[@pilwon](https://github.com/pilwon)/[**node-get-config**](https://github.com/pilwon/node-get-config)|Automagically build a config object used throughout an application||
+|11|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**mega-material**](https://github.com/CaptainCodeman/mega-material)|Making Elements Great Again, Material Style||
+|11|[@Srushtika](https://github.com/Srushtika)/[**realtime-voting**](https://github.com/Srushtika/realtime-voting)|Using Ably, Chart.js, Angular 4||
 |11|[@andnp](https://github.com/andnp)/[**ValidTyped**](https://github.com/andnp/ValidTyped)|Fast Typescript runtime typesystem backed by JSON Schema and AJV||
 |11|[@atrauzzi](https://github.com/atrauzzi)/[**protoculture**](https://github.com/atrauzzi/protoculture)|A slightly opinionated ECMAScript applications framework written in TypeScript||
 |11|[@bcgov](https://github.com/bcgov)/[**MyGovBC-MSP**](https://github.com/bcgov/MyGovBC-MSP)|||
@@ -169,10 +175,10 @@
 |11|[@brentvatne](https://github.com/brentvatne)/[**bottom-sheet-example**](https://github.com/brentvatne/bottom-sheet-example)|||
 |11|[@dalenguyen](https://github.com/dalenguyen)/[**ionic-3-firestore**](https://github.com/dalenguyen/ionic-3-firestore)|A simple Ionic CRUD application that helps to manage data from Cloud Firestore|[:arrow_upper_right:](https://ionic-firestore-dn.firebaseapp.com/)|
 |11|[@dsherret](https://github.com/dsherret)/[**ts-factory-code-generator-generator**](https://github.com/dsherret/ts-factory-code-generator-generator)|Generates code that generates TypeScript Compiler API factory code from an AST.||
-|11|[@leighhalliday](https://github.com/leighhalliday)/[**use-supercluster**](https://github.com/leighhalliday/use-supercluster)|A React Hook for using Supercluster||
+|11|[@freeatnet](https://github.com/freeatnet)/[**web3-react-simple-app**](https://github.com/freeatnet/web3-react-simple-app)|A simple app to get started with web3-react (https://github.com/NoahZinsmeister/web3-react)||
 |11|[@tschf](https://github.com/tschf)/[**odb-task**](https://github.com/tschf/odb-task)|A task runner for VSC based on atom-build-oracle implementation||
 |11|[@varju](https://github.com/varju)/[**typescript-node-mocha-example**](https://github.com/varju/typescript-node-mocha-example)|||
-|10|[@Srushtika](https://github.com/Srushtika)/[**realtime-voting**](https://github.com/Srushtika/realtime-voting)|Using Ably, Chart.js, Angular 4||
+|10|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**rdx**](https://github.com/CaptainCodeman/rdx)|Like Redux, but smaller|[:arrow_upper_right:](https://captaincodeman.github.io/rdx/)|
 |10|[@alex-okrushko](https://github.com/alex-okrushko)/[**ngrx-workshop**](https://github.com/alex-okrushko/ngrx-workshop)|||
 |10|[@backmeupplz](https://github.com/backmeupplz)/[**memcoin**](https://github.com/backmeupplz/memcoin)|Memcoin for the Memconomy for @borodutcher||
 |10|[@backmeupplz](https://github.com/backmeupplz)/[**voicy-landing**](https://github.com/backmeupplz/voicy-landing)|Webpage for Voicy|[:arrow_upper_right:](http://voicybot.com)|
@@ -181,8 +187,9 @@
 |10|[@dolanmiu](https://github.com/dolanmiu)/[**ng-color**](https://github.com/dolanmiu/ng-color)|Simple Angular color picker components which follow Angular best practices. No Frills.|[:arrow_upper_right:](https://stackblitz.com/edit/ng-color-demo)|
 |10|[@dsherret](https://github.com/dsherret)/[**server-bridge**](https://github.com/dsherret/server-bridge)|Code generation for a statically typed bridge between the client and server in TypeScript||
 |10|[@emyann](https://github.com/emyann)/[**matron**](https://github.com/emyann/matron)|A Domain Specific Language à-la Dockerfile with a CLI to scaffold your projects.||
-|10|[@freeatnet](https://github.com/freeatnet)/[**web3-react-simple-app**](https://github.com/freeatnet/web3-react-simple-app)|A simple app to get started with web3-react (https://github.com/NoahZinsmeister/web3-react)||
 |10|[@nexus-uw](https://github.com/nexus-uw)/[**vscode-gtm**](https://github.com/nexus-uw/vscode-gtm)||[:arrow_upper_right:](https://marketplace.visualstudio.com/items?itemName=s3ramsay.vscode-gtm)|
+|10|[@rosshamish](https://github.com/rosshamish)/[**kuskus**](https://github.com/rosshamish/kuskus)|The extension pack so nice they named it twice|[:arrow_upper_right:](https://marketplace.visualstudio.com/items?itemName=rosshamish.kuskus-extensions-pack)|
+|10|[@turt2live](https://github.com/turt2live)/[**matrix-oauth**](https://github.com/turt2live/matrix-oauth)|An OAuth 2.0 server for Matrix accounts||
 |9|[@ChainSafe](https://github.com/ChainSafe)/[**Anemone**](https://github.com/ChainSafe/Anemone)|A testing tool that broadcasts batches of transactions and tests opcodes||
 |9|[@ChainSafe](https://github.com/ChainSafe)/[**ssz-js**](https://github.com/ChainSafe/ssz-js)|Simple Serialize in TypeScript||
 |9|[@DenisCarriere](https://github.com/DenisCarriere)/[**Leaflet.draw.locales**](https://github.com/DenisCarriere/Leaflet.draw.locales)|🇫🇷 Localization for Leaflet.draw, changing between languages is now effortless.|[:arrow_upper_right:](https://deniscarriere.github.io/Leaflet.draw.locales/index.html)|
@@ -191,17 +198,16 @@
 |9|[@ShMcK](https://github.com/ShMcK)/[**statechart-digital-clock**](https://github.com/ShMcK/statechart-digital-clock)|clock demo with xstate, xstateful, xstateful-react|[:arrow_upper_right:](https://shmck.github.io/statechart-digital-clock)|
 |9|[@aljazsim](https://github.com/aljazsim)/[**vs-code-typescript-class-organizer**](https://github.com/aljazsim/vs-code-typescript-class-organizer)|VS Code extension for organizing your TypeScript code||
 |9|[@allenhwkim](https://github.com/allenhwkim)/[**geocoder**](https://github.com/allenhwkim/geocoder)|Geo-Coding/Reverse-Lookup/AutoComplete with Various Providers||
-|9|[@aneagoie](https://github.com/aneagoie)/[**robofriends-typescript-completed**](https://github.com/aneagoie/robofriends-typescript-completed)|Udemy tutorial - adding TypeScript to a react app||
+|9|[@aneagoie](https://github.com/aneagoie)/[**robofriends-typescript**](https://github.com/aneagoie/robofriends-typescript)|Udemy tutorial - adding TypeScript to a react app||
 |9|[@ascariandrea](https://github.com/ascariandrea)/[**revolut-sdk**](https://github.com/ascariandrea/revolut-sdk)|Typesafe SDK for Revolut Business API https://www.revolut.com/it/business||
+|9|[@brianleroux](https://github.com/brianleroux)/[**sam-example-deno**](https://github.com/brianleroux/sam-example-deno)|example sam app using deno||
 |9|[@chaopeng](https://github.com/chaopeng)/[**vscode-chromium-codesearch**](https://github.com/chaopeng/vscode-chromium-codesearch)|||
 |9|[@chenkie](https://github.com/chenkie)/[**custom-operators-workshop**](https://github.com/chenkie/custom-operators-workshop)|RxJS Custom Operators Workshop for ng-conf 2018||
 |9|[@coveo](https://github.com/coveo)/[**magicbox**](https://github.com/coveo/magicbox)|A search box on steroids|[:arrow_upper_right:](https://github.com/coveo/magicbox)|
 |9|[@gardenshade](https://github.com/gardenshade)/[**mam-plus**](https://github.com/gardenshade/mam-plus)|Tweaks & functionality for MAM||
-|9|[@hadim](https://github.com/hadim)/[**jupyterlab_gist**](https://github.com/hadim/jupyterlab_gist)|A Jupyterlab extension to post notebook to gist.||
 |9|[@ihadeed](https://github.com/ihadeed)/[**ionic2-ng2-charts**](https://github.com/ihadeed/ionic2-ng2-charts)|Ionic 2, Angular 2, Ng2-Charts, Charts.js||
-|9|[@rosshamish](https://github.com/rosshamish)/[**kuskus**](https://github.com/rosshamish/kuskus)|The extension pack so nice they named it twice|[:arrow_upper_right:](https://marketplace.visualstudio.com/items?itemName=rosshamish.kuskus-extensions-pack)|
+|9|[@mohebifar](https://github.com/mohebifar)/[**react-use-context-selector**](https://github.com/mohebifar/react-use-context-selector)|Context selector hook for React||
 |9|[@turt2live](https://github.com/turt2live)/[**evelium**](https://github.com/turt2live/evelium)|A matrix chat client to facilitate communication amoung communities, organizations, and individuals|[:arrow_upper_right:](https://evelium.io)|
-|9|[@turt2live](https://github.com/turt2live)/[**matrix-oauth**](https://github.com/turt2live/matrix-oauth)|An OAuth 2.0 server for Matrix accounts||
 |8|[@AmrEldib](https://github.com/AmrEldib)/[**JsapiTypescriptSamples**](https://github.com/AmrEldib/JsapiTypescriptSamples)|ArcGIS Javascript API Samples written in Typescript|[:arrow_upper_right:](http://amreldib.com/JsapiTypescriptSamples/)|
 |8|[@DylanVann](https://github.com/DylanVann)/[**gatsby-transformer-cloudinary**](https://github.com/DylanVann/gatsby-transformer-cloudinary)|Gatsby transformer for Cloudinary.||
 |8|[@EQuimper](https://github.com/EQuimper)/[**airbnb-meet-hoteltonight-tutorial**](https://github.com/EQuimper/airbnb-meet-hoteltonight-tutorial)|WIP||
@@ -211,14 +217,12 @@
 |8|[@alex-okrushko](https://github.com/alex-okrushko)/[**ngrx-nx-workshop**](https://github.com/alex-okrushko/ngrx-nx-workshop)|||
 |8|[@ammobinDOTca](https://github.com/ammobinDOTca)/[**ammobin-api**](https://github.com/ammobinDOTca/ammobin-api)|api for  https://ammobin.ca|[:arrow_upper_right:](https://ammobin.ca)|
 |8|[@bcgov](https://github.com/bcgov)/[**permitify**](https://github.com/bcgov/permitify)|A demonstration of the verifiable organization network showing a new restaurant gathering the permits necessary to open.||
-|8|[@brianleroux](https://github.com/brianleroux)/[**sam-example-deno**](https://github.com/brianleroux/sam-example-deno)|example sam app using deno||
+|8|[@hadim](https://github.com/hadim)/[**jupyterlab_gist**](https://github.com/hadim/jupyterlab_gist)|A Jupyterlab extension to post notebook to gist.||
 |8|[@infojunkie](https://github.com/infojunkie)/[**quizzical**](https://github.com/infojunkie/quizzical)|A quiz-based learning engine like Duolingo or Quizlet||
 |8|[@leighhalliday](https://github.com/leighhalliday)/[**uses.tools**](https://github.com/leighhalliday/uses.tools)|Next.js with GraphQL server|[:arrow_upper_right:](https://uses.tools)|
-|8|[@mohebifar](https://github.com/mohebifar)/[**react-use-context-selector**](https://github.com/mohebifar/react-use-context-selector)|Context selector hook for React||
 |8|[@skellock](https://github.com/skellock)/[**electron-starter**](https://github.com/skellock/electron-starter)|I like Electron. I like you too. Let's go.|[:arrow_upper_right:](https://skellock.github.io/electron-starter)|
 |8|[@turt2live](https://github.com/turt2live)/[**matrix-trello-bot**](https://github.com/turt2live/matrix-trello-bot)|A bot to interact with Trello on matrix||
 |7|[@Ailrun](https://github.com/Ailrun)/[**tsdux**](https://github.com/Ailrun/tsdux)|Type-safe redux utilities for TypeScript.||
-|7|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**rdx**](https://github.com/CaptainCodeman/rdx)|Like Redux, but smaller||
 |7|[@DylanVann](https://github.com/DylanVann)/[**use-persisted**](https://github.com/DylanVann/use-persisted)|Persisted versions of useState and useReducer.|[:arrow_upper_right:](https://use-persisted.netlify.com/)|
 |7|[@EOS-Nation](https://github.com/EOS-Nation)/[**eos-common**](https://github.com/EOS-Nation/eos-common)|EOS common library used for Typescript|[:arrow_upper_right:](https://npm.runkit.com/eos-common)|
 |7|[@Hermanya](https://github.com/Hermanya)/[**responsive-react-app**](https://github.com/Hermanya/responsive-react-app)|🔛 React component for mobile navigation and desktop layout|[:arrow_upper_right:](https://hermanya.github.io/responsive-react-app/)|
@@ -227,7 +231,6 @@
 |7|[@QTGate](https://github.com/QTGate)/[**iOPN**](https://github.com/QTGate/iOPN)|||
 |7|[@alex-okrushko](https://github.com/alex-okrushko)/[**component-store-demo**](https://github.com/alex-okrushko/component-store-demo)|||
 |7|[@aljazsim](https://github.com/aljazsim)/[**vs-code-typescript-code-explorer**](https://github.com/aljazsim/vs-code-typescript-code-explorer)|VS Code extension for easily navigating TypeScript code||
-|7|[@aneagoie](https://github.com/aneagoie)/[**robofriends-typescript**](https://github.com/aneagoie/robofriends-typescript)|Udemy tutorial - adding TypeScript to a react app||
 |7|[@atrauzzi](https://github.com/atrauzzi)/[**gerty**](https://github.com/atrauzzi/gerty)|The missing Local development HUD.||
 |7|[@backmeupplz](https://github.com/backmeupplz)/[**bezos**](https://github.com/backmeupplz/bezos)|Bot for the "Bezos Giveaway" Telegram group||
 |7|[@dalenguyen](https://github.com/dalenguyen)/[**angular-store-locator**](https://github.com/dalenguyen/angular-store-locator)|This is an Angular 2+ Google Maps store locator project|[:arrow_upper_right:](http://angular-store-locator.surge.sh/)|
@@ -237,6 +240,7 @@
 |7|[@gdnmobilelab](https://github.com/gdnmobilelab)/[**podmod**](https://github.com/gdnmobilelab/podmod)|||
 |7|[@jgoz](https://github.com/jgoz)/[**typescript-loader**](https://github.com/jgoz/typescript-loader)|[DEPRECATED] typescript loader for webpack|[:arrow_upper_right:](https://github.com/andreypopp/typescript-loader)|
 |7|[@skellock](https://github.com/skellock)/[**vscode-just**](https://github.com/skellock/vscode-just)|A Visual Studio Code plugin for working with Just.||
+|7|[@ulaval](https://github.com/ulaval)/[**modul**](https://github.com/ulaval/modul)|Library of VueJS components.||
 |7|[@ulaval](https://github.com/ulaval)/[**modul-website**](https://github.com/ulaval/modul-website)|The official website of Modul|[:arrow_upper_right:](https://ulaval.github.io/)|
 |6|[@Aiden01](https://github.com/Aiden01)/[**toiko**](https://github.com/Aiden01/toiko)|A multi-purpose Discord bot that helps you manage your server 🤖||
 |6|[@BeameryHQ](https://github.com/BeameryHQ)/[**queryCraft**](https://github.com/BeameryHQ/queryCraft)|A Multi-Database JavaScript query builder|[:arrow_upper_right:](https://beameryhq.github.io/QueryCraft/)|
@@ -244,6 +248,7 @@
 |6|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**rdx-example**](https://github.com/CaptainCodeman/rdx-example)|Example of Rdx ("Reduced Redux")||
 |6|[@ChainSafe](https://github.com/ChainSafe)/[**hobbits-ts**](https://github.com/ChainSafe/hobbits-ts)|A TypeScript implementation of the Hobbits Ethereum Wire Protocol||
 |6|[@DylanPiercey](https://github.com/DylanPiercey)/[**mini-url**](https://github.com/DylanPiercey/mini-url)|📖 Lightweight universal url parser.||
+|6|[@EOS-Nation](https://github.com/EOS-Nation)/[**blocktivity-eosio-stats**](https://github.com/EOS-Nation/blocktivity-eosio-stats)|Blocktivity EOSIO Stats|[:arrow_upper_right:](https://bloks.io/account/blocktivity1)|
 |6|[@Ethercast](https://github.com/Ethercast)/[**serverless-blockstream**](https://github.com/Ethercast/serverless-blockstream)|produces a stream of parsed logs and transactions from a Ethereum JSON RPC endpoint||
 |6|[@FrozenPandaz](https://github.com/FrozenPandaz)/[**ng-hydration-renderer**](https://github.com/FrozenPandaz/ng-hydration-renderer)|A renderer which will hydrate an existing render||
 |6|[@MarshallOfSound](https://github.com/MarshallOfSound)/[**galactus**](https://github.com/MarshallOfSound/galactus)|Destroy certain types of modules from your node_modules folder||
@@ -256,6 +261,7 @@
 |6|[@atrauzzi](https://github.com/atrauzzi)/[**legacy-gerty-2**](https://github.com/atrauzzi/legacy-gerty-2)|The missing Local development HUD.||
 |6|[@benbria](https://github.com/benbria)/[**node-servertime**](https://github.com/benbria/node-servertime)|Add server-timing header to your node.js app, with nanosecond precision.||
 |6|[@cinnapple](https://github.com/cinnapple)/[**mini-validator-list**](https://github.com/cinnapple/mini-validator-list)|🚀 A quick overview of XRP Ledger's validating nodes|[:arrow_upper_right:](https://minivalist.cinn.app/)|
+|6|[@dalenguyen](https://github.com/dalenguyen)/[**dalenguyen.github.io**](https://github.com/dalenguyen/dalenguyen.github.io)|Personal website with Github pages and Angular|[:arrow_upper_right:](http://dalenguyen.me)|
 |6|[@eclipsesource](https://github.com/eclipsesource)/[**jsonforms-angular-material-playground**](https://github.com/eclipsesource/jsonforms-angular-material-playground)|Playground for integrating JSONForms with Angular Material||
 |6|[@edwinzhng](https://github.com/edwinzhng)/[**personal-site**](https://github.com/edwinzhng/personal-site)|Source code for personal website||
 |6|[@kkemple](https://github.com/kkemple)/[**pokedex**](https://github.com/kkemple/pokedex)|Deploy a full stack Pokédex app in minutes.||
@@ -265,7 +271,6 @@
 |6|[@pilwon](https://github.com/pilwon)/[**node-megabus**](https://github.com/pilwon/node-megabus)|Megabus Ticket Finder||
 |6|[@sictweb](https://github.com/sictweb)/[**bti425**](https://github.com/sictweb/bti425)|BTI425 - Web Programming for Apps and Services||
 |6|[@thoughtworks](https://github.com/thoughtworks)/[**byor-voting-web-app**](https://github.com/thoughtworks/byor-voting-web-app)|||
-|6|[@ulaval](https://github.com/ulaval)/[**modul**](https://github.com/ulaval/modul)|Library of VueJS components.||
 |6|[@ulaval](https://github.com/ulaval)/[**vuejs-typescript-template**](https://github.com/ulaval/vuejs-typescript-template)|Template to start a new project with Vuejs / Typescript||
 |5|[@Aiden01](https://github.com/Aiden01)/[**Miu**](https://github.com/Aiden01/Miu)|A Discord bot that helps you manage your servers 🤖||
 |5|[@BeameryHQ](https://github.com/BeameryHQ)/[**QueryCraft**](https://github.com/BeameryHQ/QueryCraft)|A Multi-Database JavaScript query builder|[:arrow_upper_right:](https://beameryhq.github.io/QueryCraft/)|
@@ -289,13 +294,15 @@
 |5|[@RobertWHurst](https://github.com/RobertWHurst)/[**Theta**](https://github.com/RobertWHurst/Theta)|ϴ - Realtime API Framework for Node.js||
 |5|[@ShMcK](https://github.com/ShMcK)/[**xstate-react**](https://github.com/ShMcK/xstate-react)|Wrapper for using xState with React||
 |5|[@auchenberg](https://github.com/auchenberg)/[**vscode-browserview**](https://github.com/auchenberg/vscode-browserview)|A real browser view inside VS Code (Powered by Chrome Headless)||
+|5|[@backmeupplz](https://github.com/backmeupplz)/[**borodutch-stats**](https://github.com/backmeupplz/borodutch-stats)|Borodutch stats server||
+|5|[@backmeupplz](https://github.com/backmeupplz)/[**localizer-landing**](https://github.com/backmeupplz/localizer-landing)|Landing for localizer.dev||
 |5|[@backmeupplz](https://github.com/backmeupplz)/[**tlgcoin**](https://github.com/backmeupplz/tlgcoin)|Clicker coin for Telegram||
 |5|[@bcgov](https://github.com/bcgov)/[**moh-common-styles**](https://github.com/bcgov/moh-common-styles)|Common UX components across MOH applications||
 |5|[@brentvatne](https://github.com/brentvatne)/[**typescript-starter**](https://github.com/brentvatne/typescript-starter)|A mostly empty app with TypeScript configured||
 |5|[@castorini](https://github.com/castorini)/[**covid-search**](https://github.com/castorini/covid-search)|Search Engine for the COVID-19 Open Research Dataset|[:arrow_upper_right:](https://covidsearch.ai)|
 |5|[@coveo](https://github.com/coveo)/[**coveo.analytics.js**](https://github.com/coveo/coveo.analytics.js)|coveo.analytics.js||
-|5|[@dalenguyen](https://github.com/dalenguyen)/[**dalenguyen.github.io**](https://github.com/dalenguyen/dalenguyen.github.io)|Personal website with Github pages and Angular|[:arrow_upper_right:](http://dalenguyen.me)|
 |5|[@dandua98](https://github.com/dandua98)/[**PendingPR**](https://github.com/dandua98/PendingPR)|A GitHub app to help you manage issues in pull requests better|[:arrow_upper_right:](https://github.com/marketplace/pendingpr)|
+|5|[@danielstern](https://github.com/danielstern)/[**compiling-typescript**](https://github.com/danielstern/compiling-typescript)|A Simple, Extensible TypeScript Application||
 |5|[@eclipsesource](https://github.com/eclipsesource)/[**JsonFormsEditor**](https://github.com/eclipsesource/JsonFormsEditor)|||
 |5|[@eclipsesource](https://github.com/eclipsesource)/[**jsonforms-ui-schema-editor**](https://github.com/eclipsesource/jsonforms-ui-schema-editor)|JSON Forms based UI schema editor for JSON Forms||
 |5|[@gorkem](https://github.com/gorkem)/[**penfold**](https://github.com/gorkem/penfold)|||
@@ -320,7 +327,6 @@
 |4|[@ShMcK](https://github.com/ShMcK)/[**redux-tictactoe**](https://github.com/ShMcK/redux-tictactoe)|Redux TicTacToe||
 |4|[@aleccool213](https://github.com/aleccool213)/[**kafka-gen**](https://github.com/aleccool213/kafka-gen)|An experiment which allows you to send kafka messages to a topic through a GraphQL API||
 |4|[@atrauzzi](https://github.com/atrauzzi)/[**gatsby-plugin-protoculture**](https://github.com/atrauzzi/gatsby-plugin-protoculture)|||
-|4|[@backmeupplz](https://github.com/backmeupplz)/[**borodutch-stats**](https://github.com/backmeupplz/borodutch-stats)|Borodutch stats server||
 |4|[@backmeupplz](https://github.com/backmeupplz)/[**sendcrypto**](https://github.com/backmeupplz/sendcrypto)|||
 |4|[@backmeupplz](https://github.com/backmeupplz)/[**watchy**](https://github.com/backmeupplz/watchy)|Telegram bot that removes all messages but YouTube links||
 |4|[@bbc](https://github.com/bbc)/[**typescript-docs-verifier**](https://github.com/bbc/typescript-docs-verifier)|Verifies that MarkDown TypeScript documentation snippets compile||
@@ -334,7 +340,6 @@
 |4|[@corbanbrook](https://github.com/corbanbrook)/[**datapack**](https://github.com/corbanbrook/datapack)|Efficient packing of binary data||
 |4|[@dalenguyen](https://github.com/dalenguyen)/[**typescript-package-starter**](https://github.com/dalenguyen/typescript-package-starter)|TypeScript boilerplate for NPM or Github Packages||
 |4|[@dance2die](https://github.com/dance2die)/[**cra-template-tailwindcss-typescript**](https://github.com/dance2die/cra-template-tailwindcss-typescript)|A streamlined Tailwind CSS template for Create React App in TypeScript|[:arrow_upper_right:](https://www.npmjs.com/package/cra-template-tailwindcss-typescript)|
-|4|[@danielstern](https://github.com/danielstern)/[**compiling-typescript**](https://github.com/danielstern/compiling-typescript)|A Simple, Extensible TypeScript Application||
 |4|[@davo](https://github.com/davo)/[**ColorTools-FramerX**](https://github.com/davo/ColorTools-FramerX)|||
 |4|[@dolanmiu](https://github.com/dolanmiu)/[**Git-Proton**](https://github.com/dolanmiu/Git-Proton)|An fast, open Git GUI Tool focused on aesthetics and usability||
 |4|[@eclipsesource](https://github.com/eclipsesource)/[**angular-tutorial**](https://github.com/eclipsesource/angular-tutorial)|Angular Tutorial for EclipseCon Europe 2017||
@@ -342,9 +347,11 @@
 |4|[@ginpei](https://github.com/ginpei)/[**exif-orientation**](https://github.com/ginpei/exif-orientation)|Get orientation (rotation and flipping) info from Exif-ed JPEG|[:arrow_upper_right:](https://github.com/ginpei/exif-orientation-example)|
 |4|[@iobond](https://github.com/iobond)/[**emupay**](https://github.com/iobond/emupay)|A secure AIB and Tokens' wallet|[:arrow_upper_right:](https://aib.cash)|
 |4|[@leighhalliday](https://github.com/leighhalliday)/[**gqless-demo**](https://github.com/leighhalliday/gqless-demo)|gqless - GraphQL Without GQL||
+|4|[@nfriend](https://github.com/nfriend)/[**tree-online**](https://github.com/nfriend/tree-online)|An online tree-like utility for generating ASCII folder structure diagrams. Written in TypeScript and React.|[:arrow_upper_right:](https://tree.nathanfriend.io)|
 |4|[@onaio](https://github.com/onaio)/[**reveal-frontend**](https://github.com/onaio/reveal-frontend)|WebUI for the Reveal epidemiological surveillance platform||
 |4|[@robertsimoes](https://github.com/robertsimoes)/[**arbitrage-ts-bot**](https://github.com/robertsimoes/arbitrage-ts-bot)|💶 Crypto trader based on cbptt.||
 |4|[@robertsimoes](https://github.com/robertsimoes)/[**tradebay-bot**](https://github.com/robertsimoes/tradebay-bot)|💶 Crypto trader based on cbptt. Mostrarmi il denaro!||
+|4|[@sdoxsee](https://github.com/sdoxsee)/[**cats-nest**](https://github.com/sdoxsee/cats-nest)|OpenID Connect Authentication with NestJS, React and MongoDB||
 |4|[@thoughtworks](https://github.com/thoughtworks)/[**byor-voting-server**](https://github.com/thoughtworks/byor-voting-server)|||
 |4|[@turt2live](https://github.com/turt2live)/[**matrix-haiku-bot**](https://github.com/turt2live/matrix-haiku-bot)|Makes your messages a haiku, albeit badly.||
 |4|[@whymarrh](https://github.com/whymarrh)/[**hypercycle**](https://github.com/whymarrh/hypercycle)|A Cycle.js shim for hyperx||
@@ -374,6 +381,7 @@
 |3|[@ShMcK](https://github.com/ShMcK)/[**NG2-Socially**](https://github.com/ShMcK/NG2-Socially)|Angular2 + Meteor Demo: step by step tutorial found at Angular-Meteor.com||
 |3|[@ShMcK](https://github.com/ShMcK)/[**fakebook-tutorial**](https://github.com/ShMcK/fakebook-tutorial)|A social network built with Apollo & GraphQL||
 |3|[@agilebits](https://github.com/agilebits)/[**t-i18n**](https://github.com/agilebits/t-i18n)|Simple, straightforward localization. To a "T".||
+|3|[@allenhwkim](https://github.com/allenhwkim)/[**mock-responses**](https://github.com/allenhwkim/mock-responses)|NodeJS http request middleware with admin interface||
 |3|[@andnp](https://github.com/andnp)/[**mlts**](https://github.com/andnp/mlts)|Set of machine learning research utilities in typescript.||
 |3|[@arkon](https://github.com/arkon)/[**ts-guard-decorator**](https://github.com/arkon/ts-guard-decorator)|TypeScript decorator for running a check before running a method.||
 |3|[@atrauzzi](https://github.com/atrauzzi)/[**azure-bootcamp-2017**](https://github.com/atrauzzi/azure-bootcamp-2017)|A sample project for Azure Global Bootcamp 2017 in Winnipeg, Manitoba, Canada||
@@ -381,7 +389,6 @@
 |3|[@backmeupplz](https://github.com/backmeupplz)/[**controlio-web**](https://github.com/backmeupplz/controlio-web)|Controlio frontend|[:arrow_upper_right:](https://controlio.co)|
 |3|[@backmeupplz](https://github.com/backmeupplz)/[**coolnetbot**](https://github.com/backmeupplz/coolnetbot)|Telegram community network bot that enables users to drink coffee/tea/water with random community members|[:arrow_upper_right:](https://t.me/coolnetbot)|
 |3|[@backmeupplz](https://github.com/backmeupplz)/[**delete**](https://github.com/backmeupplz/delete)|Webpages that deletes your social networks content||
-|3|[@backmeupplz](https://github.com/backmeupplz)/[**localizer-backend**](https://github.com/backmeupplz/localizer-backend)|Backend part of Localizer||
 |3|[@backmeupplz](https://github.com/backmeupplz)/[**slack-memory**](https://github.com/backmeupplz/slack-memory)|Official code repository for the Slack Memory bot||
 |3|[@backmeupplz](https://github.com/backmeupplz)/[**telegram-sticker-starter**](https://github.com/backmeupplz/telegram-sticker-starter)|Starter for the Telegram sticker bot||
 |3|[@backmeupplz](https://github.com/backmeupplz)/[**voicy-recognition**](https://github.com/backmeupplz/voicy-recognition)|Voicy recognition backend code||
@@ -391,6 +398,8 @@
 |3|[@bcgov](https://github.com/bcgov)/[**bcrs-business-create-ui**](https://github.com/bcgov/bcrs-business-create-ui)|BC Registry Services - Legal Entities - Create, public user interface||
 |3|[@bcgov](https://github.com/bcgov)/[**digital_marketplace**](https://github.com/bcgov/digital_marketplace)|The intent of this development is to build a product that will support digital procurement needs for the BC Government including services such as, but not limited to, Sprint With Us, Code With Us, The Procurement Concierge.||
 |3|[@bcgov](https://github.com/bcgov)/[**gcpe-news-dashboard**](https://github.com/bcgov/gcpe-news-dashboard)|BC Gov News Dashboard application for keeping Ministry Offices and stakeholders informed. ||
+|3|[@bcgov](https://github.com/bcgov)/[**landuseplanning-admin**](https://github.com/bcgov/landuseplanning-admin)|Land Use Planning Engagement Platform - Admin view||
+|3|[@bcgov](https://github.com/bcgov)/[**landuseplanning-public**](https://github.com/bcgov/landuseplanning-public)|Land Use Planning Engagement Platform - Public view||
 |3|[@bcgov](https://github.com/bcgov)/[**moh-sitereg**](https://github.com/bcgov/moh-sitereg)|Managing MSP Direct and Compap Registrations for BC's Ministry of Health||
 |3|[@brianleroux](https://github.com/brianleroux)/[**arc-example-typescript**](https://github.com/brianleroux/arc-example-typescript)|||
 |3|[@cinnapple](https://github.com/cinnapple)/[**unl-builder**](https://github.com/cinnapple/unl-builder)|Create a Unique Node List (UNL) for XRP Ledger validating nodes|[:arrow_upper_right:](https://unl-builder.cinn.app)|
@@ -417,13 +426,14 @@
 |3|[@paquette](https://github.com/paquette)/[**ui**](https://github.com/paquette/ui)|design language and component library that powers Paquette - built for React 16+ and Vue 2+||
 |3|[@robertpenner](https://github.com/robertpenner)/[**nanosignal.js**](https://github.com/robertpenner/nanosignal.js)|||
 |3|[@robertsimoes](https://github.com/robertsimoes)/[**Medici**](https://github.com/robertsimoes/Medici)|💶 Crypto trader based on cbptt. Mostrarmi il denaro!||
-|3|[@sdoxsee](https://github.com/sdoxsee)/[**cats-nest**](https://github.com/sdoxsee/cats-nest)|OpenID Connect Authentication with NestJS, React and MongoDB||
 |3|[@sentenza](https://github.com/sentenza)/[**double-cube-fe**](https://github.com/sentenza/double-cube-fe)|The front end of the "Double Cube" 3D model viewer (Angular 4 and WebGL)|[:arrow_upper_right:](https://sentenza.github.io/double-cube-fe/)|
 |3|[@sentenza](https://github.com/sentenza)/[**ng-solid-material**](https://github.com/sentenza/ng-solid-material)|A Solid ("SOcial LInked Data")  application written using Angular 7 and styled with the Material design|[:arrow_upper_right:](http://torre.me.uk/ng-solid-material/)|
 |3|[@thoughtworks](https://github.com/thoughtworks)/[**byor-voting-infrastructure**](https://github.com/thoughtworks/byor-voting-infrastructure)|||
+|3|[@turt2live](https://github.com/turt2live)/[**matrix-bot-sdk-bot-template**](https://github.com/turt2live/matrix-bot-sdk-bot-template)|A template for creating bots with matrix-bot-sdk||
 |3|[@turt2live](https://github.com/turt2live)/[**matrix-sticker-bot**](https://github.com/turt2live/matrix-sticker-bot)|A bot to help people create their own sticker packs||
 |3|[@turt2live](https://github.com/turt2live)/[**matrix-welcome-back-bot**](https://github.com/turt2live/matrix-welcome-back-bot)|A silly bot that welcomes users back after they've been inactive for a little while||
 |3|[@ulaval](https://github.com/ulaval)/[**modul-shell**](https://github.com/ulaval/modul-shell)|Javascript lib to help bootstrap a modular application.||
 |3|[@whymarrh](https://github.com/whymarrh)/[**ts-match**](https://github.com/whymarrh/ts-match)|A small matching library for TypeScript||
+|3|[@zenflow](https://github.com/zenflow)/[**next-with-gqless-example**](https://github.com/zenflow/next-with-gqless-example)|Example project with Next.js & gqless (graphql client)|[:arrow_upper_right:](https://next-with-gqless-example.now.sh/)|
 |3|[@zhu1230](https://github.com/zhu1230)/[**docker-secrets-nodejs**](https://github.com/zhu1230/docker-secrets-nodejs)|A utility module to get secrets in docker or default to ENV variables in NodeJS ||
 

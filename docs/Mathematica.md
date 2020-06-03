@@ -9,5 +9,6 @@
 |4|[@AndrewHazelden](https://github.com/AndrewHazelden)/[**CameraSnap_Tools**](https://github.com/AndrewHazelden/CameraSnap_Tools)|CameraSnap.mel takes a list of selected cameras in your scene as an input and creates a new camera with an animation path that moves through the position of each of the original input cameras.||
 |4|[@GabLeRoux](https://github.com/GabLeRoux)/[**unity3d-encrypted-appveyor-poc**](https://github.com/GabLeRoux/unity3d-encrypted-appveyor-poc)|||
 |4|[@UofSSpaceTeam](https://github.com/UofSSpaceTeam)/[**rover-hardware**](https://github.com/UofSSpaceTeam/rover-hardware)|Hardware design files for the Rover project.||
+|3|[@alexismorin](https://github.com/alexismorin)/[**Find-Me**](https://github.com/alexismorin/Find-Me)|A Procedural Where's Wally||
 |3|[@peeterjoot](https://github.com/peeterjoot)/[**gapauli**](https://github.com/peeterjoot/gapauli)|A geometric algebra for Euclidean 3D space using the Pauli basis representation as a backend.||
 
