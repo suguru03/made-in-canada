@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|855|[@fosskers](https://github.com/fosskers)/[**aura**](https://github.com/fosskers/aura)|A secure, multilingual package manager for Arch Linux and the AUR.|[:arrow_upper_right:](https://gitter.im/aurapm/aura)|
-|218|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
+|857|[@fosskers](https://github.com/fosskers)/[**aura**](https://github.com/fosskers/aura)|A secure, multilingual package manager for Arch Linux and the AUR.|[:arrow_upper_right:](https://gitter.im/aurapm/aura)|
+|220|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
 |155|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
 |131|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |130|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
@@ -104,6 +104,7 @@
 |3|[@edmundnoble](https://github.com/edmundnoble)/[**jeb**](https://github.com/edmundnoble/jeb)|a journal app||
 |3|[@fosskers](https://github.com/fosskers)/[**draenor**](https://github.com/fosskers/draenor)|Convert OSM PBF files into ORC, and upload them to S3.||
 |3|[@fosskers](https://github.com/fosskers)/[**enigma**](https://github.com/fosskers/enigma)|An encryption algorithm inspired by the Enigma Machine.||
+|3|[@fosskers](https://github.com/fosskers)/[**org-mode**](https://github.com/fosskers/org-mode)|Parser for Emacs org-mode files||
 |3|[@inaimathi](https://github.com/inaimathi)/[**goget**](https://github.com/inaimathi/goget)|Basic haskell shopping list web-app for learning purposes||
 |3|[@larrytheliquid](https://github.com/larrytheliquid)/[**agda-rb**](https://github.com/larrytheliquid/agda-rb)|||
 |3|[@mabgnu](https://github.com/mabgnu)/[**blog-old**](https://github.com/mabgnu/blog-old)|Source code of a previous version of aminb.org||

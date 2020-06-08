@@ -1,26 +1,26 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |2170|[@Caiyeon](https://github.com/Caiyeon)/[**goldfish**](https://github.com/Caiyeon/goldfish)|A HashiCorp Vault UI written with VueJS and Vault native Go API|[:arrow_upper_right:](https://vault-ui.io)|
-|392|[@adamwathan](https://github.com/adamwathan)/[**workcation**](https://github.com/adamwathan/workcation)|||
+|394|[@adamwathan](https://github.com/adamwathan)/[**workcation**](https://github.com/adamwathan/workcation)|||
 |360|[@adamwathan](https://github.com/adamwathan)/[**vue-tailwind-examples**](https://github.com/adamwathan/vue-tailwind-examples)|||
-|245|[@drehimself](https://github.com/drehimself)/[**gridsome-portfolio-starter**](https://github.com/drehimself/gridsome-portfolio-starter)|A simple portfolio theme for Gridsome powered by Tailwind CSS v1|[:arrow_upper_right:](https://gridsome-portfolio-starter.netlify.com)|
+|246|[@drehimself](https://github.com/drehimself)/[**gridsome-portfolio-starter**](https://github.com/drehimself/gridsome-portfolio-starter)|A simple portfolio theme for Gridsome powered by Tailwind CSS v1|[:arrow_upper_right:](https://gridsome-portfolio-starter.netlify.com)|
 |132|[@Braunson](https://github.com/Braunson)/[**laravel-coreui-vue**](https://github.com/Braunson/laravel-coreui-vue)|Laravel 5.6 with CoreUI (VueJS Full Starter Template) >>> Deprecated, please go to https://coreui.io/laravel/||
 |126|[@alicin](https://github.com/alicin)/[**flamme**](https://github.com/alicin/flamme)|An open source tinder desktop client built with electron and Vue.js for educational purposes||
-|109|[@james2doyle](https://github.com/james2doyle)/[**nuxt-firebase-auth**](https://github.com/james2doyle/nuxt-firebase-auth)|An example of using Nuxt with Firebase to auth users without a server||
-|83|[@remixz](https://github.com/remixz)/[**umi**](https://github.com/remixz/umi)|📺 Watch Crunchyroll together, and more|[:arrow_upper_right:](https://umi.party)|
-|80|[@hawkeye64](https://github.com/hawkeye64)/[**electron-quasar-file-explorer**](https://github.com/hawkeye64/electron-quasar-file-explorer)|A Simple File Explorer using Vue/Quasar/Electron||
-|46|[@drehimself](https://github.com/drehimself)/[**vue-components-example**](https://github.com/drehimself/vue-components-example)|||
-|45|[@drehimself](https://github.com/drehimself)/[**tailwind-v1-examples**](https://github.com/drehimself/tailwind-v1-examples)|A collection of web pages built in Tailwind CSS v1.x|[:arrow_upper_right:](https://tailwind-v1-examples.netlify.com)|
+|110|[@james2doyle](https://github.com/james2doyle)/[**nuxt-firebase-auth**](https://github.com/james2doyle/nuxt-firebase-auth)|An example of using Nuxt with Firebase to auth users without a server||
+|84|[@remixz](https://github.com/remixz)/[**umi**](https://github.com/remixz/umi)|📺 Watch Crunchyroll together, and more|[:arrow_upper_right:](https://umi.party)|
+|79|[@hawkeye64](https://github.com/hawkeye64)/[**electron-quasar-file-explorer**](https://github.com/hawkeye64/electron-quasar-file-explorer)|A Simple File Explorer using Vue/Quasar/Electron||
+|47|[@drehimself](https://github.com/drehimself)/[**tailwind-v1-examples**](https://github.com/drehimself/tailwind-v1-examples)|A collection of web pages built in Tailwind CSS v1.x|[:arrow_upper_right:](https://tailwind-v1-examples.netlify.com)|
+|47|[@drehimself](https://github.com/drehimself)/[**vue-components-example**](https://github.com/drehimself/vue-components-example)|||
 |39|[@adamwathan](https://github.com/adamwathan)/[**vueconfto-demo**](https://github.com/adamwathan/vueconfto-demo)|||
 |28|[@yanick](https://github.com/yanick)/[**vue-svg-pan-zoom**](https://github.com/yanick/vue-svg-pan-zoom)|Vue component using SvgPanZoom|[:arrow_upper_right:](https://www.npmjs.com/package/vue-svg-pan-zoom)|
 |26|[@adamwathan](https://github.com/adamwathan)/[**laracon-madrid**](https://github.com/adamwathan/laracon-madrid)|The source code for my "Advanced Vue Component Design" at Laracon EU Madrid.||
 |26|[@davestewart](https://github.com/davestewart)/[**got-paper**](https://github.com/davestewart/got-paper)|The official "got paper?" app – a Vue / Nuxt PWA, optimised for mobile, running in 12 languages|[:arrow_upper_right:](https://got-paper.com)|
 |21|[@backmeupplz](https://github.com/backmeupplz)/[**frontend-starter**](https://github.com/backmeupplz/frontend-starter)|Frontend starter template||
-|17|[@adamwathan](https://github.com/adamwathan)/[**tailwind-docs-vuepress**](https://github.com/adamwathan/tailwind-docs-vuepress)|||
-|17|[@drehimself](https://github.com/drehimself)/[**bootstrap-vue-example**](https://github.com/drehimself/bootstrap-vue-example)|||
+|18|[@adamwathan](https://github.com/adamwathan)/[**tailwind-docs-vuepress**](https://github.com/adamwathan/tailwind-docs-vuepress)|||
+|16|[@drehimself](https://github.com/drehimself)/[**bootstrap-vue-example**](https://github.com/drehimself/bootstrap-vue-example)|||
+|16|[@drehimself](https://github.com/drehimself)/[**disneyplus-clone**](https://github.com/drehimself/disneyplus-clone)|||
 |16|[@drehimself](https://github.com/drehimself)/[**nativescript-vue-example**](https://github.com/drehimself/nativescript-vue-example)|||
 |15|[@ammobinDOTca](https://github.com/ammobinDOTca)/[**ammobin-client**](https://github.com/ammobinDOTca/ammobin-client)|client for https://ammobin.ca|[:arrow_upper_right:](https://ammobin.ca)|
-|15|[@drehimself](https://github.com/drehimself)/[**disneyplus-clone**](https://github.com/drehimself/disneyplus-clone)|||
 |14|[@drehimself](https://github.com/drehimself)/[**ionic-vue-example**](https://github.com/drehimself/ionic-vue-example)|||
 |14|[@ginpei](https://github.com/ginpei)/[**giclock**](https://github.com/ginpei/giclock)|An analog and digital clock with "pomodoro" timer.|[:arrow_upper_right:](https://clock.ginpei.info/)|
 |13|[@bcgov](https://github.com/bcgov)/[**queue-management**](https://github.com/bcgov/queue-management)|For use in Service BC service centers for customer flow management and analytics.||
@@ -36,13 +36,13 @@
 |10|[@UPchieve](https://github.com/UPchieve)/[**web**](https://github.com/UPchieve/web)|Online real-time tutoring platform|[:arrow_upper_right:](https://app.upchieve.org)|
 |10|[@gbmhunter](https://github.com/gbmhunter)/[**NinjaCalc**](https://github.com/gbmhunter/NinjaCalc)|An embedded engineering calculator toolbox for doing calculations in a breeze.|[:arrow_upper_right:](http://gbmhunter.github.io/NinjaCalc/)|
 |9|[@adamwathan](https://github.com/adamwathan)/[**nuxt-nested-layouts**](https://github.com/adamwathan/nuxt-nested-layouts)|||
+|9|[@drehimself](https://github.com/drehimself)/[**vuenative-example**](https://github.com/drehimself/vuenative-example)|||
 |9|[@stormwarning](https://github.com/stormwarning)/[**gibsonipsum**](https://github.com/stormwarning/gibsonipsum)|💬 A cyberpunk placeholder text generator.|[:arrow_upper_right:](https://gibsonipsum.now.sh/)|
 |8|[@adamwathan](https://github.com/adamwathan)/[**nuxt-tailwind-custom-forms**](https://github.com/adamwathan/nuxt-tailwind-custom-forms)|||
+|8|[@backmeupplz](https://github.com/backmeupplz)/[**localizer-frontend**](https://github.com/backmeupplz/localizer-frontend)|Frontend part of Localizer||
 |8|[@drehimself](https://github.com/drehimself)/[**element-vue-example**](https://github.com/drehimself/element-vue-example)|||
-|8|[@drehimself](https://github.com/drehimself)/[**vuenative-example**](https://github.com/drehimself/vuenative-example)|||
 |8|[@eddyerburgh](https://github.com/eddyerburgh)/[**vue-test-loader-example**](https://github.com/eddyerburgh/vue-test-loader-example)|An example project using vue-test-loader to extract tests||
 |8|[@ginpei](https://github.com/ginpei)/[**understanding-transform-matrix**](https://github.com/ginpei/understanding-transform-matrix)||[:arrow_upper_right:](https://understanding-transform-matrix.ginpei.info/)|
-|7|[@backmeupplz](https://github.com/backmeupplz)/[**localizer-frontend**](https://github.com/backmeupplz/localizer-frontend)|Frontend part of Localizer||
 |7|[@kumailn](https://github.com/kumailn)/[**comical**](https://github.com/kumailn/comical)|🗯️Illustrate stories in real time using nothing but your voice! Top 3 overall at Hack Harvard 2018|[:arrow_upper_right:](https://devpost.com/software/comical)|
 |7|[@ryanramage](https://github.com/ryanramage)/[**vue-joi**](https://github.com/ryanramage/vue-joi)|create forms with joi||
 |7|[@stormwarning](https://github.com/stormwarning)/[**polychroma**](https://github.com/stormwarning/polychroma)|🌈 Generate better CSS gradients using alternative colour spaces & Bezier interpolation.|[:arrow_upper_right:](https://polychroma.now.sh/)|

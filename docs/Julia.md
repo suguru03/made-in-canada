@@ -11,12 +11,12 @@
 |12|[@eschnett](https://github.com/eschnett)/[**FunHPC.jl**](https://github.com/eschnett/FunHPC.jl)|Functional High-Performance Computing in Julia||
 |11|[@eschnett](https://github.com/eschnett)/[**ASDF.jl**](https://github.com/eschnett/ASDF.jl)|A Julia implementation of the Advanced Scientific Data Format (ASDF)||
 |11|[@samuelcolvin](https://github.com/samuelcolvin)/[**JellyFish.jl**](https://github.com/samuelcolvin/JellyFish.jl)|approximate and phonetic matching of strings||
+|8|[@eschnett](https://github.com/eschnett)/[**Contracts.jl**](https://github.com/eschnett/Contracts.jl)|||
+|8|[@eschnett](https://github.com/eschnett)/[**RayTraceGR.jl**](https://github.com/eschnett/RayTraceGR.jl)|A ray-tracer for curved spacetimes||
 |8|[@eschnett](https://github.com/eschnett)/[**ValueSymbols.jl**](https://github.com/eschnett/ValueSymbols.jl)|Provide a pointerfree wrapper for Julia Symbols||
 |8|[@jiahao](https://github.com/jiahao)/[**SpecialMatrices.jl**](https://github.com/jiahao/SpecialMatrices.jl)|Julia package for working with special matrix types.||
 |8|[@kieranrcampbell](https://github.com/kieranrcampbell)/[**gpseudotime**](https://github.com/kieranrcampbell/gpseudotime)|Bayesian Gaussian Process Latent Variable Models for pseudotime inference in single-cell RNA-seq data||
 |7|[@christopher-dG](https://github.com/christopher-dG)/[**SimpleMock.jl**](https://github.com/christopher-dG/SimpleMock.jl)|A basic mocking module|[:arrow_upper_right:](https://docs.cdg.dev/SimpleMock.jl)|
-|7|[@eschnett](https://github.com/eschnett)/[**Contracts.jl**](https://github.com/eschnett/Contracts.jl)|||
-|7|[@eschnett](https://github.com/eschnett)/[**RayTraceGR.jl**](https://github.com/eschnett/RayTraceGR.jl)|A ray-tracer for curved spacetimes||
 |6|[@eschnett](https://github.com/eschnett)/[**FastArrays.jl**](https://github.com/eschnett/FastArrays.jl)|Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed at compile time.|[:arrow_upper_right:](http://eschnett.github.io/FastArrays.jl/)|
 |6|[@jiahao](https://github.com/jiahao)/[**SecureComputation.jl**](https://github.com/jiahao/SecureComputation.jl)|Secure multiparty computation in Julia||
 |6|[@jiahao](https://github.com/jiahao)/[**Slackbot.jl**](https://github.com/jiahao/Slackbot.jl)|A Julia REPL that interacts with Slack.com's webhook integration||

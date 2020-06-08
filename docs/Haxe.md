@@ -4,7 +4,7 @@
 |46|[@Ohmnivore](https://github.com/Ohmnivore)/[**SkullRush**](https://github.com/Ohmnivore/SkullRush)|:skull: A 2D online multiplayer shooter written in Haxe|[:arrow_upper_right:](http://ohmnivore.github.io)|
 |41|[@hamaluik](https://github.com/hamaluik)/[**haxe-glm**](https://github.com/hamaluik/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |37|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
-|34|[@hamaluik](https://github.com/hamaluik)/[**headbutt**](https://github.com/hamaluik/headbutt)|A GJK and EPA collision engine made with pure Haxe.||
+|36|[@hamaluik](https://github.com/hamaluik)/[**headbutt**](https://github.com/hamaluik/headbutt)|A GJK and EPA collision engine made with pure Haxe.||
 |30|[@ashes999](https://github.com/ashes999)/[**butterfly**](https://github.com/ashes999/butterfly)|Haxe generator for simple, static blogs.||
 |20|[@fserb](https://github.com/fserb)/[**sketch**](https://github.com/fserb/sketch)|game sketches|[:arrow_upper_right:](http://fserb.com/vault)|
 |19|[@underscorediscovery](https://github.com/underscorediscovery)/[**structural**](https://github.com/underscorediscovery/structural)|An unencumbered haxe data structures library||
@@ -48,6 +48,7 @@
 |6|[@adireddy](https://github.com/adireddy)/[**perf**](https://github.com/adireddy/perf)|Simple JavaScript Performance Monitor||
 |6|[@chfoo](https://github.com/chfoo)/[**tppinputassist**](https://github.com/chfoo/tppinputassist)|Touchscreen coordinate tap overlay for inputting into Twitch chat||
 |6|[@hamaluik](https://github.com/hamaluik)/[**haxe-pako**](https://github.com/hamaluik/haxe-pako)|Haxe externs for the https://github.com/nodeca/pako library.||
+|6|[@hamaluik](https://github.com/hamaluik)/[**haxe-partials**](https://github.com/hamaluik/haxe-partials)|A simple macro library for writing classes as partials (splitting a single class into multiple source files).||
 |6|[@starburst997](https://github.com/starburst997)/[**SWFTY**](https://github.com/starburst997/SWFTY)|Convert a SWF to an Atlas Spritesheet Tilemap Bitmap Font single zipped file||
 |6|[@underscorediscovery](https://github.com/underscorediscovery)/[**hxpromise**](https://github.com/underscorediscovery/hxpromise)|hxpromise||
 |6|[@underscorediscovery](https://github.com/underscorediscovery)/[**snowfall**](https://github.com/underscorediscovery/snowfall)|A simple script to install and update luxe + snow more conveniently ||
@@ -55,7 +56,8 @@
 |5|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**baldrick**](https://github.com/FuzzyWuzzie/baldrick)|Entity-component-system (ECS) framework, based heavily on edge||
 |5|[@Ohmnivore](https://github.com/Ohmnivore)/[**FireCHIP-8**](https://github.com/Ohmnivore/FireCHIP-8)|:tv: Cross-platform CHIP-8 emulator||
 |5|[@hamaluik](https://github.com/hamaluik)/[**FeatherRock**](https://github.com/hamaluik/FeatherRock)|My LD32 entry!||
-|5|[@hamaluik](https://github.com/hamaluik)/[**haxe-partials**](https://github.com/hamaluik/haxe-partials)|A simple macro library for writing classes as partials (splitting a single class into multiple source files).||
+|5|[@hamaluik](https://github.com/hamaluik)/[**hx-blender-api**](https://github.com/hamaluik/hx-blender-api)|Haxe externs for the Blender API||
+|5|[@hamaluik](https://github.com/hamaluik)/[**xkcdgamejam**](https://github.com/hamaluik/xkcdgamejam)|https://itch.io/jam/xkcdgamejam||
 |5|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe-gifcapture**](https://github.com/underscorediscovery/luxe-gifcapture)|A luxe wrapper over the gifcapture library to simplify capturing realtime gifs from in game||
 |4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxePong**](https://github.com/FuzzyWuzzie/LuxePong)|A single game of pong, written using Luxe as a learning excercise||
 |4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**RegisAgro**](https://github.com/FuzzyWuzzie/RegisAgro)|A Luxe implementation of hnefatafl||
@@ -63,8 +65,7 @@
 |4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-partials**](https://github.com/FuzzyWuzzie/haxe-partials)|A simple macro library for writing classes as partials (splitting a single class into multiple source files).||
 |4|[@hamaluik](https://github.com/hamaluik)/[**LuxePong**](https://github.com/hamaluik/LuxePong)|A single game of pong, written using Luxe as a learning excercise||
 |4|[@hamaluik](https://github.com/hamaluik)/[**RegisAgro**](https://github.com/hamaluik/RegisAgro)|A Luxe implementation of hnefatafl||
-|4|[@hamaluik](https://github.com/hamaluik)/[**hx-blender-api**](https://github.com/hamaluik/hx-blender-api)|Haxe externs for the Blender API||
-|4|[@hamaluik](https://github.com/hamaluik)/[**xkcdgamejam**](https://github.com/hamaluik/xkcdgamejam)|https://itch.io/jam/xkcdgamejam||
+|4|[@hamaluik](https://github.com/hamaluik)/[**haxe_load_dll**](https://github.com/hamaluik/haxe_load_dll)|Sample showing creating a dynamic library (with Rust) and loading and using it in Haxe (for the CPP target).||
 |4|[@starburst997](https://github.com/starburst997)/[**haxe-trace-timer**](https://github.com/starburst997/haxe-trace-timer)|Inject timer information in trace statement||
 |3|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Luxe3D**](https://github.com/FuzzyWuzzie/Luxe3D)|Experiments in 3D in Luxe||
 |3|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**hx-blender-api**](https://github.com/FuzzyWuzzie/hx-blender-api)|Haxe externs for the Blender API||
@@ -72,7 +73,8 @@
 |3|[@chfoo](https://github.com/chfoo)/[**llama**](https://github.com/chfoo/llama)|MessagePack encoder/decoder library for Haxe||
 |3|[@chfoo](https://github.com/chfoo)/[**trandom**](https://github.com/chfoo/trandom)|Cross-platform Haxe library for accessing cryptographic secure numbers ||
 |3|[@hamaluik](https://github.com/hamaluik)/[**Luxe3D**](https://github.com/hamaluik/Luxe3D)|Experiments in 3D in Luxe||
-|3|[@hamaluik](https://github.com/hamaluik)/[**haxe_load_dll**](https://github.com/hamaluik/haxe_load_dll)|Sample showing creating a dynamic library (with Rust) and loading and using it in Haxe (for the CPP target).||
+|3|[@hamaluik](https://github.com/hamaluik)/[**haxe-toml**](https://github.com/hamaluik/haxe-toml)|A TOML parser for Haxe||
+|3|[@hamaluik](https://github.com/hamaluik)/[**vellum**](https://github.com/hamaluik/vellum)|A small terminal emulation package; based on and inspired by munificent/malison|[:arrow_upper_right:](http://FuzzyWuzzie.github.io/vellum/)|
 |3|[@underscorediscovery](https://github.com/underscorediscovery)/[**nme-TexturePackerJSON**](https://github.com/underscorediscovery/nme-TexturePackerJSON)|An implementation of a haxelib/spritesheet Loader for TexturePacker||
 |3|[@underscorediscovery](https://github.com/underscorediscovery)/[**snowhxt**](https://github.com/underscorediscovery/snowhxt)|A convenience for using hxtelemetry with flow/snow based apps quickly||
 

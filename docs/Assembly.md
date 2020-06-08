@@ -1,14 +1,14 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1695|[@ReturnInfinity](https://github.com/ReturnInfinity)/[**BareMetal-OS-legacy**](https://github.com/ReturnInfinity/BareMetal-OS-legacy)|BareMetal is a 64-bit OS for x86-64 based computers. The OS is written entirely in Assembly while applications can be written in Assembly, C/C++, and Rust.||
+|1693|[@ReturnInfinity](https://github.com/ReturnInfinity)/[**BareMetal-OS-legacy**](https://github.com/ReturnInfinity/BareMetal-OS-legacy)|BareMetal is a 64-bit OS for x86-64 based computers. The OS is written entirely in Assembly while applications can be written in Assembly, C/C++, and Rust.||
 |598|[@sim-](https://github.com/sim-)/[**tgy**](https://github.com/sim-/tgy)|tgy -- Open Source Firmware for ATmega-based Brushless ESCs|[:arrow_upper_right:](http://0x.ca/tgy/)|
-|444|[@ReturnInfinity](https://github.com/ReturnInfinity)/[**Pure64**](https://github.com/ReturnInfinity/Pure64)|Pure64 is a software loader that was initially created for BareMetal OS. The loader sets the computer into a full 64-bit state with no legacy compatibility layers and also enables all available CPU Cores in the computer.|[:arrow_upper_right:](http://www.returninfinity.com)|
-|297|[@ReturnInfinity](https://github.com/ReturnInfinity)/[**BareMetal**](https://github.com/ReturnInfinity/BareMetal)|A very minimal, resource efficient exo-kernel|[:arrow_upper_right:](http://www.returninfinity.com)|
+|445|[@ReturnInfinity](https://github.com/ReturnInfinity)/[**Pure64**](https://github.com/ReturnInfinity/Pure64)|Pure64 is a software loader that was initially created for BareMetal OS. The loader sets the computer into a full 64-bit state with no legacy compatibility layers and also enables all available CPU Cores in the computer.|[:arrow_upper_right:](http://www.returninfinity.com)|
+|300|[@ReturnInfinity](https://github.com/ReturnInfinity)/[**BareMetal**](https://github.com/ReturnInfinity/BareMetal)|A very minimal, resource efficient exo-kernel|[:arrow_upper_right:](http://www.returninfinity.com)|
 |267|[@ReturnInfinity](https://github.com/ReturnInfinity)/[**BareMetal-kernel**](https://github.com/ReturnInfinity/BareMetal-kernel)|A very minimal, resource efficient exo-kernel|[:arrow_upper_right:](http://www.returninfinity.com)|
 |103|[@programble](https://github.com/programble)/[**tetrasm**](https://github.com/programble/tetrasm)|Tetris for x86 in NASM||
 |78|[@dgryski](https://github.com/dgryski)/[**go-metro**](https://github.com/dgryski/go-metro)|Go translation of MetroHash||
 |59|[@chesterbr](https://github.com/chesterbr)/[**2048-2600**](https://github.com/chesterbr/2048-2600)|A port of the 2048 game to the Atari 2600 VCS||
-|54|[@Krutonium](https://github.com/Krutonium)/[**OwO**](https://github.com/Krutonium/OwO)|...I might be furry trash.||
+|55|[@Krutonium](https://github.com/Krutonium)/[**OwO**](https://github.com/Krutonium/OwO)|...I might be furry trash.||
 |46|[@hsoft](https://github.com/hsoft)/[**avra**](https://github.com/hsoft/avra)|Assembler for the Atmel AVR microcontroller family||
 |46|[@mystor](https://github.com/mystor)/[**micro-coreutils**](https://github.com/mystor/micro-coreutils)|An implementation of the unix commands yes, cat, and echo in as few bytes of executable as possible||
 |32|[@cjauvin](https://github.com/cjauvin)/[**tetris-464**](https://github.com/cjauvin/tetris-464)|A stripped down Tetris clone for the C=64 (no points, no levels, no nothing, except the bare block falling, controlling and colliding mechanism), in about a KLOC of 6502 assembly.||

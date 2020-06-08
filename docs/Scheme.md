@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|21|[@feeley](https://github.com/feeley)/[**etos**](https://github.com/feeley/etos)|Erlang to Scheme compiler||
+|23|[@feeley](https://github.com/feeley)/[**etos**](https://github.com/feeley/etos)|Erlang to Scheme compiler||
 |21|[@yawaramin](https://github.com/yawaramin)/[**ggspec**](https://github.com/yawaramin/ggspec)|A lightweight, functional-style unit testing framework for Guile/Scheme||
 |13|[@ben-lerner](https://github.com/ben-lerner)/[**sicp-optimizer**](https://github.com/ben-lerner/sicp-optimizer)|An optimizer for the SICP scheme → register machine compiler.||
 |12|[@cdelahousse](https://github.com/cdelahousse)/[**Structure-and-Interpretation-of-Computer-Programs--SICP--Solutions**](https://github.com/cdelahousse/Structure-and-Interpretation-of-Computer-Programs--SICP--Solutions)|My answers to and explanations of the SICP excercises||

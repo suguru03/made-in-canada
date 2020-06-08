@@ -1,31 +1,31 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1328|[@rich-iannone](https://github.com/rich-iannone)/[**DiagrammeR**](https://github.com/rich-iannone/DiagrammeR)|Graph and network visualization using tabular data in R.|[:arrow_upper_right:](http://visualizers.co/diagrammer/)|
-|1037|[@bbc](https://github.com/bbc)/[**bbplot**](https://github.com/bbc/bbplot)|R package that helps create and export ggplot2 charts in the style used by the BBC News data team||
-|752|[@jennybc](https://github.com/jennybc)/[**googlesheets**](https://github.com/jennybc/googlesheets)|Google Spreadsheets R API||
+|1327|[@rich-iannone](https://github.com/rich-iannone)/[**DiagrammeR**](https://github.com/rich-iannone/DiagrammeR)|Graph and network visualization using tabular data in R.|[:arrow_upper_right:](http://visualizers.co/diagrammer/)|
+|1040|[@bbc](https://github.com/bbc)/[**bbplot**](https://github.com/bbc/bbplot)|R package that helps create and export ggplot2 charts in the style used by the BBC News data team||
+|753|[@jennybc](https://github.com/jennybc)/[**googlesheets**](https://github.com/jennybc/googlesheets)|Google Spreadsheets R API||
 |338|[@jennybc](https://github.com/jennybc)/[**row-oriented-workflows**](https://github.com/jennybc/row-oriented-workflows)|Row-oriented workflows in R with the tidyverse|[:arrow_upper_right:](https://speakerdeck.com/jennybc/row-oriented-workflows-in-r-with-the-tidyverse)|
-|296|[@rich-iannone](https://github.com/rich-iannone)/[**blastula**](https://github.com/rich-iannone/blastula)|Easily send great-looking HTML email messages from R|[:arrow_upper_right:](https://rich-iannone.github.io/blastula/)|
-|274|[@rich-iannone](https://github.com/rich-iannone)/[**pointblank**](https://github.com/rich-iannone/pointblank)|Validation of local and remote data tables|[:arrow_upper_right:](https://rich-iannone.github.io/pointblank/)|
+|297|[@rich-iannone](https://github.com/rich-iannone)/[**blastula**](https://github.com/rich-iannone/blastula)|Easily send great-looking HTML email messages from R|[:arrow_upper_right:](https://rich-iannone.github.io/blastula/)|
+|278|[@rich-iannone](https://github.com/rich-iannone)/[**pointblank**](https://github.com/rich-iannone/pointblank)|Validation of local and remote data tables|[:arrow_upper_right:](https://rich-iannone.github.io/pointblank/)|
 |221|[@jennybc](https://github.com/jennybc)/[**reprex**](https://github.com/jennybc/reprex)|Render bits of R code for sharing, e.g., on GitHub or StackOverflow.|[:arrow_upper_right:](http://jennybc.github.io/reprex/)|
 |218|[@jennybc](https://github.com/jennybc)/[**whattheyforgot**](https://github.com/jennybc/whattheyforgot)|What They Forgot To Teach You About R, homepage for "how to's" and workshops|[:arrow_upper_right:](https://whattheyforgot.org)|
-|209|[@rich-iannone](https://github.com/rich-iannone)/[**stationaRy**](https://github.com/rich-iannone/stationaRy)|Get hourly meteorological data from one of thousands of global stations|[:arrow_upper_right:](http://rich-iannone.github.io/stationaRy/)|
+|210|[@rich-iannone](https://github.com/rich-iannone)/[**stationaRy**](https://github.com/rich-iannone/stationaRy)|Get hourly meteorological data from one of thousands of global stations|[:arrow_upper_right:](http://rich-iannone.github.io/stationaRy/)|
 |202|[@jennybc](https://github.com/jennybc)/[**ggplot2-tutorial**](https://github.com/jennybc/ggplot2-tutorial)|Teaching materials for the R package ggplot2||
-|201|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**countrycode**](https://github.com/vincentarelbundock/countrycode)|R package: Convert country names and country codes. Assigns region descriptors.|[:arrow_upper_right:](http://cran.r-project.org/web/packages/countrycode/index.html)|
-|196|[@susanli2016](https://github.com/susanli2016)/[**Data-Analysis-with-R**](https://github.com/susanli2016/Data-Analysis-with-R)|Using gglot2, tidyr, dplyr, ggmap, choroplethr, shiny, logistic regression, clustering models and more||
+|202|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**countrycode**](https://github.com/vincentarelbundock/countrycode)|R package: Convert country names and country codes. Assigns region descriptors.|[:arrow_upper_right:](http://cran.r-project.org/web/packages/countrycode/index.html)|
+|198|[@susanli2016](https://github.com/susanli2016)/[**Data-Analysis-with-R**](https://github.com/susanli2016/Data-Analysis-with-R)|Using gglot2, tidyr, dplyr, ggmap, choroplethr, shiny, logistic regression, clustering models and more||
 |189|[@jennybc](https://github.com/jennybc)/[**send-email-with-r**](https://github.com/jennybc/send-email-with-r)|How to send a bunch of email from R||
 |179|[@jennybc](https://github.com/jennybc)/[**r-graph-catalog**](https://github.com/jennybc/r-graph-catalog)|All graphs in “Creating More Effective Graphs”, made with R package ggplot2.|[:arrow_upper_right:](http://shiny.stat.ubc.ca/r-graph-catalog/)|
-|173|[@jennybc](https://github.com/jennybc)/[**gapminder**](https://github.com/jennybc/gapminder)|Excerpt from the Gapminder data, as an R data package and in plain text delimited form||
+|172|[@jennybc](https://github.com/jennybc)/[**gapminder**](https://github.com/jennybc/gapminder)|Excerpt from the Gapminder data, as an R data package and in plain text delimited form||
 |167|[@jennybc](https://github.com/jennybc)/[**code-smells-and-feels**](https://github.com/jennybc/code-smells-and-feels)|Talk on code smells and feels and how to change that via refactoring|[:arrow_upper_right:](https://rstd.io/code-smells)|
 |157|[@rich-iannone](https://github.com/rich-iannone)/[**stationary**](https://github.com/rich-iannone/stationary)|Get hourly meteorological data from one of thousands of global stations|[:arrow_upper_right:](http://rich-iannone.github.io/stationary/)|
-|113|[@ateucher](https://github.com/ateucher)/[**rmapshaper**](https://github.com/ateucher/rmapshaper)|An R wrapper for the mapshaper javascript library||
+|115|[@ateucher](https://github.com/ateucher)/[**rmapshaper**](https://github.com/ateucher/rmapshaper)|An R wrapper for the mapshaper javascript library||
 |110|[@jennybc](https://github.com/jennybc)/[**repurrrsive**](https://github.com/jennybc/repurrrsive)|Recursive lists to use in teaching and examples, because there is no iris data for lists.||
-|108|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**WDI**](https://github.com/vincentarelbundock/WDI)|||
-|102|[@seananderson](https://github.com/seananderson)/[**glmm-course**](https://github.com/seananderson/glmm-course)|Workshop exercises on regression, GLMs, mixed-effects models, and GLMMs in R||
+|109|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**WDI**](https://github.com/vincentarelbundock/WDI)|||
+|103|[@seananderson](https://github.com/seananderson)/[**glmm-course**](https://github.com/seananderson/glmm-course)|Workshop exercises on regression, GLMs, mixed-effects models, and GLMMs in R||
 |88|[@luyongxu](https://github.com/luyongxu)/[**signalplot**](https://github.com/luyongxu/signalplot)|This repository contains code used for my blog.|[:arrow_upper_right:](http://www.signalplot.com)|
 |88|[@rich-iannone](https://github.com/rich-iannone)/[**splitr**](https://github.com/rich-iannone/splitr)|Use the HYSPLIT model from inside R and do more with it||
 |85|[@jennybc](https://github.com/jennybc)/[**pkg-dev-tutorial**](https://github.com/jennybc/pkg-dev-tutorial)|Package Development tutorial for useR! 2019 Toulouse|[:arrow_upper_right:](https://rstd.io/pkg-dev)|
-|81|[@gavinsimpson](https://github.com/gavinsimpson)/[**gratia**](https://github.com/gavinsimpson/gratia)|ggplot-based graphics and useful functions for GAMs fitted using the mgcv package|[:arrow_upper_right:](https://gavinsimpson.github.io/gratia/)|
-|80|[@dankelley](https://github.com/dankelley)/[**oce**](https://github.com/dankelley/oce)|R package for oceanographic processing|[:arrow_upper_right:](http://dankelley.github.com/oce/)|
+|82|[@dankelley](https://github.com/dankelley)/[**oce**](https://github.com/dankelley/oce)|R package for oceanographic processing|[:arrow_upper_right:](http://dankelley.github.com/oce/)|
+|82|[@gavinsimpson](https://github.com/gavinsimpson)/[**gratia**](https://github.com/gavinsimpson/gratia)|ggplot-based graphics and useful functions for GAMs fitted using the mgcv package|[:arrow_upper_right:](https://gavinsimpson.github.io/gratia/)|
 |77|[@gavinsimpson](https://github.com/gavinsimpson)/[**ggvegan**](https://github.com/gavinsimpson/ggvegan)|ggplot-based plots for vegan|[:arrow_upper_right:](https://gavinsimpson.github.io/ggvegan/)|
 |77|[@rich-iannone](https://github.com/rich-iannone)/[**SplitR**](https://github.com/rich-iannone/SplitR)|Use the HYSPLIT model from inside R and do more with it||
 |75|[@psolymos](https://github.com/psolymos)/[**pbapply**](https://github.com/psolymos/pbapply)|Adding progress bar to '*apply' functions in R||
@@ -33,21 +33,21 @@
 |64|[@jennybc](https://github.com/jennybc)/[**debugging**](https://github.com/jennybc/debugging)|Talk about general debugging strategies. How to be less confused and frustrated.|[:arrow_upper_right:](https://rstd.io/debugging)|
 |56|[@luyongxu](https://github.com/luyongxu)/[**SignalPlot**](https://github.com/luyongxu/SignalPlot)|This repository contains code used for my blog.|[:arrow_upper_right:](http://www.signalplot.com)|
 |47|[@tpoisot](https://github.com/tpoisot)/[**digitize**](https://github.com/tpoisot/digitize)|A R package to extract data from scatterplots||
+|45|[@bcgov](https://github.com/bcgov)/[**bcdata**](https://github.com/bcgov/bcdata)|An R package for searching & retrieving data from the B.C. Data Catalogue|[:arrow_upper_right:](https://bcgov.github.io/bcdata)|
 |45|[@rich-iannone](https://github.com/rich-iannone)/[**PuffR**](https://github.com/rich-iannone/PuffR)|An integrated system for dispersion modelling with CALPUFF.||
 |44|[@jennybc](https://github.com/jennybc)/[**githug**](https://github.com/jennybc/githug)|Interface to local and remote Git operations||
-|43|[@bcgov](https://github.com/bcgov)/[**bcdata**](https://github.com/bcgov/bcdata)|An R package for searching & retrieving data from the B.C. Data Catalogue|[:arrow_upper_right:](https://bcgov.github.io/bcdata)|
 |43|[@jennybc](https://github.com/jennybc)/[**jadd**](https://github.com/jennybc/jadd)|RStudio addins||
 |42|[@bcgov](https://github.com/bcgov)/[**bcmaps**](https://github.com/bcgov/bcmaps)|An R package of map layers for British Columbia||
 |42|[@psolymos](https://github.com/psolymos)/[**intrval**](https://github.com/psolymos/intrval)|Relational Operators for Intervals||
 |38|[@jennybc](https://github.com/jennybc)/[**lego-rstats**](https://github.com/jennybc/lego-rstats)|Photos that depict R data structures and operations via Lego||
 |35|[@oganm](https://github.com/oganm)/[**dnddata**](https://github.com/oganm/dnddata)|Weekly updated dataset of D&D characters submitted to https://oganm.com/shiny/printSheetApp and https://oganm.com/shiny/interactiveSheet. A superset of characters used in oganm/dndstats||
 |34|[@bcgsc](https://github.com/bcgsc)/[**orca**](https://github.com/bcgsc/orca)|:whale: Genomics Research Container Architecture|[:arrow_upper_right:](http://www.bcgsc.ca/services/orca)|
-|33|[@jts](https://github.com/jts)/[**methylation-analysis**](https://github.com/jts/methylation-analysis)|||
+|32|[@jts](https://github.com/jts)/[**methylation-analysis**](https://github.com/jts/methylation-analysis)|||
+|31|[@adityashrm21](https://github.com/adityashrm21)/[**Bike-Sharing-Demand-Kaggle**](https://github.com/adityashrm21/Bike-Sharing-Demand-Kaggle)|Top 5th percentile solution to the Kaggle knowledge problem - Bike Sharing Demand||
 |31|[@jennybc](https://github.com/jennybc)/[**zen-art-workflow**](https://github.com/jennybc/zen-art-workflow)|Links and credits for a talk: Zen And The aRt Of Workflow Maintenance|[:arrow_upper_right:](https://speakerdeck.com/jennybc/zen-and-the-art-of-workflow-maintenance)|
-|30|[@adityashrm21](https://github.com/adityashrm21)/[**Bike-Sharing-Demand-Kaggle**](https://github.com/adityashrm21/Bike-Sharing-Demand-Kaggle)|Top 5th percentile solution to the Kaggle knowledge problem - Bike Sharing Demand||
 |30|[@dankelley](https://github.com/dankelley)/[**plan**](https://github.com/dankelley/plan)|R package for project planning|[:arrow_upper_right:](http://dankelley.github.io/plan/)|
+|30|[@kieranrcampbell](https://github.com/kieranrcampbell)/[**ouija**](https://github.com/kieranrcampbell/ouija)|Descriptive probabilistic marker gene approach to single-cell pseudotime inference|[:arrow_upper_right:](http://kieranrcampbell.github.io/ouija)|
 |30|[@sjp](https://github.com/sjp)/[**selectr**](https://github.com/sjp/selectr)|Translate CSS Selectors to XPath Expressions||
-|29|[@kieranrcampbell](https://github.com/kieranrcampbell)/[**ouija**](https://github.com/kieranrcampbell/ouija)|Descriptive probabilistic marker gene approach to single-cell pseudotime inference|[:arrow_upper_right:](http://kieranrcampbell.github.io/ouija)|
 |29|[@oganm](https://github.com/oganm)/[**rdog**](https://github.com/oganm/rdog)|Porting zdog pseudo-3d engine to R for reasons...|[:arrow_upper_right:](https://oganm.github.io/rdog)|
 |28|[@bcgov](https://github.com/bcgov)/[**fasstr**](https://github.com/bcgov/fasstr)|An R package to analyze, summarize, and visualize daily streamflow data|[:arrow_upper_right:](https://bcgov.github.io/fasstr/)|
 |28|[@gavinsimpson](https://github.com/gavinsimpson)/[**tsgam**](https://github.com/gavinsimpson/tsgam)|Functions for using GAMs to model time series||
@@ -63,14 +63,15 @@
 |24|[@jennybc](https://github.com/jennybc)/[**excelgesis**](https://github.com/jennybc/excelgesis)|Critical explanation or interpretation of ... Excel spreadsheets|[:arrow_upper_right:](https://jennybc.github.io/excelgesis/)|
 |24|[@pacificclimate](https://github.com/pacificclimate)/[**ClimDown**](https://github.com/pacificclimate/ClimDown)|PCIC's Daily Climate Downscaling Library||
 |23|[@gavinsimpson](https://github.com/gavinsimpson)/[**schoenberg**](https://github.com/gavinsimpson/schoenberg)|ggplot-based graphics and useful functions for GAMs fitted using the mgcv package||
+|23|[@kieranrcampbell](https://github.com/kieranrcampbell)/[**clonealign**](https://github.com/kieranrcampbell/clonealign)|Bayesian inference of clone-specific gene expression estimates by integrating single-cell RNA-seq and single-cell DNA-seq data||
 |23|[@rich-iannone](https://github.com/rich-iannone)/[**DiagrammeRsvg**](https://github.com/rich-iannone/DiagrammeRsvg)|A utility package for providing SVG export to DiagrammeR graph diagrams||
 |22|[@bcgov](https://github.com/bcgov)/[**bcgov-r-geo-workshop**](https://github.com/bcgov/bcgov-r-geo-workshop)|Some lessons & resources supporting an R geospatial workshop & hackathon ||
-|22|[@kieranrcampbell](https://github.com/kieranrcampbell)/[**clonealign**](https://github.com/kieranrcampbell/clonealign)|Bayesian inference of clone-specific gene expression estimates by integrating single-cell RNA-seq and single-cell DNA-seq data||
-|22|[@rich-iannone](https://github.com/rich-iannone)/[**TrendAnalysis**](https://github.com/rich-iannone/TrendAnalysis)|An R package for trend analysis of time-series data||
 |21|[@MySportsFeeds](https://github.com/MySportsFeeds)/[**mysportsfeeds-r**](https://github.com/MySportsFeeds/mysportsfeeds-r)|R wrapper functions for the MySportsFeeds Sports Data API|[:arrow_upper_right:](https://www.mysportsfeeds.com)|
+|21|[@rich-iannone](https://github.com/rich-iannone)/[**TrendAnalysis**](https://github.com/rich-iannone/TrendAnalysis)|An R package for trend analysis of time-series data||
 |20|[@bcgov](https://github.com/bcgov)/[**bcgovr**](https://github.com/bcgov/bcgovr)|An R package to automate set up and sharing of R projects in bcgov GitHub following bcgov guidelines||
-|20|[@bcgov](https://github.com/bcgov)/[**ssdtools**](https://github.com/bcgov/ssdtools)|An R package to fit and plot species sensitivity distributions.|[:arrow_upper_right:](https://bcgov.github.io/ssdtools/)|
+|20|[@bcgov](https://github.com/bcgov)/[**ssdtools**](https://github.com/bcgov/ssdtools)|An R package to fit and plot Species Sensitivity Distributions (SSDs)|[:arrow_upper_right:](https://bcgov.github.io/ssdtools/)|
 |20|[@crazyhottommy](https://github.com/crazyhottommy)/[**scRNA-seq-workshop-Fall-2019**](https://github.com/crazyhottommy/scRNA-seq-workshop-Fall-2019)|Harvard FAS informatics scRNAseq workshop website|[:arrow_upper_right:](https://crazyhottommy.github.io/scRNA-seq-workshop-Fall-2019/)|
+|20|[@crazyhottommy](https://github.com/crazyhottommy)/[**scclusteval**](https://github.com/crazyhottommy/scclusteval)|Single Cell Cluster Evaluation||
 |20|[@oganm](https://github.com/oganm)/[**dndstats**](https://github.com/oganm/dndstats)|Statistics of DnD characters submitted to https://oganm.com/shiny/printSheetApp and https://oganm.com/shiny/interactiveSheet. A larger dataset is at https://github.com/oganm/dnddata|[:arrow_upper_right:](https://oganm.github.io/dndstats)|
 |20|[@seananderson](https://github.com/seananderson)/[**bayes-course**](https://github.com/seananderson/bayes-course)|An introduction to Bayesian data analysis with Stan (a work in progress)||
 |20|[@sjackman](https://github.com/sjackman)/[**uniqtag**](https://github.com/sjackman/uniqtag)|Abbreviate strings to short, unique identifiers|[:arrow_upper_right:](https://github.com/sjackman/uniqtag-paper)|
@@ -80,7 +81,6 @@
 |18|[@jennybc](https://github.com/jennybc)/[**2015-08_bryan-jsm-stat-data-sci-talk**](https://github.com/jennybc/2015-08_bryan-jsm-stat-data-sci-talk)|Bryan talk at JSM 2015 re: are statisticians data scientists||
 |18|[@jennybc](https://github.com/jennybc)/[**whattheyforgot-seattle**](https://github.com/jennybc/whattheyforgot-seattle)|Details specific to the October 4/5 2018 offering of the "What They Forgot to Teach You About R" workshop||
 |17|[@bcgov](https://github.com/bcgov)/[**bcgov-data-science-cop**](https://github.com/bcgov/bcgov-data-science-cop)|A repository to house presentation materials from bcgov Data Science CoP events||
-|17|[@crazyhottommy](https://github.com/crazyhottommy)/[**scclusteval**](https://github.com/crazyhottommy/scclusteval)|Single Cell Cluster Evaluation||
 |17|[@jennybc](https://github.com/jennybc)/[**wtf-2018-seattle**](https://github.com/jennybc/wtf-2018-seattle)|Details specific to the October 4/5 2018 offering of the "What They Forgot to Teach You About R" workshop||
 |16|[@retrography](https://github.com/retrography)/[**OrientR**](https://github.com/retrography/OrientR)|A wrapper for OrientDB REST API interface in R||
 |16|[@rich-iannone](https://github.com/rich-iannone)/[**pkgattrs**](https://github.com/rich-iannone/pkgattrs)|Get information on the contents of one or more R packages|[:arrow_upper_right:](https://rich-iannone.github.io/pkgattrs/)|
@@ -106,6 +106,7 @@
 |11|[@bcgov](https://github.com/bcgov)/[**wqbc**](https://github.com/bcgov/wqbc)|An R package for water quality thresholds and index calculation for British Columbia|[:arrow_upper_right:](http://bcgov.github.io/wqbc/)|
 |11|[@gavinsimpson](https://github.com/gavinsimpson)/[**analogue**](https://github.com/gavinsimpson/analogue)|Analogue and weighted averaging methods for palaeoecology||
 |11|[@jennybc](https://github.com/jennybc)/[**2017-12_iasc-auckland**](https://github.com/jennybc/2017-12_iasc-auckland)|||
+|11|[@jennybc](https://github.com/jennybc)/[**foofactors**](https://github.com/jennybc/foofactors)|Make Factors Less Aggravating||
 |11|[@jennybc](https://github.com/jennybc)/[**frogs**](https://github.com/jennybc/frogs)|Data from the Calaveras Jumping Frog Jubilee|[:arrow_upper_right:](http://www.frogtown.org/about)|
 |11|[@kieranrcampbell](https://github.com/kieranrcampbell)/[**embeddr**](https://github.com/kieranrcampbell/embeddr)|This repository is retired software||
 |11|[@lindayi](https://github.com/lindayi)/[**distdiff**](https://github.com/lindayi/distdiff)|An R package for visualizing comparison between two distributions.||
@@ -127,7 +128,6 @@
 |9|[@gavinsimpson](https://github.com/gavinsimpson)/[**coenocliner**](https://github.com/gavinsimpson/coenocliner)|An R package to simulate species occurences and abundances (counts) along gradients||
 |9|[@hpiwowar](https://github.com/hpiwowar)/[**citation11k**](https://github.com/hpiwowar/citation11k)|Analysis of citation rates across 11,603 articles: data available vs data not avail|[:arrow_upper_right:](http://researchremix.wordpress.com)|
 |9|[@jennybc](https://github.com/jennybc)/[**2018_advent-of-code**](https://github.com/jennybc/2018_advent-of-code)|||
-|9|[@jennybc](https://github.com/jennybc)/[**foofactors**](https://github.com/jennybc/foofactors)|Make Factors Less Aggravating||
 |9|[@kieranrcampbell](https://github.com/kieranrcampbell)/[**pseudogp**](https://github.com/kieranrcampbell/pseudogp)|Probabilistic pseudotime for single-cell RNA-seq data||
 |9|[@oganm](https://github.com/oganm)/[**MSigDB**](https://github.com/oganm/MSigDB)|Molecular Signatures Database as a list||
 |9|[@pacificclimate](https://github.com/pacificclimate)/[**climdex.pcic**](https://github.com/pacificclimate/climdex.pcic)|Routines to compute ETCCDI Climdex indices||
@@ -213,12 +213,11 @@
 |4|[@colekev](https://github.com/colekev)/[**nba_win_prob_calc**](https://github.com/colekev/nba_win_prob_calc)|NBA Win Probability Model (R Code)||
 |4|[@csglab](https://github.com/csglab)/[**REMBRANDTS**](https://github.com/csglab/REMBRANDTS)|REMoving Bias from Rna-seq ANalysis of Differential Transcript Stability||
 |4|[@danielmarcelino](https://github.com/danielmarcelino)/[**r-code-examples**](https://github.com/danielmarcelino/r-code-examples)|A bunch of r code ||
-|4|[@dankelley](https://github.com/dankelley)/[**ocedata**](https://github.com/dankelley/ocedata)|oceanographic data to support oce package|[:arrow_upper_right:](http://dankelley.github.io/ocedata/)|
+|4|[@dankelley](https://github.com/dankelley)/[**ocedata**](https://github.com/dankelley/ocedata)|oceanographic data to support oce package|[:arrow_upper_right:](https://dankelley.github.com/ocedata)|
 |4|[@eneskemalergin](https://github.com/eneskemalergin)/[**SoftwareGuide**](https://github.com/eneskemalergin/SoftwareGuide)|This is a repository to share my software guides to different types of systems and configurations. I will be putting what kind of tools, softwares, and customizations I do for my and your-selves ease.||
 |4|[@jennybc](https://github.com/jennybc)/[**swcR_duke**](https://github.com/jennybc/swcR_duke)|R content from Duke Software Carpentry Workshop May 2013.||
 |4|[@mwpennell](https://github.com/mwpennell)/[**capwire**](https://github.com/mwpennell/capwire)|capwire r pacakge||
 |4|[@mwpennell](https://github.com/mwpennell)/[**phyloPCA**](https://github.com/mwpennell/phyloPCA)|code and manuscript for phylo pca paper||
-|4|[@oganm](https://github.com/oganm)/[**5eInteractiveSheet**](https://github.com/oganm/5eInteractiveSheet)|I haven't been updating this version for some time now. Use the online version or follow Linux installation instructions to get the latest version|[:arrow_upper_right:](https://oganm.com/shiny/interactiveSheet/)|
 |4|[@psolymos](https://github.com/psolymos)/[**ResourceSelection**](https://github.com/psolymos/ResourceSelection)|Resource Selection (Probability) Functions for Use-Availability Data in R||
 |4|[@raunakms](https://github.com/raunakms)/[**GESD**](https://github.com/raunakms/GESD)|Generalized Extreme Studentized Deviate (GESD) test to detect outliers||
 |4|[@rich-iannone](https://github.com/rich-iannone)/[**GettingAndCleaningData**](https://github.com/rich-iannone/GettingAndCleaningData)|Getting and Cleaning Data||
@@ -258,6 +257,7 @@
 |3|[@kieranrcampbell](https://github.com/kieranrcampbell)/[**autosmk**](https://github.com/kieranrcampbell/autosmk)|Autogenerate templates for Snakemake rules and R scripts||
 |3|[@luyongxu](https://github.com/luyongxu)/[**bitcoin-momentum**](https://github.com/luyongxu/bitcoin-momentum)|Exploratory model used to predict bitcoin price using momentum and machine learning techniques. ||
 |3|[@njpayne](https://github.com/njpayne)/[**riemann**](https://github.com/njpayne/riemann)|R programming repository||
+|3|[@oganm](https://github.com/oganm)/[**5eInteractiveSheet**](https://github.com/oganm/5eInteractiveSheet)|I haven't been updating this version for some time now. Use the online version or follow Linux installation instructions to get the latest version|[:arrow_upper_right:](https://oganm.com/shiny/interactiveSheet/)|
 |3|[@oganm](https://github.com/oganm)/[**wizaRd**](https://github.com/oganm/wizaRd)|5e spells as an R list||
 |3|[@rinze](https://github.com/rinze)/[**kaggle-public**](https://github.com/rinze/kaggle-public)|My codes for Kaggle competitions, published after they end.||
 |3|[@seananderson](https://github.com/seananderson)/[**dplyr-intro-2014**](https://github.com/seananderson/dplyr-intro-2014)|dplyr and pipes introduction for stats beerz||
@@ -266,5 +266,7 @@
 |3|[@sjackman](https://github.com/sjackman)/[**stat540-project**](https://github.com/sjackman/stat540-project)|STAT 540 group project||
 |3|[@teresating886](https://github.com/teresating886)/[**HR-Analytics**](https://github.com/teresating886/HR-Analytics)|HR Analytics||
 |3|[@ttimbers](https://github.com/ttimbers)/[**breast_cancer_predictor**](https://github.com/ttimbers/breast_cancer_predictor)|Demo of a data analysis project for DSCI 522 (Data Science workflows) at UBC||
+|3|[@ustunb](https://github.com/ustunb)/[**classification-pipeline**](https://github.com/ustunb/classification-pipeline)|||
 |3|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**SpatialHelper**](https://github.com/vincentarelbundock/SpatialHelper)|A collection of helper functions for network analysis (TERGM) and spatial econometrics in R||
+|3|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**opic**](https://github.com/vincentarelbundock/opic)|Overseas Private Investment Corporation data on projects and insurance claims||
 

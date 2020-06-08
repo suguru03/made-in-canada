@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |764|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
-|525|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
-|510|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
+|528|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
+|513|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
 |350|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
-|311|[@fangchangma](https://github.com/fangchangma)/[**sparse-to-dense**](https://github.com/fangchangma/sparse-to-dense)|ICRA 2018  "Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image" (Torch Implementation)||
+|312|[@fangchangma](https://github.com/fangchangma)/[**sparse-to-dense**](https://github.com/fangchangma/sparse-to-dense)|ICRA 2018  "Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image" (Torch Implementation)||
 |159|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
 |106|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
 |95|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
@@ -38,11 +38,11 @@
 |11|[@vocksel](https://github.com/vocksel)/[**prefabs**](https://github.com/vocksel/prefabs)|Roblox plugin for making reuseable assets and keeping them in sync across your game||
 |10|[@NorthernMan54](https://github.com/NorthernMan54)/[**homebridge-mculed**](https://github.com/NorthernMan54/homebridge-mculed)|Homebridge plugin to control ws2812 RGB+W Led Strips with a nodemcu/esp8266||
 |10|[@ashleydavies](https://github.com/ashleydavies)/[**EGS**](https://github.com/ashleydavies/EGS)|||
+|10|[@mverteuil](https://github.com/mverteuil)/[**windower4-addons**](https://github.com/mverteuil/windower4-addons)|FFXI Windower 4 Addons||
 |10|[@sam-github](https://github.com/sam-github)/[**lunit**](https://github.com/sam-github/lunit)|unit testing for lua||
 |10|[@travisjeffery](https://github.com/travisjeffery)/[**awesome-wm**](https://github.com/travisjeffery/awesome-wm)|My configuration of the awesome window manager.||
 |9|[@castorini](https://github.com/castorini)/[**SM-CNN-Torch**](https://github.com/castorini/SM-CNN-Torch)|Torch implementation of Severyn and Moschitti's SIGIR 2015 CNN model for question answering||
 |9|[@durandtibo](https://github.com/durandtibo)/[**wsl.resnet.torch**](https://github.com/durandtibo/wsl.resnet.torch)|Torch implementation for weakly supervised learning of ResNet||
-|9|[@mverteuil](https://github.com/mverteuil)/[**windower4-addons**](https://github.com/mverteuil/windower4-addons)|FFXI Windower 4 Addons||
 |8|[@bartman](https://github.com/bartman)/[**wmii-lua**](https://github.com/bartman/wmii-lua)|Wmii extended with lua scripts|[:arrow_upper_right:](http://www.jukie.net/~bart/blog/tag/wmiirc-lua)|
 |8|[@coolacid](https://github.com/coolacid)/[**ComputerCraft**](https://github.com/coolacid/ComputerCraft)|Scripts Related to Minecraft ComputerCraft||
 |8|[@dvdfu](https://github.com/dvdfu)/[**ld38**](https://github.com/dvdfu/ld38)|Ludum Dare 38 Jam submission|[:arrow_upper_right:](https://dvdfu.itch.io/honey-home)|
@@ -66,6 +66,7 @@
 |5|[@karai17](https://github.com/karai17)/[**love2d-input-manager**](https://github.com/karai17/love2d-input-manager)|AN input manager for the Love2D game engine||
 |5|[@karai17](https://github.com/karai17)/[**lua-bbcode**](https://github.com/karai17/lua-bbcode)|||
 |4|[@ARitz-Cracker](https://github.com/ARitz-Cracker)/[**ARCLib**](https://github.com/ARitz-Cracker/ARCLib)|A library used by my Garry's Mod addons.||
+|4|[@ARitz-Cracker](https://github.com/ARitz-Cracker)/[**ARCSlots**](https://github.com/ARitz-Cracker/ARCSlots)|Simple slot machines for Garry's Mod||
 |4|[@ReikaKalseki](https://github.com/ReikaKalseki)/[**Bioluminescence**](https://github.com/ReikaKalseki/Bioluminescence)|Adds bioluminescence to the natural world of Nauvis.||
 |4|[@ReikaKalseki](https://github.com/ReikaKalseki)/[**FactorIO**](https://github.com/ReikaKalseki/FactorIO)|New sensors and signal types.||
 |4|[@ReikaKalseki](https://github.com/ReikaKalseki)/[**FastFurnaces**](https://github.com/ReikaKalseki/FastFurnaces)|A mod that started with faster electric furnaces, and then added several other faster processing systems.||
@@ -77,7 +78,6 @@
 |4|[@karai17](https://github.com/karai17)/[**love-eh**](https://github.com/karai17/love-eh)|LOVE API localized to en_CA||
 |4|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**equanimity**](https://github.com/nicholas-leonard/equanimity)|Experimental research for distributed conditional computation||
 |4|[@slime73](https://github.com/slime73)/[**love-mutex**](https://github.com/slime73/love-mutex)|Mutex semantics for threads in LÖVE 0.9.0+||
-|3|[@ARitz-Cracker](https://github.com/ARitz-Cracker)/[**ARCSlots**](https://github.com/ARitz-Cracker/ARCSlots)|Simple slot machines for Garry's Mod||
 |3|[@DonBatman](https://github.com/DonBatman)/[**myadmin**](https://github.com/DonBatman/myadmin)|Admin tools and chat commands for Minetest||
 |3|[@DonBatman](https://github.com/DonBatman)/[**myboardgames**](https://github.com/DonBatman/myboardgames)|16 different games for Minetest|[:arrow_upper_right:](https://forum.minetest.net/viewtopic.php?f=11&t=13209)|
 |3|[@ItsPax](https://github.com/ItsPax)/[**trip**](https://github.com/ItsPax/trip)|An infinite runner built in Lua using the LOVE2D framework built over the course of around 16 hours during HackED Beta 2017.||
@@ -96,6 +96,7 @@
 |3|[@jarednorman](https://github.com/jarednorman)/[**knight**](https://github.com/jarednorman/knight)|Knight is a dependency manager/injector for Lua.|[:arrow_upper_right:](https://github.com/jarednorman/knight)|
 |3|[@karai17](https://github.com/karai17)/[**Peep**](https://github.com/karai17/Peep)|View the contents of variables in LÖVE||
 |3|[@krrish94](https://github.com/krrish94)/[**stacked-hourglass**](https://github.com/krrish94/stacked-hourglass)|Our modification of the stacked-hourglass architecture for car keypoint localization||
+|3|[@mikeboers](https://github.com/mikeboers)/[**Flask-Lightroom**](https://github.com/mikeboers/Flask-Lightroom)|Adobe PS Lightroom and Flask (cross) integration.||
 |3|[@thesuicidalrobot](https://github.com/thesuicidalrobot)/[**Super-Hero-Chronicles**](https://github.com/thesuicidalrobot/Super-Hero-Chronicles)|||
 |3|[@vocksel](https://github.com/vocksel)/[**Sugar**](https://github.com/vocksel/Sugar)|A library of helpful utility functions for use in Roblox games||
 |3|[@vocksel](https://github.com/vocksel)/[**sugar**](https://github.com/vocksel/sugar)|A library of helpful utility functions for use in Roblox games||

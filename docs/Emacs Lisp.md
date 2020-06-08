@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|20101|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
+|20146|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
 |168|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
 |128|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
 |109|[@atgreen](https://github.com/atgreen)/[**paperless**](https://github.com/atgreen/paperless)|Emacs assisted PDF document filing||
@@ -9,20 +9,21 @@
 |80|[@syl20bnr](https://github.com/syl20bnr)/[**evil-lisp-state**](https://github.com/syl20bnr/evil-lisp-state)|An evil state to navigate Lisp code and modify it with smartparens||
 |63|[@rudolfolah](https://github.com/rudolfolah)/[**emacs-sos**](https://github.com/rudolfolah/emacs-sos)|StackOverflow Search (SOS) mode for Emacs.||
 |58|[@arthurnn](https://github.com/arthurnn)/[**howdoi-emacs**](https://github.com/arthurnn/howdoi-emacs)|Search code from StackOverflow and paste it in emacs.||
+|54|[@syl20bnr](https://github.com/syl20bnr)/[**evil-tutor**](https://github.com/syl20bnr/evil-tutor)|Vimtutor adapted to Emacs+Evil and wrapped in a major mode.||
 |53|[@rudolfolah](https://github.com/rudolfolah)/[**org-doing**](https://github.com/rudolfolah/org-doing)|keep track of what you're doing right now and what you've worked on before|[:arrow_upper_right:](http://omouse.github.io/org-doing)|
-|53|[@syl20bnr](https://github.com/syl20bnr)/[**evil-tutor**](https://github.com/syl20bnr/evil-tutor)|Vimtutor adapted to Emacs+Evil and wrapped in a major mode.||
 |49|[@syl20bnr](https://github.com/syl20bnr)/[**evil-iedit-state**](https://github.com/syl20bnr/evil-iedit-state)|Slick Evil states for iedit.||
 |46|[@jimeh](https://github.com/jimeh)/[**twilight-bright-theme.el**](https://github.com/jimeh/twilight-bright-theme.el)|A Emacs port of the TextMate theme by the same name with some minor tweaks and additions.||
 |45|[@hassy](https://github.com/hassy)/[**http-twiddle**](https://github.com/hassy/http-twiddle)|HTTP debugging tool (Emacs mode)||
 |41|[@arthurnn](https://github.com/arthurnn)/[**minitest-emacs**](https://github.com/arthurnn/minitest-emacs)|A minitest mode for emacs||
 |39|[@jimeh](https://github.com/jimeh)/[**twilight-anti-bright-theme**](https://github.com/jimeh/twilight-anti-bright-theme)|A light-on-dark Emacs and TextMate theme inspired by the dark-on-light Twilight Bright TextMate theme.||
 |38|[@jimeh](https://github.com/jimeh)/[**birds-of-paradise-plus-theme.el**](https://github.com/jimeh/birds-of-paradise-plus-theme.el)|A Emacs port of Joseph Bergantine's light-on-dark theme by the same name.||
+|36|[@nanzhong](https://github.com/nanzhong)/[**workstation**](https://github.com/nanzhong/workstation)|My development environment||
 |33|[@burke](https://github.com/burke)/[**color-theme-ir-black**](https://github.com/burke/color-theme-ir-black)|[abandoned] IR Black Color Theme for Emacs.||
 |33|[@jimeh](https://github.com/jimeh)/[**.emacs.d**](https://github.com/jimeh/.emacs.d)|My personal Emacs config with any quirks, oddities, bugs, and man-eating errors I live with on a daily basis.||
 |31|[@rudolfolah](https://github.com/rudolfolah)/[**angularjs-mode**](https://github.com/rudolfolah/angularjs-mode)|AngularJS utilities and major modes for Emacs (angular-mode for javascript, angular-html-mode for html templates)|[:arrow_upper_right:](http://rudolfolah.github.io/angularjs-mode)|
+|30|[@practicalli](https://github.com/practicalli)/[**spacemacs.d**](https://github.com/practicalli/spacemacs.d)|My configuration for spacemacs||
 |29|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs-elpa-mirror**](https://github.com/syl20bnr/spacemacs-elpa-mirror)|ELPA archive for Spacemacs packages.||
 |27|[@dpo](https://github.com/dpo)/[**ampl-mode**](https://github.com/dpo/ampl-mode)|Syntax highlighting mode for the AMPL modeling language||
-|27|[@practicalli](https://github.com/practicalli)/[**spacemacs.d**](https://github.com/practicalli/spacemacs.d)|My configuration for spacemacs||
 |24|[@honza](https://github.com/honza)/[**dotfiles**](https://github.com/honza/dotfiles)|My awesome dotfiles.|[:arrow_upper_right:](https://github.com/honza/dotfiles)|
 |21|[@syl20bnr](https://github.com/syl20bnr)/[**vi-tilde-fringe**](https://github.com/syl20bnr/vi-tilde-fringe)|Display tildes on empty lines in the Emacs fringe a la Vi.||
 |19|[@practicalli](https://github.com/practicalli)/[**spacemacs-config**](https://github.com/practicalli/spacemacs-config)|My configuration for spacemacs||
@@ -49,6 +50,7 @@
 |6|[@walkah](https://github.com/walkah)/[**emacs.d**](https://github.com/walkah/emacs.d)|my emacs configs|[:arrow_upper_right:](http://walkah.net/)|
 |6|[@yrashk](https://github.com/yrashk)/[**emacsd**](https://github.com/yrashk/emacsd)|my .emacs.d||
 |5|[@aspiers](https://github.com/aspiers)/[**vc-osc**](https://github.com/aspiers/vc-osc)|osc backend for emacs vc mode||
+|4|[@aspiers](https://github.com/aspiers)/[**emacs**](https://github.com/aspiers/emacs)|Adam's emacs config||
 |4|[@aspiers](https://github.com/aspiers)/[**orgmode**](https://github.com/aspiers/orgmode)|personal repository for patches to orgmode upstream|[:arrow_upper_right:](http://orgmode.org/)|
 |4|[@aycanirican](https://github.com/aycanirican)/[**.emacs.d**](https://github.com/aycanirican/.emacs.d)|My emacs setup||
 |4|[@j0ni](https://github.com/j0ni)/[**emacs.d**](https://github.com/j0ni/emacs.d)|My emacs configuration||
@@ -60,6 +62,7 @@
 |3|[@BusFactor1Inc](https://github.com/BusFactor1Inc)/[**ELPE**](https://github.com/BusFactor1Inc/ELPE)|The "Emacs Lisp Programming Environment (ELPE)" for macOS sources.||
 |3|[@arichiardi](https://github.com/arichiardi)/[**figwheel-main-cider**](https://github.com/arichiardi/figwheel-main-cider)|||
 |3|[@aycanirican](https://github.com/aycanirican)/[**haskell-intro**](https://github.com/aycanirican/haskell-intro)|Practical Reproducable Haskell Development Environment||
+|3|[@chasinglogic](https://github.com/chasinglogic)/[**dotfiles**](https://github.com/chasinglogic/dotfiles)|My dotfile configuration||
 |3|[@inaimathi](https://github.com/inaimathi)/[**machine-setup**](https://github.com/inaimathi/machine-setup)|Installation scripts to make it easier for me to set up new development machines||
 |3|[@nithinbekal](https://github.com/nithinbekal)/[**dotfiles**](https://github.com/nithinbekal/dotfiles)|Config files for vim, zsh, tmux etc.||
 |3|[@travisjeffery](https://github.com/travisjeffery)/[**.emacs.d**](https://github.com/travisjeffery/.emacs.d)|@travisjeffery's emacs config|[:arrow_upper_right:](http://twitter.com/travisjeffery)|

@@ -40,6 +40,7 @@
 |5|[@northox](https://github.com/northox)/[**rump-npfer**](https://github.com/northox/rump-npfer)|A Rumprun firewall unikernel for Qubes OS (c)||
 |4|[@aminb](https://github.com/aminb)/[**dotfiles**](https://github.com/aminb/dotfiles)|[OUTDATED] repository now located at https://git.sr.ht/~bandali/dotfiles||
 |4|[@atgreen](https://github.com/atgreen)/[**howto-change-container-yum-source**](https://github.com/atgreen/howto-change-container-yum-source)|Example of how to set up yum in a container to source content from a Satellite CV other than the container hosts'||
+|4|[@bbidulock](https://github.com/bbidulock)/[**icewm-extra-themes**](https://github.com/bbidulock/icewm-extra-themes)|Extra themes for IceWM (too large to include in IceWM distribution).||
 |4|[@benhylau](https://github.com/benhylau)/[**mesh-router-builder**](https://github.com/benhylau/mesh-router-builder)|Build mesh router .deb packages and Debian-based system images for armhf and amd64 using a Vagrant machine||
 |4|[@gwihlidal](https://github.com/gwihlidal)/[**docker-protoc**](https://github.com/gwihlidal/docker-protoc)|Docker image with protobuf compiler and various language plugins||
 |4|[@karnauskas](https://github.com/karnauskas)/[**openwrt-mdns-repeater**](https://github.com/karnauskas/openwrt-mdns-repeater)|mdns-repeater build for OpenWrt||
@@ -52,7 +53,6 @@
 |3|[@anarsoul](https://github.com/anarsoul)/[**rtl8723bt-firmware**](https://github.com/anarsoul/rtl8723bt-firmware)|Firmware for rtl8723bs and rtl8723cs||
 |3|[@arteymix](https://github.com/arteymix)/[**kohana-makefile**](https://github.com/arteymix/kohana-makefile)|Automate common boring tasks related to the Kohana framework||
 |3|[@bbc](https://github.com/bbc)/[**alpha**](https://github.com/bbc/alpha)|The alpha.bbc platform||
-|3|[@bbidulock](https://github.com/bbidulock)/[**icewm-extra-themes**](https://github.com/bbidulock/icewm-extra-themes)|Extra themes for IceWM (too large to include in IceWM distribution).||
 |3|[@bbidulock](https://github.com/bbidulock)/[**xde-helpers**](https://github.com/bbidulock/xde-helpers)|Helper .desktop files for XDE||
 |3|[@cjcliffe](https://github.com/cjcliffe)/[**CubicSDR-flatpak**](https://github.com/cjcliffe/CubicSDR-flatpak)|Flatpak build scripts for CubicSDR||
 |3|[@karnauskas](https://github.com/karnauskas)/[**openwrt-packages**](https://github.com/karnauskas/openwrt-packages)|||
